@@ -1,0 +1,95 @@
+#!/usr/bin/env Rscript
+#library_path="/mount/projekte/slu/Projects/glori/bin/R"
+#install.packages("ggplot2", lib=library_path, repos="http://cran.rstudio.com/")
+#library("ggplot2", lib.loc=library_path)
+
+library(data.table)
+
+args = commandArgs(trailingOnly=TRUE)
+
+# statistics only for predicted answer
+eval_file = args[1]
+
+eval_df <- read.csv2(eval_file, sep = ';', header = T, dec='.')
+
+sum_model_info <- function(df) {
+	print("dropped_info")
+	print(xtabs(formula=df$dropped_info~df$model, data=df))
+	print("added_info")
+	print(xtabs(formula=df$added_info~df$model, data=df))
+	print("modified_info")
+	print(xtabs(formula=df$modified_info~df$model, data=df))
+	print("repeated_info")
+	print(xtabs(formula=df$repeated_info~df$model, data=df))
+	print("punctuation_errors")
+	print(xtabs(formula=df$punctuation_errors~df$model, data=df))
+	print("grammatical_errors")
+	print(xtabs(formula=df$grammatical_errors~df$model, data=df))
+	print("spelling_mistakes")
+	print(xtabs(formula=df$spelling_mistakes~df$model, data=df))
+	print("non_words")
+	print(xtabs(formula=df$non_words~df$model, data=df))
+	print("content_correct")
+	print(xtabs(formula=df$content_correct~df$model, data=df))
+	print("language_correct")
+	print(xtabs(formula=df$language_correct~df$model, data=df))
+	print("all_correct")
+	print(xtabs(formula=df$all_correct~df$model, data=df))
+}
+
+sum_length_info <- function(df) {
+	print("dropped_info")
+	print(xtabs(formula=df$dropped_info~df$length, data=df))
+	print("added_info")
+	print(xtabs(formula=df$added_info~df$length, data=df))
+	print("modified_info")
+	print(xtabs(formula=df$modified_info~df$length, data=df))
+	print("repeated_info")
+	print(xtabs(formula=df$repeated_info~df$length, data=df))
+	print("punctuation_errors")
+	print(xtabs(formula=df$punctuation_errors~df$length, data=df))
+	print("grammatical_errors")
+	print(xtabs(formula=df$grammatical_errors~df$length, data=df))
+	print("spelling_mistakes")
+	print(xtabs(formula=df$spelling_mistakes~df$length, data=df))
+	print("non_words")
+	print(xtabs(formula=df$non_words~df$length, data=df))
+	print("content_correct")
+	print(xtabs(formula=df$content_correct~df$length, data=df))
+	print("language_correct")
+	print(xtabs(formula=df$language_correct~df$length, data=df))
+	print("all_correct")
+	print(xtabs(formula=df$all_correct~df$length, data=df))
+}
+
+sum_model_length_info <- function(df) {
+	print("dropped_info")
+	print(xtabs(formula=df$dropped_info~df$model + df$length, data=df))
+	print("added_info")
+	print(xtabs(formula=df$added_info~df$model + df$length, data=df))
+	print("modified_info")
+	print(xtabs(formula=df$modified_info~df$model + df$length, data=df))
+	print("repeated_info")
+	print(xtabs(formula=df$repeated_info~df$model + df$length, data=df))
+	print("punctuation_errors")
+	print(xtabs(formula=df$punctuation_errors~df$model + df$length, data=df))
+	print("grammatical_errors")
+	print(xtabs(formula=df$grammatical_errors~df$model + df$length, data=df))
+	print("spelling_mistakes")
+	print(xtabs(formula=df$spelling_mistakes~df$model + df$length, data=df))
+	print("non_words")
+	print(xtabs(formula=df$non_words~df$model + df$length, data=df))
+	print("content_correct")
+	print(xtabs(formula=df$content_correct~df$model + df$length, data=df))
+	print("language_correct")
+	print(xtabs(formula=df$language_correct~df$model + df$length, data=df))
+	print("all_correct")
+	print(xtabs(formula=df$all_correct~df$model + df$length, data=df))
+}
+
+print("### char - word results")
+sum_model_info(eval_df)
+print("### input length results for char + word")
+sum_length_info(eval_df)
+print("### input length results")
+sum_model_length_info(eval_df)
