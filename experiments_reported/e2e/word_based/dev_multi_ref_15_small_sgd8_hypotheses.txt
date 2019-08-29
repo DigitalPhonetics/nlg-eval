@@ -1,0 +1,547 @@
+located in the city centre , NAME-X is not family-friendly .
+NAME-X is located in the city centre near NEAR-X . it is not family-friendly .
+NAME-X is a family friendly restaurant in the city centre .
+NAME-X is a family friendly restaurant near NEAR-X in the city centre .
+NAME-X in riverside is not family-friendly .
+NAME-X is located in riverside near NEAR-X . it is not family-friendly .
+NAME-X is a family friendly restaurant in riverside .
+NAME-X is a family friendly restaurant near NEAR-X in riverside .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . its customer rating is average .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . its customer rating is average .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . its customer rating is average .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . its customer rating is average .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . its customer rating is high .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . its customer rating is low .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . its customer rating is low .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . its customer rating is low .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . its customer rating is low .
+NAME-X is an english coffee shop in the riverside area . it is kid friendly and has a customer rating of 1 out of 5 .
+NAME-X is an english coffee shop in the riverside area . it is kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is an english coffee shop in the city centre . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is an english coffee shop in the city centre . it is family friendly and has a customer rating of 5 out of 5 .
+NAME-X is an english coffee shop in the riverside area . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is an english coffee shop in the riverside area . it is family friendly and has a customer rating of 5 out of 5 .
+NAME-X is an english coffee shop in the city centre . it is not family-friendly and has an average customer rating .
+NAME-X is a family friendly coffee shop in the city centre . it serves english food and has an average customer rating .
+NAME-X is an english coffee shop in the riverside area . it is not family-friendly and has an average customer rating .
+NAME-X is a family friendly coffee shop in the riverside area . it serves english food and has an average customer rating .
+NAME-X is an english coffee shop in the riverside area . it is child friendly and has a high customer rating .
+NAME-X is an english coffee shop in the city centre . it is not family-friendly and has a low customer rating .
+NAME-X is an english coffee shop in the city centre . it is family friendly and has a low customer rating .
+NAME-X is an english coffee shop in the riverside area . it is not family-friendly and has a low customer rating .
+NAME-X is an english coffee shop in the riverside area . it is family friendly and has a low customer rating .
+NAME-X is located in the city centre near NEAR-X .
+NAME-X is located in riverside near NEAR-X .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . it is near NEAR-X . its customer rating is low .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . it is near NEAR-X . its customer rating is low .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X . its customer rating is low .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X . its customer rating is low .
+NAME-X is a family friendly coffee shop in the riverside area near NEAR-X . it serves english food and has a customer rating of 1 out of 5 .
+NAME-X is an english coffee shop near NEAR-X in the riverside area . it is kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is an english coffee shop near NEAR-X in the city centre . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is a family friendly coffee shop near NEAR-X in the city centre . it serves english food and has a customer rating of 5 out of 5 .
+NAME-X is an english coffee shop near NEAR-X in the riverside area . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is a family friendly coffee shop serving english food in the riverside area near NEAR-X . it has a customer rating of 5 out of 5 .
+NAME-X is an english coffee shop near NEAR-X in the city centre . it is not family-friendly and has an average customer rating .
+NAME-X is a family friendly coffee shop near NEAR-X in the city centre . it serves english food and has an average customer rating .
+NAME-X is an english coffee shop near NEAR-X in the riverside area . it is not family-friendly and has an average customer rating .
+NAME-X is a family friendly coffee shop near NEAR-X in the riverside area . it serves english food and has an average customer rating .
+NAME-X is an english coffee shop near NEAR-X in the riverside area . it is child friendly and has a high customer rating .
+NAME-X is an english coffee shop near NEAR-X in the city centre . it is not family-friendly and has a low customer rating .
+NAME-X is a family friendly coffee shop near NEAR-X in the city centre . it serves english food and has a low customer rating .
+NAME-X is an english coffee shop near NEAR-X in the riverside area . it is not family-friendly and has a low customer rating .
+NAME-X is an english coffee shop near NEAR-X in the riverside area . it is family friendly and has a low customer rating .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . it is near NEAR-X . its customer rating is low .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X . its customer rating is low .
+NAME-X is a coffee shop serving english food in the riverside area near NEAR-X . it has a customer rating of 1 out of 5 .
+NAME-X is a coffee shop serving english food in the riverside area near NEAR-X . it has a customer rating of 3 out of 5 .
+NAME-X is an english coffee shop near NEAR-X in the city centre . it has a customer rating of 5 out of 5 .
+NAME-X is an english coffee shop near NEAR-X in the riverside area . it has a customer rating of 5 out of 5 .
+NAME-X is an english coffee shop located in the city centre near NEAR-X . it has an average customer rating .
+NAME-X is a coffee shop serving english food in the riverside area near NEAR-X . it has an average customer rating .
+NAME-X is an english coffee shop near NEAR-X in the riverside area . it has a high customer rating .
+NAME-X is an english coffee shop near NEAR-X in the city centre . it has a low customer rating .
+NAME-X is a coffee shop serving english food in the riverside area near NEAR-X . it has a low customer rating .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the cheap price range . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the cheap price range . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the moderate price range . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . its customer rating is high .
+NAME-X is an english coffee shop with a high customer rating . it is not kid friendly and has a price range of £20-25 .
+NAME-X is an english coffee shop with a high customer rating . it is kid friendly and has a price range of £20-25 .
+NAME-X is a cheap italian coffee shop with a customer rating of 5 out of 5 . it is not family-friendly .
+NAME-X is a family friendly , cheap , five star coffee shop .
+NAME-X is a cheap italian coffee shop with an average customer rating . it is not family-friendly .
+NAME-X is a cheap , family friendly , english coffee shop with an average customer rating .
+NAME-X is a coffee shop providing english food in the high price range . it is not child friendly and has a customer rating of 1 out of 5 .
+NAME-X is a child friendly , high priced , english coffee shop with a customer rating of 1 out of 5 .
+NAME-X is a coffee shop providing english food in the high price range . it is not child friendly and has an average customer rating .
+NAME-X is a child friendly coffee shop serving english food with a high price range and an average customer rating .
+NAME-X is a coffee shop that serves english food for less than £20 . it is not family-friendly and has a low customer rating .
+NAME-X is a family friendly coffee shop that serves english food for less than £20 . it has a low customer rating .
+NAME-X is an english coffee shop with a moderate price range . it is not kid friendly and has a customer rating of 1 out of 5 .
+NAME-X is a kid friendly , moderately priced , english coffee shop with a customer rating of 1 out of 5 .
+NAME-X is an english coffee shop with a moderate price range . it is not kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a moderately priced , kid friendly , english coffee shop with a customer rating of 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is located in the city centre . it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is located in the riverside . it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the city centre . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the riverside . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the city centre . it is near NEAR-X . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the riverside . it is near NEAR-X . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is located in the city centre . it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is located in the riverside . it is near NEAR-X . its customer rating is high .
+NAME-X is an english coffee shop near NEAR-X in the city centre . it has a high customer rating and a price range of £20-25 .
+NAME-X is an english coffee shop in the riverside area near NEAR-X . it has a high customer rating and a price range of £20-25 .
+NAME-X is a cheap , five star coffee shop near NEAR-X in the city centre .
+NAME-X is a cheap , five star coffee shop near NEAR-X .
+NAME-X is an english coffee shop in the city centre near NEAR-X . it has a cheap price range and an average customer rating .
+NAME-X is a cheap , three star coffee shop located near NEAR-X .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the city centre near NEAR-X . it has a customer rating of 1 out of 5 .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the riverside area near NEAR-X .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the city centre near NEAR-X . it has an average customer rating .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the riverside area near NEAR-X . it has an average customer rating .
+NAME-X is an english coffee shop near NEAR-X in the city centre . it has a low customer rating and a price range of less than £20 .
+NAME-X is an english coffee shop in the riverside area near NEAR-X . it has a low customer rating and a price range of less than £20 .
+NAME-X is an english coffee shop near NEAR-X in the city centre . it has a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is an english coffee shop near NEAR-X in the riverside area with a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is an english coffee shop near NEAR-X in the city centre . it has a moderate price range and a customer rating of 3 out of 5 .
+NAME-X is an english coffee shop near NEAR-X in the riverside area with a moderate price range and a customer rating of 3 out of 5 .
+NAME-X is a coffee shop serving english food in the city centre near NEAR-X . it has a high customer rating and a price range of more than £30 .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is located in the city centre . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is located in the city centre . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is located in the riverside . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is located in the riverside . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the city centre . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the city centre . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the riverside . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the riverside . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the city centre . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the city centre . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the riverside . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the riverside . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the city centre . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the city centre . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the riverside . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the riverside . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the city centre . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the city centre . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the riverside . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the riverside . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the city centre . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the city centre . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the riverside . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the riverside . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the riverside . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the riverside . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the riverside . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the riverside . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is located in the city centre . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is located in the city centre . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is located in the riverside . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is located in the riverside . its customer rating is high .
+NAME-X is an english coffee shop in the city centre . it is not kid friendly and has a high customer rating . the price range is £20-25 .
+NAME-X is an english coffee shop in the city centre . it is kid friendly and has a high customer rating . the price range is £20-25 .
+NAME-X is a coffee shop in the riverside area that serves english food with a price range of £20-25 . it has a high customer rating and is not kid friendly .
+NAME-X is an english coffee shop in the riverside area . it is kid friendly and has a high customer rating . the price range is £20-25 .
+NAME-X is an english coffee shop in the city centre . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is a cheap , family friendly coffee shop in the city centre .
+NAME-X is a cheap italian coffee shop in the riverside area . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is a cheap , family friendly coffee shop in the riverside area .
+NAME-X is a cheap coffee shop in the city centre that serves english food . it has an average customer rating and is not family-friendly .
+NAME-X is a cheap , family friendly coffee shop in the city centre .
+NAME-X is a cheap italian coffee shop in the riverside area . it is not family-friendly and has an average customer rating .
+NAME-X is a cheap , family friendly coffee shop in the riverside area .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the city centre . it is not child friendly and has a customer rating of 1 out of 5 .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the city centre .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the riverside area and is not child friendly .
+NAME-X is a coffee shop with a high price range and a customer rating of 1 out of 5 .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the city centre . it is not child friendly and has an average customer rating .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the city centre .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the riverside area and has an average customer rating .
+NAME-X is a coffee shop in the riverside area that serves english food . it has a high price range and an average customer rating .
+NAME-X is a coffee shop in the city centre that serves english food for less than £20 . it has a low customer rating and is not family-friendly .
+NAME-X is a family-friendly coffee shop in the city centre that serves english food for less than £20 . it has a low customer rating .
+NAME-X is a coffee shop in the riverside area that serves english food for less than £20 . it has a low customer rating and is not family-friendly .
+NAME-X is an english coffee shop in the riverside area . it is family friendly and has a low customer rating .
+NAME-X is an english coffee shop in the city centre . it is not kid friendly and has a customer rating of 1 out of 5 .
+NAME-X is an english coffee shop in the city centre . it is kid friendly and has a customer rating of 1 out of 5 .
+NAME-X is an english coffee shop in the riverside area . it has a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is a kid friendly , moderately priced , english coffee shop in the riverside area with a customer rating of 1 out of 5 .
+NAME-X is an english coffee shop in the city centre . it is not kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is an english coffee shop in the city centre . it is kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is an english coffee shop in the riverside area . it is not kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is an english coffee shop in the riverside area . it is kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is an english coffee shop in the city centre . it is not child friendly and has a high customer rating . the price range is more than £30 .
+NAME-X is a child friendly coffee shop in the city centre that serves english food with a price range of more than £30 and has a high customer rating .
+NAME-X is an english coffee shop in the riverside area . it is not child friendly and has a high customer rating . the price range is more than £30 .
+NAME-X is located near NEAR-X .
+NAME-X is located near NEAR-X .
+NAME-X is located near NEAR-X .
+NAME-X is located near NEAR-X .
+NAME-X is a highly rated restaurant near NEAR-X .
+NAME-X is located near NEAR-X .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food it is located in the city centre . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food it is located in the riverside . it is near NEAR-X .
+NAME-X is an english coffee shop located in the city centre near NEAR-X . it is not family-friendly .
+NAME-X is a family friendly coffee shop located near NEAR-X in the city centre .
+NAME-X is an english coffee shop near NEAR-X in riverside . it is not family-friendly .
+NAME-X is a family friendly coffee shop serving english food in the riverside area near NEAR-X .
+NAME-X is a family friendly coffee shop near NEAR-X in the riverside area . it has a customer rating of 1 out of 5 .
+NAME-X is a kid friendly coffee shop near NEAR-X in the riverside area . it has a customer rating of 3 out of 5 .
+NAME-X is a coffee shop near NEAR-X in the city centre . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is a family friendly coffee shop near NEAR-X in the city centre . it has a customer rating of 5 out of 5 .
+NAME-X is a coffee shop near NEAR-X in the riverside area . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is a family friendly coffee shop near NEAR-X in the riverside area . it has a customer rating of 5 out of 5 .
+NAME-X is a coffee shop near NEAR-X in the city centre . it is not family-friendly and has an average customer rating .
+NAME-X is a family friendly coffee shop near NEAR-X in the city centre . it has an average customer rating .
+NAME-X is a coffee shop near NEAR-X in the riverside area . it is not family-friendly and has an average customer rating .
+NAME-X is a family friendly coffee shop near NEAR-X in the riverside area . it has an average customer rating .
+NAME-X is a child friendly coffee shop near NEAR-X in the riverside area . it has a high customer rating .
+NAME-X is a coffee shop near NEAR-X in the city centre . it is not family-friendly and has a low customer rating .
+NAME-X is a family friendly coffee shop near NEAR-X in the city centre . it has a low customer rating .
+NAME-X is a coffee shop near NEAR-X in the riverside area . it is not family-friendly and has a low customer rating .
+NAME-X is a family friendly coffee shop near NEAR-X in the riverside area .
+NAME-X is a coffee shop providing chinese food it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food it is near NEAR-X . its customer rating is low .
+NAME-X is a coffee shop providing chinese food it is near NEAR-X . its customer rating is low .
+NAME-X is an english coffee shop near NEAR-X . it is kid friendly and has a customer rating of 1 out of 5 .
+NAME-X is an english coffee shop near NEAR-X . it is kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is an english coffee shop near NEAR-X . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is an english coffee shop near NEAR-X . it is family friendly and has a customer rating of 5 out of 5 .
+NAME-X is an english coffee shop near NEAR-X . it is not family-friendly and has an average customer rating .
+NAME-X is a family friendly coffee shop located near NEAR-X .
+NAME-X is a highly rated , family friendly coffee shop near NEAR-X .
+NAME-X is an english coffee shop near NEAR-X . it is not family-friendly and has a low customer rating .
+NAME-X is a family friendly coffee shop located near NEAR-X .
+NAME-X is a family friendly restaurant near NEAR-X in the riverside area . it has a customer rating of 1 out of 5 .
+NAME-X is a kid friendly restaurant in the riverside area near NEAR-X . it has a customer rating of 3 out of 5 .
+NAME-X is located in the city centre near NEAR-X . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is a family friendly restaurant near NEAR-X in the city centre . it has a customer rating of 5 out of 5 .
+NAME-X is located in riverside near NEAR-X . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is a family friendly restaurant in the riverside area near NEAR-X .
+NAME-X is located in the city centre near NEAR-X . it is not family-friendly and has an average customer rating .
+NAME-X is located in the city centre near NEAR-X . it is family friendly and has an average customer rating .
+NAME-X is located in riverside near NEAR-X . it is not family-friendly and has an average customer rating .
+NAME-X is a family friendly restaurant in the riverside area near NEAR-X .
+NAME-X is a child friendly restaurant in the riverside area near NEAR-X . it has a high customer rating .
+NAME-X is located in the city centre near NEAR-X . it is not family-friendly and has a low customer rating .
+NAME-X is a family friendly restaurant near NEAR-X in the city centre . it has a low customer rating .
+NAME-X is located in riverside near NEAR-X . it is not family-friendly and has a low customer rating .
+NAME-X is a family friendly restaurant near NEAR-X in the riverside area .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is located in the city centre . it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is located in the city centre . it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is located in the riverside . it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is located in the riverside . it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the city centre . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the city centre . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the riverside . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the riverside . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the city centre . it is near NEAR-X . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the city centre . it is near NEAR-X . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the riverside . it is near NEAR-X . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the riverside . it is near NEAR-X . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is located in the city centre . it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is located in the city centre . it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is located in the riverside . it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is located in the riverside . it is near NEAR-X . its customer rating is high .
+NAME-X is an english coffee shop near NEAR-X in the city centre . it is not kid friendly and has a high customer rating . the price range is £20-25 .
+NAME-X is a coffee shop near NEAR-X in the city centre . it serves english food and is kid friendly . it has a high customer rating and a price range of £20-25 .
+NAME-X is a coffee shop providing english food in the £20-25 price range . it is located in the riverside area near NEAR-X .
+NAME-X is a coffee shop serving english food in the riverside area near NEAR-X . it has a high customer rating and a price range of £20-25 .
+NAME-X is a cheap coffee shop located in the city centre near NEAR-X . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is a cheap , family friendly coffee shop near NEAR-X in the city centre .
+NAME-X is an english coffee shop near NEAR-X in the riverside area . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is a cheap , family friendly coffee shop located near NEAR-X .
+NAME-X is an english coffee shop located in the city centre near NEAR-X . it is not family-friendly and has an average customer rating .
+NAME-X is a cheap , family friendly coffee shop near NEAR-X in the city centre .
+NAME-X is a cheap coffee shop that serves english food . it is located in the riverside area near NEAR-X .
+NAME-X is a cheap , family friendly coffee shop located near NEAR-X .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the city centre near NEAR-X .
+NAME-X is a coffee shop located in the city centre near NEAR-X . it has a high price range and a customer rating of 1 out of 5 .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the riverside area near NEAR-X .
+NAME-X is a coffee shop with a high price range and a customer rating of 1 out of 5 . it is located near NEAR-X .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the city centre near NEAR-X .
+NAME-X is a coffee shop that serves english food in the high price range . it is located in the city centre near NEAR-X .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the riverside area near NEAR-X .
+NAME-X is a coffee shop that serves english food in the high price range . it is located in the riverside area near NEAR-X .
+NAME-X is an english coffee shop near NEAR-X in the city centre . it is not family-friendly and has a low customer rating . the price range is less than £20 .
+NAME-X is a family friendly coffee shop near NEAR-X in the city centre . it serves english food for less than £20 and has a low customer rating .
+NAME-X is an english coffee shop located in the riverside area near NEAR-X . it has a low customer rating and is not family-friendly .
+NAME-X is a family friendly coffee shop with a price range of less than £20 . it is located near NEAR-X .
+NAME-X is a coffee shop providing english food in the moderate price range . it is located in the city centre near NEAR-X .
+NAME-X is a coffee shop located in the city centre near NEAR-X . it has a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is an english coffee shop in the riverside area near NEAR-X . it has a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is a kid friendly , moderately priced , english coffee shop near NEAR-X in the riverside area with a customer rating of 1 out of 5 .
+NAME-X is a coffee shop providing english food in the moderate price range . it is located in the city centre near NEAR-X .
+NAME-X is a coffee shop located in the city centre near NEAR-X . it has a moderate price range and a customer rating of 3 out of 5 .
+NAME-X is an english coffee shop near NEAR-X in the riverside area . it is not kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a kid friendly , moderately priced , english coffee shop near NEAR-X in the riverside area with a customer rating of 3 out of 5 .
+NAME-X is a coffee shop near NEAR-X in the city centre . it serves english food and has a high customer rating . it is not child friendly and has a price range of more than £30 .
+NAME-X is a child friendly coffee shop located in the city centre near NEAR-X . it serves english food and has a high customer rating . the price range is more than £30 .
+NAME-X is a coffee shop serving english food in the riverside area near NEAR-X . it is not child friendly and has a high customer rating . the price range is more than £30 .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is located in the city centre . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is located in the riverside . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the city centre . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the riverside . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the city centre . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the riverside . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the city centre . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the riverside . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the city centre . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the riverside . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the city centre . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the riverside . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the riverside . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the riverside . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is located in the city centre . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is located in the riverside . its customer rating is high .
+NAME-X is an english coffee shop in the city centre . it has a high customer rating and a price range of £20-25 .
+NAME-X is an english coffee shop in the riverside area with a price range of £20-25 and a high customer rating .
+NAME-X is a cheap , five star coffee shop in the city centre .
+NAME-X is a cheap , five star coffee shop .
+NAME-X is a cheap italian coffee shop in the city centre . it has an average customer rating .
+NAME-X is a cheap italian coffee shop in the riverside area with an average customer rating .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the city centre and has a customer rating of 1 out of 5 .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the riverside area and has a customer rating of 1 out of 5 .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the city centre and has an average customer rating .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the riverside area and has an average customer rating .
+NAME-X is a coffee shop in the city centre that serves english food for less than £20 . it has a low customer rating .
+NAME-X is an english coffee shop in riverside with a low customer rating and a price range of less than £20 .
+NAME-X is an english coffee shop in the city centre with a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is an english coffee shop in riverside with a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is an english coffee shop in the city centre with a moderate price range and a customer rating of 3 out of 5 .
+NAME-X is an english coffee shop in riverside with a moderate price range and a customer rating of 3 out of 5 .
+NAME-X is an english coffee shop in the city centre . it has a high customer rating and a price range of more than £30 .
+NAME-X is a coffee shop in the riverside area that serves english food with a price range of more than £30 and has a high customer rating .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a coffee shop providing english food in the £20-25 price range . it is located in the riverside area near NEAR-X .
+NAME-X is a cheap , english coffee shop in riverside near NEAR-X .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the city centre near NEAR-X .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the riverside area near NEAR-X .
+NAME-X is a coffee shop providing english food in the less than £20 price range . it is located in the city centre near NEAR-X .
+NAME-X is a coffee shop near NEAR-X in the riverside area that serves english food for less than £20 .
+NAME-X is a coffee shop providing english food in the moderate price range . it is located in the city centre near NEAR-X .
+NAME-X is a coffee shop providing english food in the moderate price range . it is located in the riverside area near NEAR-X .
+NAME-X is a coffee shop providing english food in the more than £30 price range . it is located in the riverside area near NEAR-X .
+NAME-X in riverside has a customer rating of 1 out of 5 .
+NAME-X in riverside has a customer rating of 3 out of 5 .
+NAME-X is located in the city centre . it has a customer rating of 5 out of 5 .
+NAME-X in riverside has a 5 out of 5 customer rating .
+NAME-X is located in the city centre . it has an average customer rating .
+NAME-X in riverside has an average customer rating .
+NAME-X in riverside has a high customer rating .
+NAME-X is located in the city centre . it has a low customer rating .
+NAME-X in riverside has a low customer rating .
+NAME-X is a kid friendly restaurant in riverside with a customer rating of 1 out of 5 .
+NAME-X is a kid friendly restaurant in riverside with a customer rating of 3 out of 5 .
+NAME-X is located in the city centre . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is a family friendly restaurant in the city centre with a customer rating of 5 out of 5 .
+NAME-X has a customer rating of 5 out of 5 and is not family-friendly .
+NAME-X is a family friendly restaurant in riverside with a customer rating of 5 out of 5 .
+NAME-X is located in the city centre . it is not family-friendly and has an average customer rating .
+NAME-X is a family friendly restaurant in the city centre with an average customer rating .
+NAME-X in riverside is not family-friendly and has an average customer rating .
+NAME-X is a family friendly restaurant in riverside with an average customer rating .
+NAME-X is a child friendly restaurant in riverside with a high customer rating .
+NAME-X is located in the city centre . it is not family-friendly and has a low customer rating .
+NAME-X is a family friendly restaurant in the city centre with a low customer rating .
+NAME-X has a low customer rating and is not family-friendly .
+NAME-X is a family friendly restaurant in riverside with a low customer rating .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is near NEAR-X . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is near NEAR-X . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is near NEAR-X . its customer rating is high .
+NAME-X is an english coffee shop near NEAR-X . it has a high customer rating and is not kid friendly .
+NAME-X is an english coffee shop near NEAR-X . it has a high customer rating and a price range of £20-25 .
+NAME-X is an english coffee shop near NEAR-X . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is a cheap , family friendly coffee shop near NEAR-X .
+NAME-X is a cheap italian coffee shop near NEAR-X . it is not family-friendly and has an average customer rating .
+NAME-X is a cheap , family friendly coffee shop near NEAR-X .
+NAME-X is a coffee shop providing english food in the high price range . it is located near NEAR-X .
+NAME-X is a coffee shop located near NEAR-X . it has a high price range and a customer rating of 1 out of 5 .
+NAME-X is a coffee shop providing english food in the high price range . it is located near NEAR-X .
+NAME-X is a coffee shop located near NEAR-X . it has a high price range and an average customer rating .
+NAME-X is an english coffee shop near NEAR-X . it has a low customer rating and is not family-friendly .
+NAME-X is a family friendly coffee shop near NEAR-X that serves english food for less than £20 . it has a low customer rating .
+NAME-X is an english coffee shop near NEAR-X . it has a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is a moderately priced , family friendly coffee shop near NEAR-X .
+NAME-X is an english coffee shop near NEAR-X with a moderate price range and a customer rating of 3 out of 5 .
+NAME-X is a kid friendly , moderately priced , english coffee shop near NEAR-X with a customer rating of 3 out of 5 .
+NAME-X is a family friendly restaurant with a customer rating of 1 out of 5 .
+NAME-X is a family friendly restaurant near NEAR-X .
+NAME-X is a kid friendly restaurant with a customer rating of 3 out of 5 .
+NAME-X is a kid friendly restaurant with a customer rating of 3 out of 5 . it is located near NEAR-X .
+NAME-X is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is located near NEAR-X . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is a family friendly restaurant with a customer rating of 5 out of 5 .
+NAME-X is a family friendly restaurant near NEAR-X .
+NAME-X is not family-friendly and has an average customer rating .
+NAME-X is located near NEAR-X . it is not family-friendly and has an average customer rating .
+NAME-X is a family friendly restaurant with an average customer rating .
+NAME-X is a family friendly restaurant near NEAR-X .
+NAME-X is a child friendly restaurant with a high customer rating .
+NAME-X is a child friendly restaurant near NEAR-X .
+NAME-X is not family-friendly and has a low customer rating .
+NAME-X is located near NEAR-X . it is not family-friendly and has a low customer rating .
+NAME-X is a family friendly restaurant with a low customer rating .
+NAME-X is a family friendly restaurant near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is an english coffee shop near NEAR-X in the riverside area . it is kid friendly and has a price range of £20-25 .
+NAME-X is a cheap , family friendly coffee shop located near NEAR-X .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the city centre near NEAR-X .
+NAME-X is a coffee shop serving english food in the high price range . it is located in the city centre near NEAR-X .
+NAME-X is a coffee shop providing english food in the high price range . it is located in the riverside area near NEAR-X .
+NAME-X is a children friendly coffee shop that serves english food in the high price range . it is located in the riverside area near NEAR-X .
+NAME-X is an english coffee shop near NEAR-X in the city centre . it is not family-friendly and has a price range of less than £20 .
+NAME-X is a family friendly coffee shop near NEAR-X in the city centre that serves english food for less than £20 .
+NAME-X is an english coffee shop near NEAR-X in the riverside area . it is not family-friendly and has a price range of less than £20 .
+NAME-X is a family friendly coffee shop near NEAR-X in the riverside area that serves english food for less than £20 .
+NAME-X is a coffee shop providing english food in the moderate price range . it is located in the city centre near NEAR-X .
+NAME-X is a kid friendly , moderately priced , english coffee shop located in the city centre near NEAR-X .
+NAME-X is a coffee shop providing english food in the moderate price range . it is located in the riverside area near NEAR-X .
+NAME-X is a kid friendly , moderately priced , english coffee shop in the riverside area near NEAR-X .
+NAME-X is a coffee shop providing english food in the more than £30 price range . it is located in the riverside area near NEAR-X .
+NAME-X is located in riverside near NEAR-X .
+NAME-X is located in riverside near NEAR-X . it has a customer rating of 3 out of 5 .
+NAME-X is located in the city centre near NEAR-X . it has a customer rating of 5 out of 5 .
+NAME-X is located in riverside near NEAR-X . it has a customer rating of 5 out of 5 .
+NAME-X is located in the city centre near NEAR-X . it has an average customer rating .
+NAME-X is located in riverside near NEAR-X . it has an average customer rating .
+NAME-X is a highly rated restaurant near NEAR-X in riverside .
+NAME-X is located in the city centre near NEAR-X . it has a low customer rating .
+NAME-X is located in riverside near NEAR-X . it has a low customer rating .
+NAME-X is a coffee shop providing chinese food in the £20-25 price range . it is near NEAR-X . its customer rating is high .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a coffee shop providing chinese food in the cheap price range . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the high price range . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the high price range . it is near NEAR-X . its customer rating is average .
+NAME-X is a coffee shop providing chinese food in the less than £20 price range . it is near NEAR-X . its customer rating is low .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a coffee shop providing chinese food in the moderate price range . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a coffee shop providing chinese food in the more than £30 price range . it is near NEAR-X . its customer rating is high .
+NAME-X is an english coffee shop near NEAR-X . it has a high customer rating and a price range of £20-25 .
+NAME-X is a cheap , five star coffee shop near NEAR-X .
+NAME-X is a cheap coffee shop located near NEAR-X .
+NAME-X is a coffee shop providing english food in the high price range . it is located near NEAR-X .
+NAME-X is an english coffee shop near NEAR-X . it has a high price range and an average customer rating .
+NAME-X is a low priced coffee shop located near NEAR-X .
+NAME-X is an english coffee shop near NEAR-X with a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is an english coffee shop near NEAR-X with a moderate price range and a customer rating of 3 out of 5 .

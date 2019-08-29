@@ -95,3 +95,6 @@ ENV/
 experiments/
 results/
 tests/
+
+# model files
+.pt

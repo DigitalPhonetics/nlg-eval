@@ -1,0 +1,630 @@
+NAME-X is a coffee shop in the city centre .
+NAME-X is a coffee shop in riverside .
+NAME-X is a coffee shop near NEAR-X with a customer rating of 5 out of 5 .
+NAME-X is a coffee shop near NEAR-X with an average customer rating .
+NAME-X is a coffee shop near NEAR-X with an average customer rating .
+NAME-X is a pub in the city centre .
+NAME-X is a pub in riverside .
+NAME-X is a pub near NEAR-X with a customer rating of 5 out of 5 .
+NAME-X is a pub near NEAR-X with an average customer rating .
+NAME-X is a pub near NEAR-X with an average customer rating .
+NAME-X is a pub providing chinese food it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing chinese food it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing chinese food it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing chinese food it is located in the riverside . it is near NEAR-X .
+NAME-X is an english pub near NEAR-X in the city centre . it is not family-friendly .
+NAME-X is a family-friendly english pub near NEAR-X in the city centre .
+NAME-X is an english pub near NEAR-X in riverside . it is not family-friendly .
+NAME-X is a family friendly english pub near NEAR-X in the riverside area .
+NAME-X is a restaurant providing chinese food it is located in the city centre . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food it is located in the city centre . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food it is located in the riverside . it is near NEAR-X .
+NAME-X is an english restaurant located in the city centre near NEAR-X . it is not family-friendly .
+NAME-X is a family-friendly english restaurant near NEAR-X in the city centre .
+NAME-X is an english restaurant in the riverside area near NEAR-X . it is not family-friendly .
+NAME-X is a family friendly restaurant located near NEAR-X .
+NAME-X is a coffee shop near NEAR-X with a customer rating of 3 out of 5 .
+NAME-X is a coffee shop near NEAR-X with a customer rating of 5 out of 5 .
+NAME-X is a coffee shop near NEAR-X .
+NAME-X is a pub near NEAR-X with a customer rating of 3 out of 5 .
+NAME-X is a pub near NEAR-X with a customer rating of 5 out of 5 .
+NAME-X is a pub near NEAR-X .
+NAME-X is a coffee shop near NEAR-X with a high customer rating .
+NAME-X is a coffee shop near NEAR-X with a high customer rating .
+NAME-X is a coffee shop near NEAR-X with a low customer rating .
+NAME-X is a coffee shop near NEAR-X with a low customer rating .
+NAME-X is a coffee shop near NEAR-X .
+NAME-X is a coffee shop near NEAR-X .
+NAME-X is a pub near NEAR-X with a high customer rating .
+NAME-X is a pub near NEAR-X with a high customer rating .
+NAME-X is a pub near NEAR-X with a low customer rating .
+NAME-X is a pub near NEAR-X with a low customer rating .
+NAME-X is a pub near NEAR-X .
+NAME-X is a pub near NEAR-X .
+NAME-X is a coffee shop near NEAR-X .
+NAME-X is a pub near NEAR-X .
+NAME-X is a coffee shop near NEAR-X .
+NAME-X is a coffee shop near NEAR-X .
+NAME-X is a family friendly english pub near NEAR-X in the riverside area .
+NAME-X is a fast food pub in the city centre near NEAR-X . it is not family-friendly .
+NAME-X is a family-friendly fast food pub near NEAR-X in the city centre .
+NAME-X is a fast food pub in riverside near NEAR-X . it is not family-friendly .
+NAME-X is a family friendly fast food pub near NEAR-X in the riverside area .
+NAME-X is a family friendly fast food pub near NEAR-X in the riverside area .
+NAME-X is a french pub in the city centre near NEAR-X . it is not family-friendly .
+NAME-X is a family-friendly french pub near NEAR-X in the city centre .
+NAME-X is a french pub in the riverside area near NEAR-X . it is not family-friendly .
+NAME-X is a family friendly pub located near NEAR-X .
+NAME-X is a pub near NEAR-X .
+NAME-X is a pub near NEAR-X .
+NAME-X is a family friendly restaurant located near NEAR-X .
+NAME-X is a fast food restaurant in the city centre near NEAR-X . it is not family-friendly .
+NAME-X is a family-friendly fast food restaurant in the city centre near NEAR-X .
+NAME-X is a fast food restaurant in the riverside area near NEAR-X . it is not family-friendly .
+NAME-X is a family friendly fast food restaurant in the riverside area near NEAR-X .
+NAME-X is a family friendly fast food restaurant in the riverside area near NEAR-X .
+NAME-X is a french restaurant located in the city centre near NEAR-X . it is not family-friendly .
+NAME-X is a family-friendly french restaurant near NEAR-X in the city centre .
+NAME-X is a french restaurant in the riverside area near NEAR-X . it is not family-friendly .
+NAME-X is a family friendly restaurant located near NEAR-X .
+NAME-X is a coffee shop near NEAR-X with a customer rating of 1 out of 5 .
+NAME-X is a coffee shop near NEAR-X with a customer rating of 3 out of 5 .
+NAME-X is a pub near NEAR-X with a customer rating of 1 out of 5 .
+NAME-X is a pub near NEAR-X with a customer rating of 3 out of 5 .
+NAME-X is a family friendly italian pub near NEAR-X in the riverside area .
+NAME-X is a family friendly italian pub near NEAR-X in the riverside area .
+NAME-X is a japanese pub in the city centre near NEAR-X . it is not family-friendly .
+NAME-X is a family-friendly japanese pub near NEAR-X in the city centre .
+NAME-X is a japanese pub in riverside near NEAR-X . it is not family-friendly .
+NAME-X is a family friendly japanese pub near NEAR-X in the riverside area .
+NAME-X is a family friendly restaurant located near NEAR-X .
+NAME-X is a family friendly restaurant located near NEAR-X .
+NAME-X is a japanese restaurant located in the city centre near NEAR-X . it is not family-friendly .
+NAME-X is a family-friendly japanese restaurant near NEAR-X in the city centre .
+NAME-X is a japanese restaurant in the riverside area near NEAR-X . it is not family-friendly .
+NAME-X is a family friendly japanese restaurant near NEAR-X in the riverside area .
+NAME-X is a coffee shop in riverside .
+NAME-X is a pub in riverside .
+NAME-X is a coffee shop in the city centre .
+NAME-X is a coffee shop near NEAR-X with a customer rating of 1 out of 5 .
+NAME-X is a coffee shop near NEAR-X with a customer rating of 1 out of 5 .
+NAME-X is a coffee shop near NEAR-X with a low customer rating .
+NAME-X is a pub in the city centre .
+NAME-X is a pub near NEAR-X with a customer rating of 1 out of 5 .
+NAME-X is a pub near NEAR-X with a customer rating of 1 out of 5 .
+NAME-X is a pub near NEAR-X with a low customer rating .
+NAME-X is a coffee shop near NEAR-X .
+NAME-X is a kid friendly coffee shop near NEAR-X with a customer rating of 3 out of 5 .
+NAME-X is a kid friendly coffee shop near NEAR-X with a customer rating of 3 out of 5 .
+NAME-X is a coffee shop near NEAR-X .
+NAME-X is a family friendly coffee shop near NEAR-X .
+NAME-X is a coffee shop near NEAR-X .
+NAME-X is a coffee shop near NEAR-X .
+NAME-X is a coffee shop near NEAR-X .
+NAME-X is a child friendly coffee shop near NEAR-X with a high customer rating .
+NAME-X is a child friendly coffee shop near NEAR-X with a high customer rating .
+NAME-X is a coffee shop near NEAR-X . it is not family-friendly and has a low customer rating .
+NAME-X is a coffee shop near NEAR-X . it is not family-friendly and has a low customer rating .
+NAME-X is a family friendly coffee shop near NEAR-X . it has a low customer rating .
+NAME-X is a kid friendly restaurant near NEAR-X with a customer rating of 1 out of 5 .
+NAME-X is a kid friendly restaurant near NEAR-X with a customer rating of 3 out of 5 .
+NAME-X is a kid friendly restaurant near NEAR-X with a customer rating of 3 out of 5 .
+NAME-X is a restaurant located near NEAR-X .
+NAME-X is a family friendly restaurant located near NEAR-X .
+NAME-X is a restaurant located near NEAR-X .
+NAME-X is a restaurant located near NEAR-X .
+NAME-X is a family friendly restaurant near NEAR-X with an average customer rating .
+NAME-X is a child friendly restaurant near NEAR-X with a high customer rating .
+NAME-X is a child friendly restaurant near NEAR-X with a high customer rating .
+NAME-X is a restaurant located near NEAR-X .
+NAME-X is a restaurant located near NEAR-X .
+NAME-X is a family friendly restaurant located near NEAR-X .
+NAME-X is a restaurant providing chinese food in the £20-25 price range . it is located in the city centre . it is near NEAR-X . its customer rating is high .
+NAME-X is a restaurant providing chinese food in the £20-25 price range . it is located in the city centre . it is near NEAR-X . its customer rating is high .
+NAME-X is a restaurant providing chinese food in the £20-25 price range . it is located in the riverside . it is near NEAR-X . its customer rating is high .
+NAME-X is a restaurant providing chinese food in the £20-25 price range . it is located in the riverside . it is near NEAR-X . its customer rating is high .
+NAME-X is a restaurant providing chinese food in the cheap price range . it is located in the city centre . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a restaurant providing chinese food in the cheap price range . it is located in the city centre . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a restaurant providing chinese food in the cheap price range . it is located in the riverside . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a restaurant providing chinese food in the cheap price range . it is located in the riverside . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a restaurant providing chinese food in the cheap price range . it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a restaurant providing chinese food in the cheap price range . it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a restaurant providing chinese food in the cheap price range . it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a restaurant providing chinese food in the cheap price range . it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a restaurant providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a restaurant providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a restaurant providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a restaurant providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a restaurant providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a restaurant providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a restaurant providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a restaurant providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a restaurant providing chinese food in the less than £20 price range . it is located in the city centre . it is near NEAR-X . its customer rating is low .
+NAME-X is a restaurant providing chinese food in the less than £20 price range . it is located in the city centre . it is near NEAR-X . its customer rating is low .
+NAME-X is a restaurant providing chinese food in the less than £20 price range . it is located in the riverside . it is near NEAR-X . its customer rating is low .
+NAME-X is a restaurant providing chinese food in the less than £20 price range . it is located in the riverside . it is near NEAR-X . its customer rating is low .
+NAME-X is a restaurant providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a restaurant providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a restaurant providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a restaurant providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a restaurant providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a restaurant providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a restaurant providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a restaurant providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a restaurant providing chinese food in the more than £30 price range . it is located in the city centre . it is near NEAR-X . its customer rating is high .
+NAME-X is a restaurant providing chinese food in the more than £30 price range . it is located in the city centre . it is near NEAR-X . its customer rating is high .
+NAME-X is a restaurant providing chinese food in the more than £30 price range . it is located in the riverside . it is near NEAR-X . its customer rating is high .
+NAME-X is a restaurant providing chinese food in the more than £30 price range . it is located in the riverside . it is near NEAR-X . its customer rating is high .
+NAME-X is a restaurant providing english food in the £20-25 price range . it is located in the city centre near NEAR-X . it has a high customer rating and is not kid friendly .
+NAME-X is a restaurant providing english food in the £20-25 price range . it is located in the city centre near NEAR-X . it is child friendly and has a high customer rating .
+NAME-X is an english restaurant near NEAR-X in the riverside area . it has a high customer rating and is not kid friendly .
+NAME-X is an english restaurant near NEAR-X in the riverside area . it is kid friendly and has a high customer rating .
+NAME-X is a cheap restaurant located in the city centre near NEAR-X . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is a cheap restaurant located in the city centre near NEAR-X . it is family friendly and has a customer rating of 5 out of 5 .
+NAME-X is a cheap restaurant in the riverside area near NEAR-X . it is not family-friendly and has a customer rating of 5 out of 5 .
+NAME-X is a cheap , family friendly restaurant located near NEAR-X .
+NAME-X is a cheap english restaurant located in the city centre near NEAR-X . it has an average customer rating and is not family-friendly .
+NAME-X is a cheap restaurant in the city centre near NEAR-X . it is family friendly and has an average customer rating .
+NAME-X is a cheap restaurant in the riverside area near NEAR-X . it is not family-friendly and has an average customer rating .
+NAME-X is a cheap , family friendly restaurant located near NEAR-X .
+NAME-X is an english restaurant located in the city centre near NEAR-X . it has a high price range and a customer rating of 1 out of 5 .
+NAME-X is an english restaurant near NEAR-X in the city centre . it has a high price range and a customer rating of 1 out of 5 .
+NAME-X is an english restaurant in the riverside area near NEAR-X . it has a high price range and a customer rating of 1 out of 5 .
+NAME-X is a high priced restaurant in the riverside area near NEAR-X . it is child friendly and has a customer rating of 1 out of 5 .
+NAME-X is a restaurant providing english food in the high price range . it is located in the city centre near NEAR-X .
+NAME-X is an english restaurant near NEAR-X in the city centre . it has a high price range and an average customer rating .
+NAME-X is a restaurant providing english food in the high price range . it is located in the riverside area near NEAR-X .
+NAME-X is a child friendly english pub near NEAR-X in the riverside area . it has a high price range .
+NAME-X is a pub providing english food in the less than £20 price range . it is located in the city centre near NEAR-X .
+NAME-X is a family-friendly english pub near NEAR-X in the city centre . it has a price range of less than £20 .
+NAME-X is a pub providing english food in the less than £20 price range . it is located in the riverside area near NEAR-X .
+NAME-X is a family friendly english pub near NEAR-X in the riverside area . the price range is less than £20 .
+NAME-X is a pub providing english food in the moderate price range . it is located in the city centre near NEAR-X .
+NAME-X is a pub providing english food in the moderate price range . it is located in the city centre near NEAR-X .
+NAME-X is a pub providing english food in the moderate price range . it is located in the riverside area near NEAR-X .
+NAME-X is a pub providing english food in the moderate price range . it is located in the riverside area near NEAR-X .
+NAME-X is a pub that serves english food in the riverside area near NEAR-X . it is child friendly and has a price range of more than £30 .
+NAME-X is a fast food pub near NEAR-X in the riverside area . it is kid friendly and has a price range of £20-25 .
+NAME-X is a fast food pub near NEAR-X in the city centre . it has a high customer rating and is not kid friendly .
+NAME-X is a fast food pub near NEAR-X in the city centre . it is kid friendly and has a high customer rating .
+NAME-X is a fast food pub near NEAR-X in the riverside area . it has a high customer rating and is not kid friendly .
+NAME-X is a fast food pub near NEAR-X in the riverside area . it is kid friendly and has a high customer rating .
+NAME-X is a fast food pub near NEAR-X in the riverside area . it is kid friendly and has a high customer rating .
+NAME-X is a cheap , family friendly pub located near NEAR-X .
+NAME-X is a cheap fast food pub near NEAR-X in the city centre . it has a customer rating of 5 out of 5 and is not family-friendly .
+NAME-X is a cheap fast food pub near NEAR-X in the city centre . it is family friendly and has a customer rating of 5 out of 5 .
+NAME-X is a cheap fast food restaurant in the riverside area near NEAR-X . it has a customer rating of 5 out of 5 and is not family-friendly .
+NAME-X is a cheap , family friendly pub located near NEAR-X .
+NAME-X is a cheap fast food pub near NEAR-X in the city centre . it has an average customer rating and is not family-friendly .
+NAME-X is a cheap fast food pub near NEAR-X in the city centre . it is family-friendly and has an average customer rating .
+NAME-X is a cheap fast food restaurant in the riverside area near NEAR-X . it has an average customer rating and is not family-friendly .
+NAME-X is a cheap , family friendly pub located near NEAR-X .
+NAME-X is a fast food pub near NEAR-X in the city centre . it has a high price range and a customer rating of 1 out of 5 .
+NAME-X is a fast food pub near NEAR-X in the city centre . it has a high price range and a customer rating of 1 out of 5 .
+NAME-X is a fast food pub near NEAR-X in the riverside area . it has a high price range and a customer rating of 1 out of 5 .
+NAME-X is a fast food pub near NEAR-X in the riverside area . it has a high price range and a customer rating of 1 out of 5 .
+NAME-X is a high priced fast food pub near NEAR-X in the city centre . it has an average customer rating and is not child friendly .
+NAME-X is a fast food pub near NEAR-X in the city centre . it has a high price range and an average customer rating .
+NAME-X is a high priced fast food restaurant in the riverside area near NEAR-X . it is not child friendly and has an average customer rating .
+NAME-X is a fast food pub near NEAR-X in the riverside area . it has a high price range and an average customer rating .
+NAME-X is a cheap fast food pub located in the city centre near NEAR-X . it is not family-friendly and has a low customer rating .
+NAME-X is a fast food pub near NEAR-X in the city centre . it is family-friendly and has a low customer rating .
+NAME-X is a fast food restaurant in the riverside area near NEAR-X . it is not family-friendly and has a low customer rating .
+NAME-X is a fast food pub near NEAR-X in the riverside area . it is family friendly and has a low customer rating .
+NAME-X is a moderately priced fast food restaurant located in the city centre near NEAR-X . it is not kid friendly and has a customer rating of 1 out of 5 .
+NAME-X is a fast food pub near NEAR-X in the city centre . it has a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is a moderately priced fast food restaurant in the riverside area near NEAR-X . it is not kid friendly and has a customer rating of 1 out of 5 .
+NAME-X is a fast food pub near NEAR-X in the riverside area . it has a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is a moderately priced fast food restaurant in the city centre near NEAR-X . it is not kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a moderately priced fast food restaurant in the city centre near NEAR-X . it is kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a moderately priced fast food restaurant in the riverside area near NEAR-X . it is not kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a moderately priced fast food restaurant in the riverside area near NEAR-X . it is kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is an english restaurant near NEAR-X in the riverside area . it is child friendly and has a high price range .
+NAME-X is an english restaurant near NEAR-X in the riverside area . it has a high price range and an average customer rating .
+NAME-X is a restaurant providing english food in the less than £20 price range . it is located in the city centre near NEAR-X .
+NAME-X is an english restaurant located in the city centre near NEAR-X . it is family-friendly and has a price range of less than £20 .
+NAME-X is a restaurant providing english food in the less than £20 price range . it is located in the riverside area near NEAR-X .
+NAME-X is a family friendly restaurant located near NEAR-X .
+NAME-X is a cheap restaurant located in the city centre near NEAR-X . it is not family-friendly and has a low customer rating .
+NAME-X is an english restaurant located in the city centre near NEAR-X . it is family friendly and has a low customer rating .
+NAME-X is an english restaurant near NEAR-X in the riverside area . it is not family-friendly and has a low customer rating .
+NAME-X is a family friendly restaurant located near NEAR-X .
+NAME-X is a moderately priced english restaurant located in the city centre near NEAR-X . it is not kid friendly .
+NAME-X is a restaurant providing english food in the moderate price range . it is located in the city centre near NEAR-X .
+NAME-X is a restaurant providing english food in the moderate price range . it is located in the riverside area near NEAR-X .
+NAME-X is an english restaurant in the riverside area near NEAR-X . it is kid friendly and has a moderate price range .
+NAME-X is a moderately priced restaurant located in the city centre near NEAR-X . it is not kid friendly and has a customer rating of 1 out of 5 .
+NAME-X is a moderately priced restaurant located in the city centre near NEAR-X . it is kid friendly and has a customer rating of 1 out of 5 .
+NAME-X is a moderately priced restaurant in the riverside area near NEAR-X . it is not kid friendly and has a customer rating of 1 out of 5 .
+NAME-X is a moderately priced , family friendly restaurant located near NEAR-X .
+NAME-X is a moderately priced restaurant located in the city centre near NEAR-X . it is not kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a moderately priced restaurant located in the city centre near NEAR-X . it is kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a moderately priced restaurant in the riverside area near NEAR-X . it is not kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a moderately priced restaurant in the riverside area near NEAR-X . it is kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a restaurant providing english food in the more than £30 price range . it is located in the riverside area near NEAR-X .
+NAME-X is a restaurant providing english food in the more than £30 price range . it is located in the city centre near NEAR-X .
+NAME-X is an english restaurant located in the city centre near NEAR-X . it has a high customer rating and a price range of more than £30 .
+NAME-X is an english restaurant near NEAR-X in the riverside area . it is not child friendly and has a high customer rating .
+NAME-X is a restaurant providing english food in the more than £30 price range . it is located in the riverside area near NEAR-X .
+NAME-X is a fast food restaurant in the riverside area near NEAR-X . it is kid friendly and has a price range of £20-25 .
+NAME-X is a cheap fast food restaurant in the riverside area near NEAR-X . it is family friendly .
+NAME-X is a cheap , family friendly pub located near NEAR-X .
+NAME-X is a fast food pub near NEAR-X in the city centre .
+NAME-X is a fast food pub near NEAR-X in the city centre .
+NAME-X is a fast food pub in riverside near NEAR-X . it is not child friendly and has a high price range .
+NAME-X is a fast food pub in riverside near NEAR-X . it is child friendly and has a high price range .
+NAME-X is a cheap fast food pub located in the city centre near NEAR-X . it is not family-friendly .
+NAME-X is a family-friendly fast food pub near NEAR-X in the city centre . it has a price range of less than £20 .
+NAME-X is a fast food pub in the riverside area near NEAR-X . it is not family-friendly and has a price range of less than £20 .
+NAME-X is a family friendly fast food pub near NEAR-X in the riverside area . the price range is less than £20 .
+NAME-X is a moderately priced fast food pub in the city centre near NEAR-X . it is not kid friendly .
+NAME-X is a moderately priced fast food pub in the city centre near NEAR-X . it is kid friendly .
+NAME-X is a moderately priced fast food pub in the riverside area near NEAR-X . it is not kid friendly .
+NAME-X is a moderately priced fast food pub in the riverside area near NEAR-X . it is kid friendly .
+NAME-X is a moderately priced fast food restaurant in the riverside area near NEAR-X . it is kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a fast food pub in the riverside area near NEAR-X . it is child friendly and has a price range of more than £30 .
+NAME-X is a fast food pub near NEAR-X in the city centre . it is not child friendly and has a high customer rating .
+NAME-X is a fast food pub near NEAR-X in the city centre . it is child friendly and has a high customer rating .
+NAME-X is a fast food restaurant in the riverside area near NEAR-X . it is not child friendly and has a high customer rating .
+NAME-X is a fast food restaurant in the riverside area near NEAR-X . it is child friendly and has a high customer rating .
+NAME-X is a french pub near NEAR-X in the riverside area . it is kid friendly and has a price range of £20-25 .
+NAME-X is a french pub near NEAR-X in the city centre . it is not kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a french pub near NEAR-X in the city centre . it is kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a french pub near NEAR-X in the riverside area . it is not kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a kid friendly french pub near NEAR-X in the riverside area with a customer rating of 3 out of 5 .
+NAME-X is a kid friendly french pub near NEAR-X in the riverside area with a customer rating of 3 out of 5 .
+NAME-X is a french pub near NEAR-X in the city centre . it has a high customer rating and is not kid friendly .
+NAME-X is a french pub near NEAR-X in the city centre . it is kid friendly and has a high customer rating .
+NAME-X is a french pub near NEAR-X in the riverside area . it has a high customer rating and is not kid friendly .
+NAME-X is a french pub near NEAR-X in the riverside area . it is kid friendly and has a high customer rating .
+NAME-X is a cheap , family friendly pub located near NEAR-X .
+NAME-X is a cheap french pub near NEAR-X in the city centre . it has a customer rating of 5 out of 5 and is not family-friendly .
+NAME-X is a cheap french pub near NEAR-X in the city centre . it is family friendly and has a customer rating of 5 out of 5 .
+NAME-X is a cheap french pub near NEAR-X in the riverside area . it has a customer rating of 5 out of 5 and is not family-friendly .
+NAME-X is a cheap , family friendly pub located near NEAR-X .
+NAME-X is a child friendly french pub near NEAR-X in the riverside area . it has a high price range .
+NAME-X is a french pub near NEAR-X in the city centre . it has a high price range and a customer rating of 3 out of 5 .
+NAME-X is a french pub near NEAR-X in the city centre . it has a high price range and a customer rating of 3 out of 5 .
+NAME-X is a french pub near NEAR-X in the riverside area . it has a high price range and a customer rating of 3 out of 5 .
+NAME-X is a child friendly french pub near NEAR-X in the riverside area with a customer rating of 3 out of 5 and a high price range .
+NAME-X is a french pub near NEAR-X in the city centre . it is not family-friendly and has an average customer rating .
+NAME-X is a family-friendly french pub near NEAR-X in the city centre . it has an average customer rating and a price range of less than £20 .
+NAME-X is a french pub near NEAR-X in the riverside area . it is not family-friendly and has an average customer rating .
+NAME-X is a family friendly pub near NEAR-X in the riverside area that serves french food for less than £20 .
+NAME-X is a french pub near NEAR-X in the city centre . it is not family-friendly and has a low customer rating .
+NAME-X is a family-friendly french pub near NEAR-X in the city centre . it has a low customer rating and a price range of less than £20 .
+NAME-X is a french pub near NEAR-X in the riverside area . it is not family-friendly and has a low customer rating .
+NAME-X is a family friendly pub near NEAR-X in the riverside area that serves french food for less than £20 .
+NAME-X is a moderately priced french pub near NEAR-X in the city centre . it is not kid friendly and has a customer rating of 1 out of 5 .
+NAME-X is a french pub near NEAR-X in the city centre . it has a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is a moderately priced pub near NEAR-X in the riverside area . it is not kid friendly and has a customer rating of 1 out of 5 .
+NAME-X is a french pub near NEAR-X in the riverside area . it has a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is a french pub near NEAR-X in the city centre . it is not child friendly and has a customer rating of 5 out of 5 .
+NAME-X is a french pub near NEAR-X in the city centre . it has a high price range and a customer rating of 5 out of 5 .
+NAME-X is a french pub near NEAR-X in the riverside area . it is not child friendly and has a customer rating of 5 out of 5 .
+NAME-X is a french pub near NEAR-X in the riverside area . it has a high price range and a customer rating of 5 out of 5 .
+NAME-X is a french pub near NEAR-X in the city centre . it is not child friendly and has a low customer rating .
+NAME-X is a french pub near NEAR-X in the city centre . it is child friendly and has a low customer rating .
+NAME-X is a french pub near NEAR-X in the riverside area . it is not child friendly and has a low customer rating .
+NAME-X is a family friendly pub near NEAR-X in the riverside area . it serves french food and has a low customer rating .
+NAME-X is a cheap fast food restaurant in the riverside area near NEAR-X . it is family friendly .
+NAME-X is a high priced fast food restaurant in the city centre near NEAR-X . it is not children friendly .
+NAME-X is a high priced fast food restaurant in the city centre near NEAR-X . it is child friendly .
+NAME-X is a high priced fast food restaurant in the riverside area near NEAR-X .
+NAME-X is a high priced fast food restaurant in the riverside area near NEAR-X . it is child friendly .
+NAME-X is a cheap fast food restaurant located in the city centre near NEAR-X . it is not family-friendly .
+NAME-X is a family-friendly fast food restaurant in the city centre near NEAR-X . it has a price range of less than £20 .
+NAME-X is a cheap fast food restaurant in the riverside area near NEAR-X . it is not family-friendly .
+NAME-X is a family friendly fast food restaurant in the riverside area near NEAR-X . it has a price range of less than £20 .
+NAME-X is a moderately priced fast food restaurant in the city centre near NEAR-X . it is not kid friendly .
+NAME-X is a moderately priced fast food restaurant in the city centre near NEAR-X . it is kid friendly .
+NAME-X is a moderately priced fast food restaurant in the riverside area near NEAR-X . it is not kid friendly .
+NAME-X is a moderately priced fast food restaurant in the riverside area near NEAR-X . it is kid friendly .
+NAME-X is a fast food restaurant in the riverside area near NEAR-X . it is child friendly and has a price range of more than £30 .
+NAME-X is a french restaurant in the riverside area near NEAR-X . it is kid friendly and has a price range of £20-25 .
+NAME-X is a cheap , family friendly restaurant located near NEAR-X .
+NAME-X is a french restaurant in the riverside area near NEAR-X . it is child friendly and has a high price range .
+NAME-X is a restaurant providing indian food in the £20-25 price range . it is located in the city centre . it is near NEAR-X . its customer rating is high .
+NAME-X is a restaurant providing indian food in the £20-25 price range . it is located in the city centre . it is near NEAR-X . its customer rating is high .
+NAME-X is a restaurant providing indian food in the £20-25 price range . it is located in the riverside . it is near NEAR-X . its customer rating is high .
+NAME-X is a restaurant providing indian food in the £20-25 price range . it is located in the riverside . it is near NEAR-X . its customer rating is high .
+NAME-X is a restaurant providing indian food in the cheap price range . it is located in the city centre . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a restaurant providing indian food in the cheap price range . it is located in the city centre . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a restaurant providing indian food in the cheap price range . it is located in the riverside . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a restaurant providing indian food in the cheap price range . it is located in the riverside . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a restaurant providing indian food in the cheap price range . it is located in the riverside . it is near NEAR-X . its customer rating is 5 out of 5 .
+NAME-X is a restaurant providing indian food in the cheap price range . it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a pub providing chinese food in the £20-25 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing chinese food in the cheap price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing chinese food in the less than £20 price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food in the £20-25 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food in the cheap price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food in the high price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food in the high price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food in the less than £20 price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing chinese food in the less than £20 price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing chinese food in the less than £20 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing chinese food in the less than £20 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing chinese food in the more than £30 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a family friendly english pub near NEAR-X in the riverside area . the price range is £20-25 .
+NAME-X is a cheap , family friendly pub near NEAR-X .
+NAME-X is a pub providing english food in the high price range . it is located in the city centre near NEAR-X .
+NAME-X is a child friendly english pub near NEAR-X in the city centre . it has a high price range .
+NAME-X is a pub providing english food in the high price range . it is located in the riverside area near NEAR-X .
+NAME-X is a child friendly english pub near NEAR-X in the riverside area . it has a high price range .
+NAME-X is a high priced italian pub near NEAR-X in the city centre . it has an average customer rating and is not children friendly .
+NAME-X is a restaurant providing chinese food in the less than £20 price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food in the less than £20 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food in the less than £20 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food in the moderate price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food in the moderate price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing chinese food in the more than £30 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing english food in the £20-25 price range . it is located in the riverside area near NEAR-X .
+NAME-X is a cheap , family friendly restaurant located near NEAR-X .
+NAME-X is a restaurant providing english food in the high price range . it is located in the city centre near NEAR-X .
+NAME-X is an english restaurant located in the city centre near NEAR-X . it is child friendly and has a high price range .
+NAME-X is a restaurant providing english food in the high price range . it is located in the riverside area near NEAR-X .
+NAME-X is an english restaurant near NEAR-X in the riverside area . it is child friendly and has a high price range .
+NAME-X is a restaurant providing indian food in the cheap price range . it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a restaurant providing indian food in the cheap price range . it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a restaurant providing indian food in the cheap price range . it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a restaurant providing indian food in the high price range . it is located in the city centre . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a restaurant providing indian food in the high price range . it is located in the city centre . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a restaurant providing indian food in the high price range . it is located in the riverside . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a restaurant providing indian food in the high price range . it is located in the riverside . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a restaurant providing indian food in the high price range . it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a restaurant providing indian food in the high price range . it is located in the city centre . it is near NEAR-X . its customer rating is average .
+NAME-X is a restaurant providing indian food in the high price range . it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a restaurant providing indian food in the high price range . it is located in the riverside . it is near NEAR-X . its customer rating is average .
+NAME-X is a restaurant providing indian food in the less than £20 price range . it is located in the city centre . it is near NEAR-X . its customer rating is low .
+NAME-X is a restaurant providing indian food in the less than £20 price range . it is located in the city centre . it is near NEAR-X . its customer rating is low .
+NAME-X is a restaurant providing indian food in the less than £20 price range . it is located in the riverside . it is near NEAR-X . its customer rating is low .
+NAME-X is a restaurant providing indian food in the less than £20 price range . it is located in the riverside . it is near NEAR-X . its customer rating is low .
+NAME-X is a restaurant providing indian food in the moderate price range . it is located in the city centre . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a restaurant providing indian food in the moderate price range . it is located in the city centre . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a restaurant providing indian food in the moderate price range . it is located in the riverside . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a restaurant providing indian food in the moderate price range . it is located in the riverside . it is near NEAR-X . its customer rating is 1 out of 5 .
+NAME-X is a restaurant providing indian food in the moderate price range . it is located in the city centre . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a restaurant providing indian food in the moderate price range . it is located in the city centre . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a restaurant providing indian food in the moderate price range . it is located in the riverside . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a restaurant providing indian food in the moderate price range . it is located in the riverside . it is near NEAR-X . its customer rating is 3 out of 5 .
+NAME-X is a restaurant providing indian food in the more than £30 price range . it is located in the city centre . it is near NEAR-X . its customer rating is high .
+NAME-X is a restaurant providing indian food in the more than £30 price range . it is located in the city centre . it is near NEAR-X . its customer rating is high .
+NAME-X is a restaurant providing indian food in the more than £30 price range . it is located in the riverside . it is near NEAR-X . its customer rating is high .
+NAME-X is a restaurant providing indian food in the more than £30 price range . it is located in the riverside . it is near NEAR-X . its customer rating is high .
+NAME-X is an italian restaurant near NEAR-X in the city centre . it has a high customer rating and is not kid friendly .
+NAME-X is an italian restaurant located in the city centre near NEAR-X . it is kid friendly and has a high customer rating .
+NAME-X is an italian restaurant in the riverside area near NEAR-X . it has a high customer rating and is not kid friendly .
+NAME-X is an italian restaurant in the riverside area near NEAR-X . it is kid friendly and has a high customer rating .
+NAME-X is a cheap italian restaurant located in the city centre near NEAR-X . it has a customer rating of 5 out of 5 and is not family-friendly .
+NAME-X is a cheap italian restaurant located in the city centre near NEAR-X . it has a customer rating of 5 out of 5 and is not family-friendly .
+NAME-X is a cheap italian restaurant located in the city centre near NEAR-X . it is family friendly and has a customer rating of 5 out of 5 .
+NAME-X is a cheap italian restaurant in the riverside area near NEAR-X . it has a customer rating of 5 out of 5 and is not family-friendly .
+NAME-X is a cheap , family friendly restaurant located near NEAR-X .
+NAME-X is a cheap italian restaurant located in the city centre near NEAR-X . it has an average customer rating and is not family-friendly .
+NAME-X is a cheap italian restaurant near NEAR-X in the city centre . it is family-friendly and has an average customer rating .
+NAME-X is a cheap italian restaurant in the riverside area near NEAR-X . it has an average customer rating and is not family-friendly .
+NAME-X is a cheap , family friendly restaurant located near NEAR-X .
+NAME-X is an italian restaurant located in the city centre near NEAR-X . it has a high price range and a customer rating of 1 out of 5 .
+NAME-X is an italian restaurant near NEAR-X in the city centre . it has a high price range and a customer rating of 1 out of 5 .
+NAME-X is an italian restaurant in the riverside area near NEAR-X . it has a high price range and a customer rating of 1 out of 5 .
+NAME-X is an italian restaurant in the riverside area near NEAR-X . it has a high price range and a customer rating of 1 out of 5 .
+NAME-X is a child friendly french pub near NEAR-X in the riverside area . it has a high price range .
+NAME-X is a french pub near NEAR-X in the city centre .
+NAME-X is a family-friendly french pub near NEAR-X in the city centre .
+NAME-X is a french pub in the riverside area near NEAR-X . it is not family-friendly and has a price range of less than £20 .
+NAME-X is a family friendly french pub near NEAR-X in the riverside area . it has a price range of less than £20 .
+NAME-X is a moderately priced french pub near NEAR-X in the city centre . it is not kid friendly .
+NAME-X is a kid friendly french pub near NEAR-X in the city centre .
+NAME-X is a french pub in the riverside area near NEAR-X . it is not kid friendly and has a moderate price range .
+NAME-X is a kid friendly french pub near NEAR-X in the riverside area . it has a moderate price range .
+NAME-X is a french pub near NEAR-X in the city centre .
+NAME-X is a french pub near NEAR-X in the city centre . it is child friendly and has a price range of more than £30 .
+NAME-X is a french pub in the riverside area near NEAR-X . it is not child friendly and has a price range of more than £30 .
+NAME-X is a french pub near NEAR-X in the riverside area . it is child friendly and has a price range of more than £30 .
+NAME-X is a pub providing indian food in the £20-25 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing indian food in the cheap price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing indian food in the high price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing indian food in the high price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a high priced italian pub near NEAR-X in the city centre . it has an average customer rating and is not children friendly .
+NAME-X is a child friendly italian pub near NEAR-X in the city centre with a high price range and an average customer rating .
+NAME-X is a high priced italian pub in the riverside area near NEAR-X . it has an average customer rating and is not children friendly .
+NAME-X is a children friendly italian pub near NEAR-X in the riverside area with a high price range and an average customer rating .
+NAME-X is an italian pub near NEAR-X in the city centre . it is not family-friendly and has a low customer rating .
+NAME-X is a family-friendly italian pub near NEAR-X in the city centre . it has a low customer rating and a price range of less than £20 .
+NAME-X is an italian pub near NEAR-X in the riverside area . it is not family-friendly and has a low customer rating .
+NAME-X is an italian pub near NEAR-X in the riverside area . it is family friendly and has a low customer rating .
+NAME-X is a moderately priced italian pub near NEAR-X in the city centre . it is not kid friendly and has a customer rating of 1 out of 5 .
+NAME-X is a moderately priced italian pub near NEAR-X in the city centre . it is kid friendly and has a customer rating of 1 out of 5 .
+NAME-X is a pub providing italian food in the moderate price range . it is located in the riverside area near NEAR-X .
+NAME-X is a kid friendly italian pub near NEAR-X in the riverside area with a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is a moderately priced italian pub in the city centre near NEAR-X . it is not kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a moderately priced italian pub near NEAR-X in the city centre . it is kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a moderately priced italian pub in the riverside area near NEAR-X . it is not kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a moderately priced italian pub near NEAR-X in the riverside area . it is kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is an italian pub near NEAR-X in the city centre . it is not child friendly and has a high customer rating .
+NAME-X is a child friendly italian pub near NEAR-X in the city centre . it has a high customer rating and a price range of more than £30 .
+NAME-X is an italian pub near NEAR-X in the riverside area . it is not child friendly and has a high customer rating .
+NAME-X is a children friendly italian pub near NEAR-X in the riverside area . it has a high customer rating and a price range of more than £30 .
+NAME-X is a japanese pub near NEAR-X in the city centre . it has a customer rating of 3 out of 5 and is not kid friendly .
+NAME-X is a japanese pub near NEAR-X in the city centre . it is kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a japanese pub near NEAR-X in the riverside area . it is not kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a japanese pub near NEAR-X in the riverside area . it is kid friendly and has a customer rating of 3 out of 5 .
+NAME-X is a japanese pub near NEAR-X in the city centre . it has a high customer rating and is not kid friendly .
+NAME-X is a japanese pub near NEAR-X in the city centre . it is kid friendly and has a high customer rating .
+NAME-X is a japanese pub near NEAR-X in the riverside area . it has a high customer rating and is not kid friendly .
+NAME-X is a japanese pub near NEAR-X in the riverside area . it has a high customer rating and is not kid friendly .
+NAME-X is a japanese pub near NEAR-X in the riverside area . it is kid friendly and has a high customer rating .
+NAME-X is a cheap japanese pub near NEAR-X in the city centre . it has a customer rating of 5 out of 5 and is not family-friendly .
+NAME-X is a cheap , family friendly japanese pub near NEAR-X in the city centre .
+NAME-X is a cheap japanese pub in the riverside area near NEAR-X . it has a customer rating of 5 out of 5 and is not family-friendly .
+NAME-X is a cheap , family friendly pub located near NEAR-X .
+NAME-X is a japanese pub near NEAR-X in the city centre . it has a high price range and a customer rating of 3 out of 5 .
+NAME-X is a japanese pub near NEAR-X in the city centre . it has a high price range and a customer rating of 3 out of 5 .
+NAME-X is a japanese pub near NEAR-X in the riverside area . it has a high price range and a customer rating of 3 out of 5 .
+NAME-X is a child friendly japanese pub near NEAR-X in the riverside area with a customer rating of 3 out of 5 and a high price range .
+NAME-X is a cheap japanese pub located in the city centre near NEAR-X . it has an average customer rating and is not family-friendly .
+NAME-X is a family-friendly japanese pub near NEAR-X in the city centre . it has an average customer rating and a price range of less than £20 .
+NAME-X is a cheap japanese pub near NEAR-X in the riverside area . it has an average customer rating and is not family-friendly .
+NAME-X is a family friendly japanese pub near NEAR-X in the riverside area . it has an average customer rating and a price range of less than £20 .
+NAME-X is a cheap japanese pub located in the city centre near NEAR-X . it is not family-friendly and has a low customer rating .
+NAME-X is a family-friendly japanese pub near NEAR-X in the city centre . it has a low customer rating and a price range of less than £20 .
+NAME-X is a cheap japanese pub near NEAR-X in the riverside area . it is not family-friendly and has a low customer rating .
+NAME-X is a family friendly japanese pub near NEAR-X in the riverside area with a price range of less than £20 and a low customer rating .
+NAME-X is a moderately priced japanese pub located in the city centre near NEAR-X . it is not kid friendly and has a customer rating of 1 out of 5 .
+NAME-X is a pub that serves japanese food in the city centre near NEAR-X . it has a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is a french restaurant in the riverside area near NEAR-X . it is child friendly and has a high price range .
+NAME-X is a french restaurant located in the city centre near NEAR-X . it is not family-friendly and has a price range of less than £20 .
+NAME-X is a french restaurant in the city centre near NEAR-X . it is family-friendly and has a price range of less than £20 .
+NAME-X is a french restaurant in the riverside area near NEAR-X . it is not family-friendly and has a price range of less than £20 .
+NAME-X is a french restaurant in the riverside area near NEAR-X . it is family friendly and has a price range of less than £20 .
+NAME-X is a moderately priced french restaurant in the city centre near NEAR-X . it is not kid friendly .
+NAME-X is a moderately priced french restaurant in the city centre near NEAR-X . it is kid friendly .
+NAME-X is a moderately priced french restaurant in the riverside area near NEAR-X . it is not kid friendly .
+NAME-X is a moderately priced french restaurant near NEAR-X in the riverside area . it is kid friendly .
+NAME-X is a french restaurant in the city centre near NEAR-X . it is not child friendly and has a price range of more than £30 .
+NAME-X is a french restaurant in the city centre near NEAR-X . it is child friendly and has a price range of more than £30 .
+NAME-X is a french restaurant in the riverside area near NEAR-X . it is not child friendly and has a price range of more than £30 .
+NAME-X is a french restaurant in the riverside area near NEAR-X . it is child friendly and has a price range of more than £30 .
+NAME-X is a restaurant providing indian food in the £20-25 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing indian food in the cheap price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing indian food in the high price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a restaurant providing indian food in the high price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing indian food in the high price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing indian food in the high price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing indian food in the high price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing indian food in the less than £20 price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing indian food in the less than £20 price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing indian food in the less than £20 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing indian food in the less than £20 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing indian food in the moderate price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing indian food in the moderate price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing indian food in the moderate price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing indian food in the moderate price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing indian food in the more than £30 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a kid friendly italian pub near NEAR-X in the riverside area . it has a price range of £20-25 .
+NAME-X is a cheap , family friendly pub located near NEAR-X .
+NAME-X is a pub providing italian food in the high price range . it is located in the city centre near NEAR-X .
+NAME-X is a child friendly italian pub near NEAR-X in the city centre . it has a high price range .
+NAME-X is a pub providing italian food in the high price range . it is located in the riverside area near NEAR-X .
+NAME-X is a children friendly italian pub near NEAR-X in the riverside area with a high price range .
+NAME-X is a pub providing italian food in the less than £20 price range . it is located in the city centre near NEAR-X .
+NAME-X is a family-friendly italian pub near NEAR-X in the city centre .
+NAME-X is a pub providing italian food in the less than £20 price range . it is located in the riverside area near NEAR-X .
+NAME-X is a restaurant providing indian food in the high price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a restaurant providing indian food in the high price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing indian food in the high price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing indian food in the less than £20 price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a restaurant providing indian food in the less than £20 price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a restaurant providing indian food in the less than £20 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing indian food in the less than £20 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing indian food in the moderate price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a restaurant providing indian food in the moderate price range . it is located in the city centre . it is near NEAR-X .
+NAME-X is a restaurant providing indian food in the moderate price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing indian food in the moderate price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing indian food in the more than £30 price range . it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing italian food in the £20-25 price range . it is located in the riverside area near NEAR-X .
+NAME-X is a cheap , family friendly restaurant located near NEAR-X .
+NAME-X is a restaurant providing italian food in the high price range . it is located in the city centre near NEAR-X .
+NAME-X is a restaurant providing italian food in the high price range . it is located in the city centre near NEAR-X .
+NAME-X is a restaurant providing italian food in the high price range . it is located in the riverside area near NEAR-X .
+NAME-X is a high priced italian restaurant in the riverside area near NEAR-X . it is children friendly .
+NAME-X is a cheap italian restaurant located in the city centre near NEAR-X . it is not family-friendly .
+NAME-X is an italian restaurant in the city centre near NEAR-X . it is family-friendly and has a price range of less than £20 .
+NAME-X is a restaurant providing italian food in the less than £20 price range . it is located in the riverside area near NEAR-X .
+NAME-X is a pub providing italian food in the less than £20 price range . it is located in the riverside area near NEAR-X .
+NAME-X is a family friendly italian pub near NEAR-X in the riverside area . it has a price range of less than £20 .
+NAME-X is a moderately priced italian pub in the city centre near NEAR-X . it is not kid friendly .
+NAME-X is a pub providing italian food in the moderate price range . it is located in the city centre near NEAR-X .
+NAME-X is a moderately priced italian pub in the riverside area near NEAR-X . it is not kid friendly .
+NAME-X is a pub providing italian food in the moderate price range . it is located in the riverside area near NEAR-X .
+NAME-X is a children friendly italian pub in the riverside area near NEAR-X . it has a price range of more than £30 .
+NAME-X is a japanese pub near NEAR-X in the riverside area . it is kid friendly and has a price range of £20-25 .
+NAME-X is a cheap , family friendly pub near NEAR-X .
+NAME-X is a child friendly japanese pub near NEAR-X in the riverside area . it has a high price range .
+NAME-X is a japanese pub near NEAR-X in the city centre . it is not family-friendly and has a price range of less than £20 .
+NAME-X is a family-friendly japanese pub near NEAR-X in the city centre . it has a price range of less than £20 .
+NAME-X is a cheap japanese pub near NEAR-X in the riverside area . it is not family-friendly .
+NAME-X is a family friendly japanese pub near NEAR-X in the riverside area . the price range is less than £20 .
+NAME-X is a moderately priced japanese pub in the city centre near NEAR-X . it is not kid friendly .
+NAME-X is a kid friendly japanese pub near NEAR-X in the city centre .
+NAME-X is a pub providing japanese food in the moderate price range . it is located in the riverside area near NEAR-X .
+NAME-X is a kid friendly japanese pub near NEAR-X in the riverside area . it has a moderate price range .
+NAME-X is a pub that serves japanese food in the city centre near NEAR-X . it has a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is a japanese pub near NEAR-X in the riverside area . it has a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is a kid friendly japanese pub near NEAR-X in the riverside area with a moderate price range and a customer rating of 1 out of 5 .
+NAME-X is a pub providing japanese food in the more than £30 price range . it is located in the city centre near NEAR-X .
+NAME-X is a japanese pub near NEAR-X in the city centre . it is child friendly and has a price range of more than £30 .
+NAME-X is a pub providing japanese food in the more than £30 price range . it is located in the riverside area near NEAR-X .
+NAME-X is a family friendly japanese pub near NEAR-X in the riverside area . it has a price range of more than £30 .
+NAME-X is a japanese pub near NEAR-X in the city centre . it is not child friendly and has a customer rating of 5 out of 5 .
+NAME-X is a japanese pub near NEAR-X in the city centre . it has a high price range and a customer rating of 5 out of 5 .
+NAME-X is a japanese pub near NEAR-X in the riverside area . it is not child friendly and has a customer rating of 5 out of 5 .
+NAME-X is a japanese pub near NEAR-X in the riverside area . it has a high price range and a customer rating of 5 out of 5 .
+NAME-X is a japanese pub near NEAR-X in the city centre . it is not child friendly and has a low customer rating .
+NAME-X is a japanese pub near NEAR-X in the city centre . it is child friendly and has a low customer rating .
+NAME-X is a japanese pub near NEAR-X in the riverside area . it is not child friendly and has a low customer rating .
+NAME-X is a family friendly japanese pub near NEAR-X in the riverside area with a price range of more than £30 and a low customer rating .
+NAME-X is a restaurant providing italian food in the less than £20 price range . it is located in the riverside area near NEAR-X .
+NAME-X is a family friendly restaurant located near NEAR-X .
+NAME-X is a moderately priced italian restaurant in the city centre near NEAR-X . it is not kid friendly .
+NAME-X is a moderately priced italian restaurant in the city centre near NEAR-X . it is kid friendly .
+NAME-X is a moderately priced italian restaurant in the riverside area near NEAR-X . it is not kid friendly .
+NAME-X is a moderately priced italian restaurant in the riverside area near NEAR-X . it is kid friendly .
+NAME-X is a restaurant providing italian food in the more than £30 price range . it is located in the riverside area near NEAR-X .
+NAME-X is a japanese restaurant in the riverside area near NEAR-X . it is kid friendly and has a price range of £20-25 .
+NAME-X is a cheap , family friendly restaurant located near NEAR-X .
+NAME-X is a high priced japanese restaurant in the riverside area near NEAR-X . it is child friendly .
+NAME-X is a cheap japanese restaurant located in the city centre near NEAR-X . it is not family-friendly .
+NAME-X is a japanese restaurant in the city centre near NEAR-X . it is family-friendly and has a price range of less than £20 .
+NAME-X is a japanese restaurant in the riverside area near NEAR-X . it is not family-friendly and has a price range of less than £20 .
+NAME-X is a family friendly japanese restaurant in the riverside area near NEAR-X . it has a price range of less than £20 .
+NAME-X is a moderately priced japanese restaurant in the city centre near NEAR-X . it is not kid friendly .
+NAME-X is a moderately priced japanese restaurant in the city centre near NEAR-X . it is kid friendly .
+NAME-X is a moderately priced japanese restaurant in the riverside area near NEAR-X . it is not kid friendly .
+NAME-X is a restaurant providing japanese food in the moderate price range . it is located in the riverside area near NEAR-X .
+NAME-X is a restaurant providing japanese food in the more than £30 price range . it is located in the city centre near NEAR-X .
+NAME-X is a restaurant providing japanese food in the more than £30 price range . it is located in the city centre near NEAR-X .
+NAME-X is a restaurant providing japanese food in the more than £30 price range . it is located in the riverside area near NEAR-X .
+NAME-X is a restaurant providing japanese food in the more than £30 price range . it is located in the riverside area near NEAR-X .
+NAME-X is a coffee shop in riverside .
+NAME-X is a pub in riverside .
+NAME-X is a family friendly pub located near NEAR-X .
+NAME-X is a pub providing indian food it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing indian food it is located in the city centre . it is near NEAR-X .
+NAME-X is a pub providing indian food it is located in the riverside . it is near NEAR-X .
+NAME-X is a pub providing indian food it is located in the riverside . it is near NEAR-X .
+NAME-X is an italian pub in the city centre near NEAR-X . it is not family-friendly .
+NAME-X is a family-friendly italian pub near NEAR-X in the city centre .
+NAME-X is an italian pub in riverside near NEAR-X . it is not family-friendly .
+NAME-X is a family friendly italian pub near NEAR-X in the riverside area .
+NAME-X is a family friendly restaurant located near NEAR-X .
+NAME-X is a restaurant providing indian food it is located in the city centre . it is near NEAR-X .
+NAME-X is a restaurant providing indian food it is located in the city centre . it is near NEAR-X .
+NAME-X is a restaurant providing indian food it is located in the riverside . it is near NEAR-X .
+NAME-X is a restaurant providing indian food it is located in the riverside . it is near NEAR-X .
+NAME-X is an italian restaurant located in the city centre near NEAR-X . it is not family-friendly .
+NAME-X is a family-friendly italian restaurant near NEAR-X in the city centre .
+NAME-X is an italian restaurant in the riverside area near NEAR-X . it is not family-friendly .
+NAME-X is a family friendly restaurant located near NEAR-X .
+NAME-X is a coffee shop in riverside .
+NAME-X is a coffee shop near NEAR-X with an average customer rating .
+NAME-X is a coffee shop near NEAR-X with a high customer rating .
+NAME-X is a coffee shop near NEAR-X .
+NAME-X is a pub in riverside .
+NAME-X is a pub near NEAR-X with an average customer rating .
+NAME-X is a pub near NEAR-X with a high customer rating .
+NAME-X is a pub near NEAR-X .

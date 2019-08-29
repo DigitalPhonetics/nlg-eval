@@ -1,0 +1,1862 @@
+AGENT-0 serves the city of PATIENT-0 .
+AGENT-0 is located in PATIENT-0 .
+the runway name of AGENT-0 is PATIENT-0 .
+the icao location identifier of AGENT-0 is PATIENT-0 .
+AGENT-0 serves the city of PATIENT-0 .
+AGENT-0 serves the city of PATIENT-0 .
+the runway length of AGENT-0 is PATIENT-0 .
+the runway name of AGENT-0 is PATIENT-0 .
+the runway length of AGENT-0 is PATIENT-0 .
+PATIENT-0 is the number of the first runway of AGENT-0 .
+the 1st runway at AGENT-0 is made from PATIENT-0 .
+the runway name of AGENT-0 is PATIENT-0 .
+AGENT-0 is PATIENT-0 metres above sea level .
+AGENT-0 is owned by PATIENT-0 .
+the runway length of AGENT-0 is PATIENT-0 .
+the 1st runway at AGENT-0 is made from PATIENT-0 .
+AGENT-0 is PATIENT-0 metres above sea level .
+AGENT-0 is operated by the PATIENT-0 .
+the runway length of AGENT-0 is PATIENT-0 .
+the runway length of AGENT-0 is PATIENT-0 .
+the icao location identifier of AGENT-0 is PATIENT-0 .
+the runway name of AGENT-0 is PATIENT-0 .
+AGENT-0 is owned by PATIENT-0 .
+the runway name of AGENT-0 is PATIENT-0 .
+the PATIENT-0 is spoken in AGENT-0 .
+AGENT-0 is part of PATIENT-0 .
+PATIENT-0 inhabit AGENT-0 .
+AGENT-0 is in the PATIENT-0 .
+AGENT-0 is in the PATIENT-0 .
+AGENT-0 is part of PATIENT-0 .
+the PATIENT-0 is spoken in AGENT-0 .
+AGENT-0 is in the PATIENT-0 .
+AGENT-0 is part of PATIENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+the AGENT-0 serves PATIENT-0 .
+PATIENT-0 is the largest city in AGENT-0 .
+the AGENT-0 was involved in battles at the PATIENT-0 .
+the transport aircraft for the AGENT-0 is the PATIENT-0 .
+the AGENT-0 was established in PATIENT-0 .
+to the north of AGENT-0 is PATIENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+AGENT-0 is led by the PATIENT-0 .
+the native name of AGENT-0 is PATIENT-0 .
+AGENT-0 is located in PATIENT-0 .
+the architecture style of AGENT-0 is PATIENT-0 .
+AGENT-0 is located in PATIENT-0 .
+the architect of AGENT-0 was PATIENT-0 .
+the construction of AGENT-0 began in PATIENT-0 .
+there are PATIENT-0 floors at AGENT-0 .
+the architect of AGENT-0 was PATIENT-0 .
+AGENT-0 is located in PATIENT-0 .
+AGENT-0 is in the PATIENT-0 .
+AGENT-0 is owned by PATIENT-0 .
+the address of AGENT-0 is PATIENT-0 .
+AGENT-0 has the reference number PATIENT-0 in the national register of historic places .
+the architect of AGENT-0 was PATIENT-0 .
+the AGENT-0 is nicknamed PATIENT-0 .
+AGENT-0 was built in PATIENT-0 .
+AGENT-0 is located in PATIENT-0 .
+AGENT-0 is part of PATIENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+AGENT-0 is part of PATIENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+PATIENT-0 inhabit AGENT-0 .
+one of the significant buildings designed by AGENT-0 is the PATIENT-0 .
+AGENT-0 is located in PATIENT-0 .
+AGENT-0 is part of PATIENT-0 .
+AGENT-0 is part of PATIENT-0 .
+AGENT-0 is part of PATIENT-0 .
+PATIENT-0 are an ethnic group in the AGENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+AGENT-0 has the isbn number PATIENT-0 .
+AGENT-0 was written by PATIENT-0 .
+AGENT-0 is available in PATIENT-0 form .
+AGENT-0 is in the PATIENT-0 .
+the oclc number of AGENT-0 is PATIENT-0 .
+AGENT-0 is available in PATIENT-0 form .
+the PATIENT-0 is spoken in AGENT-0 .
+AGENT-0 was written by PATIENT-0 .
+the issn number of AGENT-0 is PATIENT-0 .
+AGENT-0 was written by PATIENT-0 .
+AGENT-0 is available in PATIENT-0 form .
+the issn number of AGENT-0 is PATIENT-0 .
+AGENT-0 has the lccn number PATIENT-0 .
+the aids journal 's discipline is PATIENT-0 .
+the PATIENT-0 is spoken in AGENT-0 .
+AGENT-0 is in the PATIENT-0 .
+the PATIENT-0 is spoken in AGENT-0 .
+the aids journal 's discipline is PATIENT-0 .
+the PATIENT-0 is spoken in AGENT-0 .
+AGENT-0 was born in PATIENT-0 .
+PATIENT-0 is the parent company of AGENT-0 .
+the novel owen glendower is a notable work by AGENT-0 .
+AGENT-0 is in the PATIENT-0 .
+AGENT-0 is published by PATIENT-0 .
+PATIENT-0 are an ethnic group in the AGENT-0 .
+the PATIENT-0 is spoken in AGENT-0 .
+AGENT-0 was preceded by PATIENT-0 .
+the manager of AGENT-0 is PATIENT-0 .
+AGENT-0 play in PATIENT-0 .
+the full name of AGENT-0 is PATIENT-0 .
+AGENT-0 's ground is in PATIENT-0 .
+AGENT-0 's ground is in PATIENT-0 .
+AGENT-0 's ground is in PATIENT-0 .
+AGENT-0 has PATIENT-0 members .
+AGENT-0 's ground is in PATIENT-0 .
+AGENT-0 played in the PATIENT-0 season .
+AGENT-0 is located in PATIENT-0 .
+AGENT-0 play in PATIENT-0 .
+AGENT-0 played in the PATIENT-0 season .
+AGENT-0 is in the PATIENT-0 .
+AGENT-0 is located in PATIENT-0 .
+the full name of AGENT-0 is PATIENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 is from the PATIENT-0 region .
+the leader of AGENT-0 is PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+PATIENT-0 is a tenant of AGENT-0 .
+AGENT-0 is in the PATIENT-0 .
+the AGENT-0 is in the state of PATIENT-0 .
+PATIENT-0 is the president of AGENT-0 .
+AGENT-0 neighbors PATIENT-0 to its northeast .
+the municipality of the AGENT-0 is PATIENT-0 .
+the capital of AGENT-0 is PATIENT-0 .
+the dean of AGENT-0 is PATIENT-0 .
+there are PATIENT-0 students at the AGENT-0 .
+AGENT-0 is an american .
+PATIENT-0 was a backup pilot of AGENT-0 .
+AGENT-0 graduated from the PATIENT-0 .
+AGENT-0 was a crew member of PATIENT-0 .
+AGENT-0 was selected by nasa in PATIENT-0 .
+AGENT-0 is part of the PATIENT-0 .
+AGENT-0 died on 1998-07-21 .
+AGENT-0 died in PATIENT-0 .
+AGENT-0 is PATIENT-0 .
+AGENT-0 was created by PATIENT-0 .
+the PATIENT-0 broadcast AGENT-0 .
+the comic character auron 's full name is PATIENT-0 .
+AGENT-0 was created by PATIENT-0 .
+the comic character auron 's full name is PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+the comic character asterix is also known as PATIENT-0 .
+AGENT-0 won the PATIENT-0 .
+AGENT-0 is an american .
+AGENT-0 won the PATIENT-0 .
+AGENT-0 is an american .
+AGENT-0 was born in PATIENT-0 .
+the area code for AGENT-0 is PATIENT-0 .
+AGENT-0 is part of PATIENT-0 .
+AGENT-0 is led by the PATIENT-0 .
+AGENT-0 is led by the PATIENT-0 .
+AGENT-0 is led by the PATIENT-0 .
+the total area of AGENT-0 is 347.1 square kilometres .
+AGENT-0 is part of PATIENT-0 .
+AGENT-0 is part of PATIENT-0 .
+AGENT-0 is located at PATIENT-0 above sea level .
+the area code for AGENT-0 is PATIENT-0 .
+AGENT-0 is part of PATIENT-0 .
+the population density of AGENT-0 , is PATIENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+the total area of AGENT-0 is 347.1 square kilometres .
+AGENT-0 is part of PATIENT-0 .
+AGENT-0 is located at PATIENT-0 above sea level .
+AGENT-0 is part of PATIENT-0 .
+the total area of AGENT-0 is 347.1 square kilometres .
+AGENT-0 is part of PATIENT-0 .
+the PATIENT-0 is spoken in AGENT-0 .
+PATIENT-0 is the largest city in AGENT-0 .
+AGENT-0 is in the PATIENT-0 .
+covington is the county seat of AGENT-0 .
+AGENT-0 is in the PATIENT-0 .
+PATIENT-0 is the largest city in AGENT-0 .
+AGENT-0 is in the PATIENT-0 .
+PATIENT-0 is the largest city in AGENT-0 .
+PATIENT-0 is the largest city in AGENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+AGENT-0 is located in PATIENT-0 .
+PATIENT-0 is an ingredient in AGENT-0 .
+PATIENT-0 is an ingredient in AGENT-0 .
+PATIENT-0 is an ingredient in AGENT-0 .
+AGENT-0 is from the PATIENT-0 region .
+AGENT-0 is from the PATIENT-0 region .
+AGENT-0 is from the PATIENT-0 region .
+PATIENT-0 is an ingredient in AGENT-0 .
+AGENT-0 is from the PATIENT-0 region .
+AGENT-0 serves the city of PATIENT-0 .
+AGENT-0 is in the PATIENT-0 .
+PATIENT-0 is an ingredient in AGENT-0 .
+AGENT-0 is from the PATIENT-0 region .
+AGENT-0 is a dish served for PATIENT-0 .
+PATIENT-0 is a variation of AGENT-0 .
+the main ingredients of AGENT-0 are PATIENT-0 .
+PATIENT-0 is an ingredient in AGENT-0 .
+AGENT-0 is from the PATIENT-0 region .
+the comic character asterix is also known as PATIENT-0 .
+PATIENT-0 is an ingredient in AGENT-0 .
+PATIENT-0 is a variation of AGENT-0 .
+AGENT-0 is from the PATIENT-0 region .
+AGENT-0 class is PATIENT-0 .
+the currency of AGENT-0 is the PATIENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+the PATIENT-0 is spoken in AGENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+PATIENT-0 are an ethnic group in the AGENT-0 .
+PATIENT-0 are an ethnic group in the AGENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+the PATIENT-0 is spoken in AGENT-0 .
+AGENT-0 is in the PATIENT-0 .
+PATIENT-0 is an ingredient in AGENT-0 .
+PATIENT-0 are an ethnic group in the AGENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+the AGENT-0 was established in PATIENT-0 and falls under the category of PATIENT-1 .
+the AGENT-0 is located on the BRIDGE-0 in PATIENT-0 .
+the baku turkish martyrs memorial is dedicated to the PATIENT-0 . it is located in PATIENT-1 .
+the AGENT-0 , known as PATIENT-1 , is dedicated to PATIENT-0 .
+AGENT-0 is from the BRIDGE-0 where the PATIENT-0 are an ethnic group .
+AGENT-0 is located in BRIDGE-0 , the capital of which is PATIENT-0 .
+AGENT-0 is from the PATIENT-1 and is lead by the PATIENT-0 .
+AGENT-0 is located in PATIENT-1 , PATIENT-0 .
+AGENT-0 is part of PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 .
+AGENT-0 is elevated PATIENT-0 metres above sea level and has a total area of 74.33 square metres .
+AGENT-0 is elevated PATIENT-0 metres above sea level and has a total area of 74.33 square metres .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 .
+AGENT-0 is located in PATIENT-1 , PATIENT-0 .
+AGENT-0 is located in PATIENT-1 , PATIENT-0 .
+AGENT-0 is a food found in BRIDGE-0 , the capital of which is PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 .
+AGENT-0 has a population density of 746 inhabitants per square kilometre and has a total area of 74.33 inhabitants per square kilometre .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 .
+PATIENT-0 is the capital of BRIDGE-0 where the AGENT-0 is located .
+PATIENT-0 is the capital of BRIDGE-0 where the AGENT-0 is located .
+AGENT-0 is from the BRIDGE-0 where the PATIENT-0 are an ethnic group .
+AGENT-0 is a food found in BRIDGE-0 , which is part of the PATIENT-0 .
+AGENT-0 is from the BRIDGE-0 where the PATIENT-0 are an ethnic group .
+AGENT-0 originates from the BRIDGE-0 where the PATIENT-0 is spoken .
+AGENT-0 is from the BRIDGE-0 where the leader is known as the president .
+PATIENT-1 is an ingredient in AGENT-0 which comes from PATIENT-0 .
+AGENT-0 is a food found in BRIDGE-0 where the leader is PATIENT-0 .
+AGENT-0 is a food found in BRIDGE-0 where the PATIENT-0 is spoken .
+AGENT-0 is a food found in BRIDGE-0 where the leader is PATIENT-0 .
+PATIENT-0 is an ingredient in AGENT-0 , a dish from PATIENT-1 .
+AGENT-0 is a dish from PATIENT-0 , PATIENT-1 .
+the main ingredients of AGENT-0 are gram flour and vegetables .
+AGENT-0 is a dish from PATIENT-0 , PATIENT-1 .
+BRIDGE-0 is a variation of both the PATIENT-0 and the AGENT-0 .
+the main ingredients of AGENT-0 are PATIENT-1 and PATIENT-0 .
+AGENT-0 , also known as bhaji or bajji , includes the ingredient of PATIENT-1 .
+PATIENT-1 is included in the PATIENT-0 and AGENT-0 .
+PATIENT-1 is an ingredient in AGENT-0 which comes from PATIENT-0 .
+AGENT-0 is a food found in BRIDGE-0 where the leader is PATIENT-0 .
+PATIENT-1 is an ingredient in AGENT-0 which comes from PATIENT-0 .
+the BRIDGE-0 is a variation of both the PATIENT-0 and the AGENT-0 .
+PATIENT-1 is an ingredient in AGENT-0 which comes from PATIENT-0 .
+BRIDGE-0 is an ingredient of AGENT-0 and is a member of the PATIENT-0 family .
+PATIENT-0 is an ingredient in AGENT-0 , a dish from PATIENT-1 .
+AGENT-0 is a food found in BRIDGE-0 where the leader is PATIENT-0 .
+PATIENT-1 is an ingredient in AGENT-0 which comes from PATIENT-0 .
+AGENT-0 is a variation of PATIENT-1 and contains PATIENT-0 .
+PATIENT-1 is an ingredient in AGENT-0 which comes from PATIENT-0 .
+AGENT-0 is a food found in BRIDGE-0 where the leader is PATIENT-0 .
+AGENT-0 is a dish of fish cooked in a sour and hot sauce and comes from the PATIENT-1 .
+AGENT-0 originates from the country of BRIDGE-0 , where PATIENT-0 live .
+AGENT-0 is a food found in BRIDGE-0 where the leader is PATIENT-0 .
+AGENT-0 is from the BRIDGE-0 where the PATIENT-0 are an ethnic group .
+AGENT-0 is a dish of fish cooked in a sour and hot sauce and comes from the PATIENT-1 .
+the main ingredients of AGENT-0 are PATIENT-0 and PATIENT-1 .
+AGENT-0 is a food found in BRIDGE-0 where the leader is PATIENT-0 .
+PATIENT-1 is an ingredient of AGENT-0 which comes from the PATIENT-0 region .
+AGENT-0 is a BRIDGE-0 , as is PATIENT-0 .
+PATIENT-0 is the leader of BRIDGE-0 where AGENT-0 is located .
+BRIDGE-0 is a variation of AGENT-0 and PATIENT-0 .
+AGENT-0 has a runway length of PATIENT-0 and is operated by PATIENT-1 .
+AGENT-0 in PATIENT-1 is PATIENT-0 metres above sea level .
+AGENT-0 is located in PATIENT-1 and has a runway length of PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 .
+AGENT-0 is located in PATIENT-0 and has a runway length of PATIENT-1 .
+AGENT-0 is located in BRIDGE-0 where the PATIENT-0 is spoken .
+the BRIDGE-0 fought in the PATIENT-0 and operates the AGENT-0 .
+the 1st runway at AGENT-0 is made from BRIDGE-0 which belongs to the division of PATIENT-0s .
+the 1st runway at AGENT-0 is made from PATIENT-1 and has a length of PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 where PATIENT-0 is a leader .
+AGENT-0 is located in PATIENT-0 and has a runway length of PATIENT-1 .
+AGENT-0 has a runway length of PATIENT-0 and is PATIENT-1 metres above sea level .
+AGENT-0 is PATIENT-1 metres above sea level and the 1st runway is made from PATIENT-0 .
+AGENT-0 serves the city of PATIENT-0 and has a runway length of PATIENT-1 .
+AGENT-0 serves the city of PATIENT-0 and has a runway length of PATIENT-1 .
+PATIENT-0 is the largest city in BRIDGE-0 where AGENT-0 is located .
+AGENT-0 serves the city of PATIENT-1 and has a runway length of PATIENT-0 .
+the runway length of ardmore airport in new zealand is 1,411 and the 3rd runway is made of PATIENT-1 .
+AGENT-0 is PATIENT-1 metres above sea level and the 1st runway has a length of PATIENT-0 feet .
+AGENT-0 is operated by BRIDGE-0 who have their headquarters in PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 .
+AGENT-0 is operated by PATIENT-0 and the runway name is PATIENT-1 .
+AGENT-0 has a runway length of PATIENT-0 and is operated by PATIENT-1 .
+AGENT-0 is operated by the BRIDGE-0 which is located in PATIENT-0 .
+AGENT-0 has PATIENT-0 members and played in the eredivisie in 2014-15 .
+AGENT-0 has PATIENT-1 members and their ground is the PATIENT-0 .
+BRIDGE-0 , who was born in PATIENT-0 , is the manager of AGENT-0 .
+the manager of AGENT-0 is BRIDGE-0 who plays for PATIENT-0 .
+AGENT-0 has PATIENT-0 members and played in the eredivisie in 2014-15 .
+the manager of AGENT-0 is BRIDGE-0 who plays for PATIENT-0 .
+the manager of AGENT-0 is BRIDGE-0 who plays for PATIENT-0 .
+AGENT-0 has PATIENT-0 members and their ground is in PATIENT-1 .
+AGENT-0 has PATIENT-0 members and their ground is in PATIENT-1 .
+AGENT-0 is in the PATIENT-1 league and their ground is in PATIENT-0 .
+the manager of AGENT-0 is BRIDGE-0 who plays for PATIENT-0 .
+the manager of AGENT-0 is BRIDGE-0 who plays for PATIENT-0 .
+PATIENT-1 ( abbreviated to AGENT-0 ) has PATIENT-0 members .
+AGENT-0 has PATIENT-1 members and their ground is the PATIENT-0 .
+AGENT-0 is in the PATIENT-1 league and their ground is in PATIENT-0 .
+AGENT-0 's ground is BRIDGE-0 , tenanted by PATIENT-0 .
+AGENT-0 's ground is in PATIENT-0 , PATIENT-1 .
+AGENT-0 has PATIENT-1 members and played in the PATIENT-0 season .
+the ground of AGENT-0 is located in BRIDGE-0 , PATIENT-0 .
+the ground of AGENT-0 is located in BRIDGE-0 where the leader is PATIENT-0 .
+BRIDGE-0 plays for PATIENT-0 and manages AGENT-0 .
+PATIENT-0 is the author of AGENT-0 , which was preceded by PATIENT-1 .
+AGENT-0 was written by PATIENT-1 and is available in PATIENT-0 .
+AGENT-0 ( abbreviated to PATIENT-1 ) has the eissn number PATIENT-0 .
+AGENT-0 is written by PATIENT-0 and is available in PATIENT-1 form .
+AGENT-0 has PATIENT-0 pages and the isbn number PATIENT-1 .
+PATIENT-1 is the author of AGENT-0 which was followed by PATIENT-0 .
+the oclc number of AGENT-0 is PATIENT-0 and is available in PATIENT-1 .
+AGENT-0 has PATIENT-0 pages and the isbn number PATIENT-1 .
+PATIENT-0 is the parent company of BRIDGE-0 who publish AGENT-0 .
+AGENT-0 is written by PATIENT-0 and is available in PATIENT-1 form .
+AGENT-0 has the oclc number PATIENT-0 and the isbn number PATIENT-1 .
+the oclc number of AGENT-0 is PATIENT-0 and is available in PATIENT-1 .
+AGENT-0 is written in english which is the language spoken in PATIENT-0 .
+AGENT-0 , isbn number PATIENT-1 , is available in PATIENT-0 .
+AGENT-0 is published by BRIDGE-0 which was founded by PATIENT-0 .
+AGENT-0 is a PATIENT-1 publication with the isbn number PATIENT-0 .
+AGENT-0 has the oclc number PATIENT-0 and the isbn number PATIENT-1 .
+'AGENT-0 ' was followed by 'BRIDGE-0 ' which was written by PATIENT-0 .
+AGENT-0 ( abbreviated to acta palaeontol . pol ) comes under the academic discipline of PATIENT-0 .
+PATIENT-0 is the parent company of BRIDGE-0 who publish AGENT-0 .
+PATIENT-0 is the capital of BRIDGE-0 where the AGENT-0 is located .
+PATIENT-0 is the capital of BRIDGE-0 where the AGENT-0 is located .
+AGENT-0 is from the BRIDGE-0 where the PATIENT-0 are an ethnic group .
+AGENT-0 is from the BRIDGE-0 where the PATIENT-0 are an ethnic group .
+AGENT-0 is from the BRIDGE-0 where the PATIENT-0 are an ethnic group .
+the AGENT-0 is nicknamed asa gigante .
+the AGENT-0 is affiliated with the BRIDGE-0 in PATIENT-0 .
+AGENT-0 is located in PATIENT-1 and its president is PATIENT-0 .
+the AGENT-0 was given the 'technical campus ' status by BRIDGE-0 in PATIENT-0 .
+AGENT-0 is in BRIDGE-0 where PATIENT-0 is the leader .
+dane whitman , a.k.a . black knight , was created by the american , BRIDGE-0 .
+PATIENT-1 stars in AGENT-0 , broadcasted by the PATIENT-0 .
+PATIENT-0 starred in AGENT-0 , broadcasted by PATIENT-1 .
+BRIDGE-0 , born in PATIENT-0 , starred in AGENT-0 .
+AGENT-0 first appeared in the film big hero 6 , starring PATIENT-0 .
+AGENT-0 first appeared in the film big hero 6 , starring PATIENT-0 .
+AGENT-0 , a character in big hero 6 , was created by PATIENT-1 .
+the comic character auron , whose full name is PATIENT-1 , was created by PATIENT-0 .
+the comic book character blockbuster was created by PATIENT-0 and PATIENT-1 .
+the comic character auron , whose full name is PATIENT-1 , was created by PATIENT-0 .
+AGENT-0 ( born on 1932-03-15 ) is now PATIENT-1 .
+AGENT-0 , a PATIENT-1 , is now PATIENT-0 .
+AGENT-0 was born in PATIENT-0 on PATIENT-1 .
+AGENT-0 was born in BRIDGE-0 , PATIENT-0 .
+AGENT-0 was born in PATIENT-0 and was a crew member of PATIENT-1 .
+AGENT-0 graduated from afit , m.s . in 1962 .
+AGENT-0 was completed in PATIENT-1 and has PATIENT-0 floors .
+AGENT-0 has PATIENT-0 floors and is located in PATIENT-1 .
+AGENT-0 has PATIENT-0 floors and a floor area of 62145.3 square metres .
+AGENT-0 has PATIENT-1 floors and is located in PATIENT-0 .
+AGENT-0 was designed by the architect BRIDGE-0 , who is located in the PATIENT-0 .
+PATIENT-1 is the architect of AGENT-0 in PATIENT-0 .
+PATIENT-1 is the architect of AGENT-0 in PATIENT-0 .
+PATIENT-0 is the tenant of AGENT-0 in PATIENT-1 .
+PATIENT-0 was the architect of AGENT-0 , which was completed in PATIENT-1 .
+the AGENT-0 is located in akita , PATIENT-1 .
+AGENT-0 is located in PATIENT-1 , PATIENT-0 .
+AGENT-0 is in PATIENT-0 and has the architectural style of PATIENT-1 .
+AGENT-0 is in PATIENT-0 and has the architectural style of PATIENT-1 .
+AGENT-0 is from the BRIDGE-0 where the PATIENT-0 are an ethnic group .
+AGENT-0 is located at PATIENT-1 and has PATIENT-0 floors .
+the address of AGENT-0 is PATIENT-1 , PATIENT-0 .
+PATIENT-0 is the leader of BRIDGE-0 where AGENT-0 is located .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 .
+AGENT-0 , who is now PATIENT-2 , was born in PATIENT-1 .
+AGENT-0 is a us national who was born in PATIENT-0 .
+AGENT-0 graduated from afit , m.s . in 1962 and was selected by nasa in PATIENT-1 .
+american AGENT-0 was born in PATIENT-1 and attended the PATIENT-0 .
+AGENT-0 graduated from the PATIENT-0 and was selected by nasa in PATIENT-2 . he died in PATIENT-1 .
+AGENT-0 was a student at PATIENT-0 and died in BRIDGE-0 .
+AGENT-0 died in st louis on february 28 , 1966 .
+AGENT-0 was born in BRIDGE-0 and spent 13017 minutes in space .
+the PATIENT-2ed book AGENT-0 was written by PATIENT-1 and has PATIENT-0 pages .
+AGENT-0 is written in english which is the language spoken in PATIENT-0 . it was preceded by PATIENT-1 .
+PATIENT-0 is the leader of BRIDGE-0 where AGENT-0 is published in the PATIENT-1 .
+the AGENT-0 comes under the academic discipline of PATIENT-1 and has the issn number PATIENT-2 .
+the AGENT-0 comes under the academic discipline of PATIENT-1 and has the issn number PATIENT-2 .
+a t charlie johnson lives in the us and his alma mater is PATIENT-1 . he is the editor of AGENT-0 .
+AGENT-0 , written by PATIENT-1 , has the oclc number PATIENT-0 and the isbn number PATIENT-2 .
+AGENT-0 , written by PATIENT-0 , has the oclc number PATIENT-1 and the isbn number PATIENT-2 .
+AGENT-0 is written in english and published by BRIDGE-0 in the PATIENT-1 .
+AGENT-0 , published in the PATIENT-1 , is written in english which is the language spoken in PATIENT-0 .
+the PATIENT-2ed book AGENT-0 has PATIENT-0 pages and the oclc number PATIENT-1 .
+AGENT-0 ( abbreviated to PATIENT-2 ) has the issn number PATIENT-0 and the lccn number PATIENT-1 .
+BRIDGE-0 , written in english , is the sequel to AGENT-0 .
+written by PATIENT-1 , AGENT-0 was followed by BRIDGE-0 written by PATIENT-1 .
+the PATIENT-2ed book AGENT-0 was written by PATIENT-1 and has PATIENT-0 pages .
+AGENT-0 ( abbreviated to PATIENT-2 ) has the issn number PATIENT-0 and the lccn number PATIENT-1 .
+AGENT-0 ( abbreviated to PATIENT-0 ) has the issn number PATIENT-1 and the issn number PATIENT-1 .
+PATIENT-0 is the parent company of BRIDGE-0 who published AGENT-0 which has the issn number PATIENT-1 .
+BRIDGE-0 , PATIENT-1 is affiliated with the association of public and land grant universities and publishes AGENT-0 .
+AGENT-0 written by PATIENT-0 is followed by PATIENT-2 and followed by PATIENT-2 .
+AGENT-0 , published in the PATIENT-1 , is written in english which is the language spoken in PATIENT-0 .
+AGENT-0 is available in PATIENT-0 and has PATIENT-1 pages and the oclc number PATIENT-2 .
+english is spoken in PATIENT-0 and the BRIDGE-1 . AGENT-0 is from the BRIDGE-1 .
+AGENT-0 was written by BRIDGE-0 who died in PATIENT-1 .
+PATIENT-0 is the founder of BRIDGE-0 , which is the publisher of AGENT-0 which has the issn number PATIENT-1 .
+AGENT-0 is from the BRIDGE-0 where the capital is washington d.c. and native americans are one of the ethnic groups .
+AGENT-0 is written in english and originates from the BRIDGE-0 where the PATIENT-0 are an ethnic group .
+AGENT-0 is from the BRIDGE-0 where the capital is washington d.c. and PATIENT-0 are one of the ethnic groups .
+AGENT-0 is from the BRIDGE-0 where PATIENT-0 is the leader and PATIENT-1 are an ethnic group .
+1634 the ram rebellion comes from the BRIDGE-0 where the native americans are an ethnic group and the leader is known as the president .
+1634 the ram rebellion comes from the BRIDGE-0 where the native americans are an ethnic group and the leader is known as the president .
+BRIDGE-0 is the manager of AGENT-0 and plays for PATIENT-0 and PATIENT-1 .
+BRIDGE-0 is the manager of AGENT-0 and plays for PATIENT-0 and PATIENT-1 .
+the full name of AGENT-0 is `` PATIENT-0 '' and they have PATIENT-2 members .
+BRIDGE-0 is the manager of AGENT-0 and plays for PATIENT-0 and PATIENT-1 .
+AGENT-0 has PATIENT-0 members and their chairman is PATIENT-1 . the club has PATIENT-0 members .
+PATIENT-2 ( abbreviated to AGENT-0 ) has PATIENT-1 members and its ground is in PATIENT-0 .
+BRIDGE-0 is the manager of AGENT-0 and plays for PATIENT-0 and PATIENT-1 .
+BRIDGE-0 is the manager of AGENT-0 and plays for PATIENT-0 and PATIENT-1 .
+PATIENT-2 ( abbreviated to AGENT-0 ) has PATIENT-1 members and its ground is in PATIENT-0 .
+AGENT-0 is managed by PATIENT-0 and play in the BRIDGE-0 league of which carpi fc 1909 are the champions .
+BRIDGE-0 is the manager of AGENT-0 and plays for PATIENT-0 and PATIENT-1 .
+AGENT-0 play in the BRIDGE-0 league in which juventus fc have been champions .
+BRIDGE-0 is the manager of AGENT-0 and plays for PATIENT-0 and PATIENT-1 .
+AGENT-0 's ground is BRIDGE-0 , where the leader is PATIENT-0 .
+AGENT-0 's ground is BRIDGE-0 , where the leader is PATIENT-0 .
+BRIDGE-0 is the manager of AGENT-0 and plays for PATIENT-0 and PATIENT-1 .
+AGENT-0 play in PATIENT-0 and play their home matches at the PATIENT-1 .
+peter stoger is the manager of fc kolin and plays for both PATIENT-0 and PATIENT-1 .
+BRIDGE-0 manages the AGENT-0 and plays for PATIENT-0 and PATIENT-1 .
+BRIDGE-0 manages the AGENT-0 and plays for PATIENT-0 and PATIENT-1 .
+peter stoger is the manager of fc kolin and plays for both PATIENT-0 and PATIENT-1 .
+AGENT-0 , designed by the architect BRIDGE-0 , was born in PATIENT-1 and is located in PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 where the leader is PATIENT-1 .
+AGENT-0 , PATIENT-0 has PATIENT-2 floors and a floor area of 30843.8 square metres .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , where PATIENT-0 is a leader .
+the architect of AGENT-0 is BRIDGE-0 , the PATIENT-0 and has PATIENT-1 floors .
+PATIENT-1 was the architect of AGENT-0 which was completed in PATIENT-2 and is located in PATIENT-0 .
+PATIENT-1 is the tenant of AGENT-0 which has PATIENT-2 floors and is located in PATIENT-0 .
+the tenant of the ac hotel bella sky in copenhagen is PATIENT-0 and it has PATIENT-2 floors .
+BRIDGE-0 , born in PATIENT-1 , designed the AGENT-0 and the PATIENT-0 .
+PATIENT-0 is the architect of AGENT-0 which was completed in PATIENT-1 and owned by jp mcmanus .
+AGENT-0 in PATIENT-2 was finished in PATIENT-1 and has the architectural style of PATIENT-0 .
+AGENT-0 in PATIENT-1 was completed in PATIENT-2 and has the architectural style of tudor and jacobean .
+AGENT-0 is located in PATIENT-0 , BRIDGE-0 . PATIENT-1 is the leader of BRIDGE-0 .
+AGENT-0 is a food found in BRIDGE-0 , where the capital is PATIENT-0 and the currency is the PATIENT-1 .
+the BRIDGE-0 is located in the PATIENT-1 and are the current tenants of alan b miller hall in the PATIENT-1 .
+PATIENT-0 born BRIDGE-0 was the architect of the grounds of asilomar conference and the PATIENT-1 .
+BRIDGE-0 , born in PATIENT-1 , designed the AGENT-0 and the PATIENT-0 .
+AGENT-0 is located in PATIENT-0 and was added to the national register of historic places on february the 27nd 1987 with the reference number PATIENT-2 .
+AGENT-0 , constructed in PATIENT-1 , is located in PATIENT-0 and was added to the national register of historic places on 23rd april 1980 .
+AGENT-0 , constructed in PATIENT-1 , is located in PATIENT-0 and was added to the national register of historic places on 23rd april 1980 .
+AGENT-0 was designed by the architect BRIDGE-1 , who was born in BRIDGE-0 where PATIENT-0 is the leader .
+AGENT-0 was designed by the architect BRIDGE-1 who was born in BRIDGE-0 where PATIENT-0 is the leader .
+PATIENT-1 is the leader of BRIDGE-0 where AGENT-0 is located .
+PATIENT-0 is the leader of BRIDGE-0 where AGENT-0 is located in PATIENT-1 .
+PATIENT-1 is a key person at BRIDGE-0 which is the tenant of ac hotel bella sky in PATIENT-0 .
+the AGENT-0 is located in BRIDGE-0 , part of the PATIENT-0 in the PATIENT-1 .
+AGENT-0 has a total area of 1421.2 inhabitants per square kilometre and is lead by the PATIENT-1 .
+AGENT-0 is a food found in BRIDGE-0 , PATIENT-1 , where the PATIENT-0 are an ethnic group .
+AGENT-0 is a food found in BRIDGE-0 , PATIENT-1 , where the PATIENT-0 are an ethnic group .
+AGENT-0 is from the BRIDGE-0 where PATIENT-0 are an ethnic group and the capital is washington d.c .
+the area of AGENT-0 is PATIENT-0 and it has an area code of PATIENT-1 .
+BRIDGE-0 , which is part of PATIENT-0 , is the location of AGENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , PATIENT-0 .
+AGENT-0 is a food found in BRIDGE-0 , PATIENT-0 , where the PATIENT-1 are an ethnic group .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 .
+AGENT-0 is from the BRIDGE-0 where PATIENT-0 are an ethnic group and the capital is washington d.c .
+the area density of AGENT-0 , which has the area code of PATIENT-0 , is PATIENT-2 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-2 , PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , BRIDGE-1 where the largest city is PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-2 , PATIENT-1 .
+AGENT-0 is located in BRIDGE-0 , the capital of which is PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , part of the PATIENT-0 in PATIENT-1 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , where the capital is PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , PATIENT-0 .
+PATIENT-0 is the capital of BRIDGE-0 where AGENT-0 is a traditional sauce .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , where the largest city is PATIENT-1 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , where the capital is PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , which is part of BRIDGE-1 , where the capital is PATIENT-0 .
+AGENT-0 originates from the BRIDGE-0 where the capital is PATIENT-0 and the language is italian .
+AGENT-0 is a food found in BRIDGE-0 , PATIENT-1 , where the PATIENT-0 are an ethnic group .
+AGENT-0 is a food found in BRIDGE-0 , PATIENT-1 , where the PATIENT-0 are an ethnic group .
+AGENT-0 is from the BRIDGE-0 where PATIENT-1 is the leader and PATIENT-0 are one of the ethnic groups .
+AGENT-0 is from the BRIDGE-0 where the language is english and the native americans are an ethnic group .
+AGENT-0 is from the BRIDGE-0 where the language is english and the native americans are an ethnic group .
+AGENT-0 is operated by the PATIENT-1 . its runway name is PATIENT-2 and it has a length of PATIENT-0 .
+AGENT-0 serves the city of PATIENT-0 and has a runway length of PATIENT-1 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , PATIENT-0 .
+the icao location identifier of AGENT-0 in PATIENT-0 is PATIENT-2 . the airport is operated by the PATIENT-1 .
+AGENT-0 in PATIENT-1 is operated by the PATIENT-0 and has a runway length of PATIENT-2 .
+AGENT-0 is operated by the BRIDGE-0 who were involved in battles at the PATIENT-1 and the invasion of panama .
+AGENT-0 is operated by the BRIDGE-0 who were involved in the PATIENT-0 and the invasion of panama .
+the 1st runway at AGENT-0 is made from PATIENT-0 and has a length of PATIENT-1 .
+AGENT-0 is located in PATIENT-0 and is operated by BRIDGE-0 whose headquarters are in PATIENT-1 .
+AGENT-0 is located in PATIENT-0 and has a runway name of PATIENT-1 with a length of PATIENT-2 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 and is 23 metres above sea level .
+AGENT-0 in PATIENT-0 has a runway length of PATIENT-1 and is PATIENT-2 metres above sea level .
+AGENT-0 in PATIENT-0 has a runway length of PATIENT-1 and is PATIENT-2 metres above sea level .
+the AGENT-0 club is located in BRIDGE-0 where the PATIENT-0 is spoken and the capital city is austin .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , where the people are called PATIENT-0s .
+AGENT-0 serves the city of BRIDGE-1 in BRIDGE-0 where the PATIENT-0 is spoken .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , PATIENT-0 .
+the AGENT-0 is operated by the BRIDGE-0 which serves the city of PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 and has a runway length of PATIENT-0 .
+AGENT-0 serves the city of BRIDGE-0 in BRIDGE-1 . PATIENT-0 is the leader of BRIDGE-1 .
+adolfo suárez madrid barajas airport is found in BRIDGE-0 where the leader party is the peoples party ( spain ) .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , where the leader party is the peoples party ( PATIENT-1 ) .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , where the leader party is the peoples party ( PATIENT-1 ) .
+the AGENT-0 is located in BRIDGE-0 , PATIENT-0 .
+carrol county maryland is southeast of adams county pennsylvania , where the AGENT-0 is located .
+the AGENT-0 , known as turk sehitleri aniti , is located in BRIDGE-0 , where the capital is PATIENT-0 .
+the AGENT-0 is located in BRIDGE-0 where the leader is PATIENT-0 and the national anthem is the PATIENT-1 .
+the atatürk monument is located in izmir , BRIDGE-0 , where the capital is PATIENT-1 and the leader is PATIENT-0 .
+PATIENT-2 is an ingredient of AGENT-0 which comes from the PATIENT-0 region of PATIENT-1 .
+the main ingredients of AGENT-0 are PATIENT-2 and PATIENT-0 .
+BRIDGE-0s are from the PATIENT-0 family and is an ingredient in AGENT-0 .
+PATIENT-2 is an ingredient of AGENT-0 which comes from the PATIENT-0 region of PATIENT-1 .
+PATIENT-1 is an ingredient in AGENT-0 which comes from the PATIENT-0 region .
+the main ingredients of AGENT-0 are noodles , pork organs , vegetables , chicken , shrimp and beef .
+AGENT-0 is a food found in BRIDGE-0 , where the capital is PATIENT-0 and the leader is PATIENT-1 .
+AGENT-0 is a food found in PATIENT-1 and is popular in BRIDGE-0 where the PATIENT-0 are an ethnic group .
+the BRIDGE-0 is a variation of both the PATIENT-1 and the AGENT-0 .
+AGENT-0 comes from the BRIDGE-0 where PATIENT-0 is the leader and PATIENT-1 are an ethnic group .
+AGENT-0 is a food found in BRIDGE-0 , which leader is PATIENT-0 and the capital is PATIENT-1 .
+the BRIDGE-0 is a variation of both the PATIENT-0 and the AGENT-0 .
+PATIENT-2 is an ingredient of AGENT-0 which comes from the PATIENT-1 region of PATIENT-0 .
+AGENT-0 is a food found in BRIDGE-0 where the currency is the PATIENT-1 and the leader is PATIENT-0 .
+PATIENT-2 is an ingredient of AGENT-0 which comes from the PATIENT-1 region of PATIENT-0 .
+PATIENT-1 is an ingredient of AGENT-0 which is served as a BRIDGE-0 .
+AGENT-0 is a PATIENT-1 dish from the PATIENT-0 region . the main ingredients are ground almonds , jam , butter and eggs .
+AGENT-0 is a variation of PATIENT-1 and PATIENT-0 .
+PATIENT-1 is an ingredient of AGENT-0 which comes from the PATIENT-0 region .
+PATIENT-0 is an ingredient in AGENT-0 which comes from the PATIENT-2 region of PATIENT-1 .
+PATIENT-2 is an ingredient of AGENT-0 which comes from the PATIENT-0 region of PATIENT-1 .
+AGENT-0 can be found in BRIDGE-0 where the leaders are PATIENT-0 and PATIENT-1 .
+the main ingredients of AGENT-0 are noodles , pork organs , vegetables , chicken , shrimp and beef .
+the main ingredients of AGENT-0 are noodles , pork organs , vegetables , chicken , shrimp and beef .
+AGENT-0 is a dish from PATIENT-0 and BRIDGE-0 . PATIENT-1 is the leader of BRIDGE-0 .
+PATIENT-2 is an ingredient of AGENT-0 which comes from the PATIENT-0 region of PATIENT-1 .
+PATIENT-1 is an ingredient in AGENT-0 which comes from the PATIENT-0 region .
+AGENT-0 is a food found in BRIDGE-0 where the currency is the PATIENT-0 and the leader is PATIENT-1 .
+PATIENT-0 is an ingredient in AGENT-0 , a type of BRIDGE-0 . PATIENT-1 is also a BRIDGE-0 .
+PATIENT-0 is an ingredient in AGENT-0 , a type of BRIDGE-0 . PATIENT-1 is also a BRIDGE-0 .
+PATIENT-0 is an ingredient in AGENT-0 , a type of BRIDGE-0 . PATIENT-1 is also a BRIDGE-0 .
+the main ingredients of AGENT-0 are BRIDGE-0tes and BRIDGE-0 ( of the order of PATIENT-1 ) .
+AGENT-0 is a PATIENT-1 dish from the PATIENT-0 . it contains PATIENT-2 .
+PATIENT-2 is an ingredient of AGENT-0 which comes from the PATIENT-1 region of PATIENT-0 .
+AGENT-0 is a food found in BRIDGE-0 where the currency is the PATIENT-1 and the leader is PATIENT-0 .
+AGENT-0 is a traditional sauce from BRIDGE-0 , where the capital is PATIENT-0 and the leader is PATIENT-1 .
+AGENT-0 is from the BRIDGE-0 where the language is english and the native americans are an ethnic group .
+AGENT-0 originates from BRIDGE-0 where the PATIENT-1 is spoken and the leader is PATIENT-0 .
+BRIDGE-0 belongs to the order of PATIENT-0 and is an ingredient in AGENT-0 .
+AGENT-0 in PATIENT-2 , PATIENT-0 has an academic staff of PATIENT-1 .
+the AGENT-0 , PATIENT-0 , has PATIENT-1 postgraduate students and is affiliated with the PATIENT-2 .
+AGENT-0 is in BRIDGE-0 , where PATIENT-0 is the leader .
+the AGENT-0 is located in BRIDGE-0 . the country 's anthem is PATIENT-1 and its ethnic group is PATIENT-0 .
+AGENT-0 is from the BRIDGE-0 where PATIENT-1 is the leader and PATIENT-0 are one of the ethnic groups .
+the AGENT-0 was established in PATIENT-1 and is affiliated with the BRIDGE-0 in PATIENT-0 .
+the AGENT-0 was established in PATIENT-2 in PATIENT-0 , PATIENT-1 .
+AGENT-0 was created by PATIENT-1 and the american , BRIDGE-0 .
+AGENT-0 , starring PATIENT-0 , was created by PATIENT-1 and starred PATIENT-0 .
+AGENT-0 first appeared in the film big hero 6 , starring PATIENT-0 .
+AGENT-0 is a character in the film big hero 6 , which was distributed by PATIENT-0 and starred PATIENT-1 .
+AGENT-0 is a character in big hero 6 which starred PATIENT-0 .
+the comic character blockbuster , aka PATIENT-1 , was created by PATIENT-0 and PATIENT-2 .
+the comic character arion , also known as PATIENT-0 , was created by PATIENT-2 and PATIENT-2 .
+the comic character blockbuster , aka PATIENT-1 , was created by PATIENT-0 and PATIENT-2 .
+AGENT-0 , PATIENT-0 , was completed in PATIENT-1 and has PATIENT-3 floors and was completed in PATIENT-1 .
+AGENT-0 is located in BRIDGE-0 , the capital of which is PATIENT-1 . one of the ethnic groups in the country are the PATIENT-0 and the PATIENT-2 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 , PATIENT-1 and is governed by the PATIENT-2 .
+AGENT-0 , PATIENT-0 , has a floor area of 30843.8 square metres and a floor count of PATIENT-3 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , PATIENT-2 . PATIENT-0 is a leader in BRIDGE-0 .
+AGENT-0 , PATIENT-0 , has PATIENT-3 floors and a floor area of 30843.8 square metres .
+AGENT-0 , located in BRIDGE-0 , PATIENT-1 , is owned by PATIENT-0 .
+the ac hotel bella sky in PATIENT-1 , designed by PATIENT-2 , has PATIENT-3 floors and was designed by PATIENT-2 .
+AGENT-0 is located in PATIENT-0 , PATIENT-1 and is governed by the PATIENT-2 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 , BRIDGE-1 . one of the ethnic groups in BRIDGE-1 is the filipinos .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 , BRIDGE-1 . one of the ethnic groups in BRIDGE-1 is the filipinos .
+the PATIENT-1 are an ethnic group in BRIDGE-0 where AGENT-0 is located in PATIENT-0 .
+the AGENT-0 is located in PATIENT-1 , PATIENT-2 , BRIDGE-0 . BRIDGE-0 has an ethnic group called PATIENT-0 .
+AGENT-0 , located at PATIENT-2 , is owned by PATIENT-0 and completed in PATIENT-1 .
+AGENT-0 is located in PATIENT-0 , BRIDGE-0 . two leaders of BRIDGE-0 are PATIENT-1 and PATIENT-2 .
+AGENT-0 was constructed in PATIENT-3 in PATIENT-0 and was added to the national register of historic places on february the 27nd 1987 with the reference number PATIENT-2 .
+located in PATIENT-0 , AGENT-0 was constructed in PATIENT-2 and added to the national register of historic places on 23rd april 1980 with the reference number PATIENT-1 .
+AGENT-0 is located in BRIDGE-1 , PATIENT-1 , where PATIENT-0 is the leader .
+AGENT-0 is located in BRIDGE-0 , PATIENT-2 , PATIENT-0 . PATIENT-1 is the leader of BRIDGE-1 .
+AGENT-0 was designed by the architect BRIDGE-1 , who was born in BRIDGE-0 . the british politician khalid mahmood is a leader in BRIDGE-0 .
+AGENT-0 was designed by the architect BRIDGE-1 , who was born in BRIDGE-0 . the british politician khalid mahmood is a leader in BRIDGE-0 .
+AGENT-0 is located in BRIDGE-0 , BRIDGE-1 , where the leader is PATIENT-1 and the leader is PATIENT-0 .
+AGENT-0 is located in PATIENT-1 , BRIDGE-0 . two leaders of BRIDGE-0 are PATIENT-0 and PATIENT-2 .
+AGENT-0 is located in BRIDGE-1 , BRIDGE-0 , where the PATIENT-0 are an ethnic group .
+PATIENT-1 is the leader of the BRIDGE-1 where the leader is known as the president . the country is the location of the AGENT-0 in the BRIDGE-1 .
+AGENT-0 is located in the BRIDGE-0 . the country 's leader is PATIENT-2 and its leader is PATIENT-2 .
+the AGENT-0 in PATIENT-1 , PATIENT-1 was established in PATIENT-2 .
+AGENT-0 is located in the BRIDGE-0 , where the capital is PATIENT-0 and the leader is prime minister PATIENT-2 .
+the AGENT-0 , known as turk sehitleri aniti , is located in BRIDGE-0 , where the capital is PATIENT-0 and the leader is PATIENT-2 .
+the AGENT-0 was established on 11 july 1907 and is located in the district of the BRIDGE-0 in PATIENT-0 .
+the ataturk monument ( izmir ) is made of PATIENT-2 . it is located in BRIDGE-0 , where the capital is PATIENT-1 and the leader is PATIENT-0 .
+BRIDGE-0 , where the leader is known as the president , is the location of the PATIENT-1 ataturk monument ( izmir ) which was inaugurated on 27 july 1932 .
+AGENT-0 is located in the BRIDGE-0 , where the language is spanish and one of the ethnic groups are the PATIENT-2 .
+AGENT-0 has an area code of PATIENT-0 and a total area of 140000 square kilometres . it is managed by PATIENT-3 .
+AGENT-0 is located in PATIENT-2 , PATIENT-1 , PATIENT-0 .
+AGENT-0 is a food found in BRIDGE-1 , where the capital is PATIENT-0 and the PATIENT-1 are an ethnic group .
+AGENT-0 is located in the state of BRIDGE-1 , the capital of which is PATIENT-1 .
+PATIENT-0 is the leader of BRIDGE-1 where the PATIENT-1 is spoken . the country is the location of AGENT-0 .
+AGENT-0 is located at PATIENT-2 metres above sea level and has a population of 1421.2 inhabitants per square kilometre .
+AGENT-0 has a total area of 111484 square metres and is part of PATIENT-2 in the PATIENT-1 .
+the area of AGENT-0 , which has the area code of PATIENT-2 , is located in the town of PATIENT-1 and has PATIENT-0 floors .
+the area density of AGENT-0 , which is governed by the PATIENT-2 , is PATIENT-2 . the leader of the country is PATIENT-2 .
+the AGENT-0 is located in BRIDGE-0 , BRIDGE-1 , BRIDGE-1 . one of the ethnic groups in BRIDGE-1 is the filipinos .
+the AGENT-0 is located in BRIDGE-0 , BRIDGE-1 , where the PATIENT-1 are an ethnic group .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , where the capital is PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-2 , PATIENT-0 . the capital of BRIDGE-0 is PATIENT-1 .
+AGENT-0 is located in BRIDGE-0 , part of the PATIENT-0 in BRIDGE-1 .
+AGENT-0 is located in the BRIDGE-1 , which is part of PATIENT-1 , in the PATIENT-1 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , PATIENT-0 .
+AGENT-0 is located in BRIDGE-1 , BRIDGE-1 , PATIENT-1 , where the capital is PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , where the largest city is PATIENT-2 .
+AGENT-0 is from the BRIDGE-0 , which is lead by PATIENT-1 . native americans are one of the ethnic groups of the BRIDGE-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-2 , where the largest city is PATIENT-1 and the capital is PATIENT-0 .
+AGENT-0 is from the BRIDGE-0 where the leader is known as the president and the native americans are an ethnic group . the country 's leader is known as the president .
+AGENT-0 is from the BRIDGE-0 where PATIENT-1 is the leader and PATIENT-0 are one of the ethnic groups .
+AGENT-0 is from the BRIDGE-0 , PATIENT-2 , where the capital is washington d.c. and PATIENT-0 are one of the ethnic groups .
+AGENT-0 originates from the BRIDGE-0 , where PATIENT-1 is a leader and the PATIENT-0 are an ethnic group .
+the PATIENT-1 are an ethnic group in the BRIDGE-0 where PATIENT-0 is spoken and AGENT-0 is a traditional dish .
+the PATIENT-2 are an ethnic group in the BRIDGE-0 where the PATIENT-0 are an ethnic group and AGENT-0 is a traditional dish .
+the PATIENT-2 are an ethnic group in the BRIDGE-0 where the PATIENT-0 are an ethnic group and AGENT-0 is a traditional dish .
+BRIDGE-0 has been manager of ac lumezzane and plays for both PATIENT-0 and PATIENT-2 .
+BRIDGE-0 , who was born in PATIENT-1 , has managed ac chievo verona and plays for PATIENT-0 and PATIENT-2 .
+italian born BRIDGE-0 is manager of 1 . fc köln and plays for both PATIENT-2 and PATIENT-2 .
+with PATIENT-0 members , AGENT-0 's ground is located in PATIENT-2 and they have PATIENT-0 members .
+PATIENT-0 is the leader of BRIDGE-0 where the ground of afc BRIDGE-0 is located . the club is managed by stuart parker who has represented the club PATIENT-1 .
+PATIENT-0 is the leader of BRIDGE-0 where the ground of afc BRIDGE-0 is located . the club is managed by stuart parker who has represented the club PATIENT-1 .
+PATIENT-3 ( abbreviated to AGENT-0 ) has PATIENT-2 members and their ground is the mechanics .
+PATIENT-2 ( abbreviated to AGENT-0 ) has PATIENT-1 members and played in the PATIENT-0 season and has PATIENT-1 members .
+BRIDGE-0 has been manager of ac lumezzane and plays for both PATIENT-0 and PATIENT-2 .
+AGENT-0 has PATIENT-0 members and play in the PATIENT-2 . they have PATIENT-0 members and play in the PATIENT-2 .
+AGENT-0 's ground is BRIDGE-0 , tenanted by PATIENT-0 and owned by PATIENT-0 nv .
+AGENT-0 , full name `` PATIENT-3 '' , played in the PATIENT-1 season and have PATIENT-2 members .
+BRIDGE-0 has been manager of ac lumezzane and plays for both PATIENT-0 and PATIENT-2 .
+agremiacao sportiva arapiraquense 's ground is the estadio minicipal coaracy da mata fonseca in PATIENT-0 . they play in the BRIDGE-1 league which is based in PATIENT-0 .
+AGENT-0 play in the BRIDGE-0 league in PATIENT-0 . their ground is located in PATIENT-1 .
+AGENT-0 play in the BRIDGE-0 league in PATIENT-0 . their ground is located in PATIENT-1 .
+AGENT-0 's ground is st. vincent-st. mary high school , BRIDGE-0 , PATIENT-1 .
+the ground of AGENT-0 is located in BRIDGE-0 , where the capital is PATIENT-1 and the leaders are PATIENT-0 and PATIENT-2 .
+peter stoger is the manager of fc kolin and plays for both PATIENT-0 and PATIENT-2 .
+PATIENT-0 is served by AGENT-0 which is located PATIENT-2 metres above sea level . the runway name is PATIENT-3 and has a length of PATIENT-1 .
+AGENT-0 serves the city of PATIENT-0 and is located PATIENT-2 metres above sea level and has a runway length of PATIENT-1 .
+adolfo suarez madrid-barajas airport is located at PATIENT-2 and is operated by PATIENT-3 . the runway name is PATIENT-0 and has a length of PATIENT-1 .
+AGENT-0 is operated by the PATIENT-1 . it is operated by the PATIENT-1 and has the icao location identifier PATIENT-2 .
+the PATIENT-0 is the operating organisation for AGENT-0 in PATIENT-1 . the runway name is PATIENT-3 and it has a length of PATIENT-2 .
+AGENT-0 is operated by the PATIENT-0 and is located in PATIENT-2 . the runway name is PATIENT-3 and it has a length of PATIENT-1 .
+AGENT-0 is operated by the BRIDGE-0 . the usaf fought in the PATIENT-0 and the invasion of panama .
+the PATIENT-2 governs the AGENT-0 in PATIENT-0 . the airport serves the city of PATIENT-3 and has a runway length of PATIENT-1 .
+PATIENT-0 is served by AGENT-0 which is located PATIENT-3 metres above sea level and has a runway name of PATIENT-1 with a length of PATIENT-2 .
+PATIENT-0 is served by AGENT-0 which is located PATIENT-3 metres above sea level and has a runway name of PATIENT-1 with a length of PATIENT-2 .
+AGENT-0 , located in PATIENT-0 , is PATIENT-3 metres above sea level and has a runway length of PATIENT-1 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-2 , where the people are called PATIENT-1s and the capital city is PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-2 . the capital of BRIDGE-0 is PATIENT-0 and the language spoken is greek .
+AGENT-0 is located in BRIDGE-0 , PATIENT-2 and serves the city of PATIENT-1 .
+AGENT-0 is operated by the PATIENT-0 and owned by the PATIENT-1 . it is 12 metres above sea level and has a runway length of PATIENT-3 .
+AGENT-0 is operated by BRIDGE-0 who have their headquarters in PATIENT-0 . the hub airport for BRIDGE-0 is PATIENT-1 .
+AGENT-0 is located in sao jose dos pinhais and serves the city of PATIENT-0 . it is PATIENT-2 metres above sea level and has a runway length of PATIENT-3 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 . the leader of BRIDGE-1 is PATIENT-1 .
+AGENT-0 is located in BRIDGE-1 , PATIENT-1 , PATIENT-1 . the leader of BRIDGE-0 is PATIENT-0 .
+PATIENT-0 is the leader of BRIDGE-0 where the PATIENT-1 is spoken . BRIDGE-1 is served by AGENT-0 .
+PATIENT-0 is the leader of BRIDGE-0 where the PATIENT-1 is spoken . BRIDGE-1 is served by AGENT-0 .
+AGENT-0 serves the city of saranac lake , PATIENT-1 , PATIENT-0 .
+AGENT-0 serves the city of BRIDGE-1 in BRIDGE-0 where the PATIENT-0 is spoken and the leader is PATIENT-1 .
+AGENT-0 serves the city of BRIDGE-1 in BRIDGE-0 . the country is led by PATIENT-0 and uses the PATIENT-1 .
+PATIENT-1 is the leader of BRIDGE-1 where AGENT-0 is located in akita , PATIENT-0 .
+the 1st runway at AGENT-0 is made from BRIDGE-0 which belongs to the division of PATIENT-0s and the order PATIENT-2 .
+PATIENT-0 is a key person at BRIDGE-0 which is located in PATIENT-2 and broadcast AGENT-0 which has a product called PATIENT-1 .
+AGENT-0 first aired on the PATIENT-0 on PATIENT-3 and broadcast its last episode on PATIENT-3 . the series was created by PATIENT-1 .
+AGENT-0 is a character in the film big hero 6 which starred PATIENT-0 .
+bolt , also known as PATIENT-2 , was created by PATIENT-0 and ernie colon , a puerto rican national .
+BRIDGE-0 was born in burbank california and is the author of AGENT-0 . demarce short stories in the grantville gazettes preceded AGENT-0 .
+AGENT-0 , written by PATIENT-2 , has PATIENT-1 pages and is available in PATIENT-0 .
+PATIENT-1 is the leader of BRIDGE-1 where the aids journal is published . the aids journal is published by lippincott , williams & wilkins .
+AGENT-0 , written by PATIENT-2 , is available in PATIENT-0 with the oclc number PATIENT-1 and the isbn number PATIENT-3 .
+AGENT-0 , written by PATIENT-0 , has the oclc number PATIENT-1 and the isbn number PATIENT-2 . it is available in PATIENT-3 .
+AGENT-0 is from the BRIDGE-1 where the native americans are an ethnic group . the book is written in english which is the language spoken in PATIENT-0 .
+AGENT-0 is published by BRIDGE-0 in the BRIDGE-1 where the native americans are an ethnic group .
+AGENT-0 , written by PATIENT-2 , has PATIENT-1 pages and is available in PATIENT-0 .
+AGENT-0 is part of the academic discipline of PATIENT-2 . it has the lccn number PATIENT-0 and the issn number PATIENT-3 .
+AGENT-0 is concerned with the academic discipline of PATIENT-1 . it has the lccn number PATIENT-0 and the issn number PATIENT-3 .
+PATIENT-3 journal ( abbreviated to PATIENT-3 ) is published by PATIENT-0 . the issn number is PATIENT-1 and the lccn number is PATIENT-2 .
+BRIDGE-0 , which is affiliated with the PATIENT-1 , is the publisher of AGENT-0 and is affiliated with the association of public and land grant universities .
+BRIDGE-0 in PATIENT-2 is affiliated with the association of public and land grant universities and publishes AGENT-0 .
+AGENT-0 was written by PATIENT-1 and has PATIENT-0 pages . it was written by PATIENT-1 and has the isbn number PATIENT-2 .
+AGENT-0 is from the BRIDGE-1 where the native americans are an ethnic group . the book is written in english which is the language spoken in PATIENT-0 .
+BRIDGE-0 ( parent company PATIENT-1 ) is the publisher of AGENT-0 , which was published by PATIENT-2 and located in the PATIENT-0 .
+english is spoken in PATIENT-0 and the BRIDGE-1 . AGENT-0 is from the BRIDGE-1 where PATIENT-1 are an ethnic group .
+AGENT-0 is written in english which is the language spoken in PATIENT-1 . it originates from the BRIDGE-0 where PATIENT-0 is a leader .
+AGENT-0 is from the BRIDGE-0 , where PATIENT-0 is a leader and the PATIENT-2 are an ethnic group . the book is written in english .
+english is spoken in PATIENT-1 and the BRIDGE-0 . PATIENT-0 is the leader of the us where AGENT-0 is from .
+AGENT-0 originates from the BRIDGE-0 where the leader is PATIENT-0 and one of the ethnic groups is PATIENT-1 . one of the ethnic groups in the country are the PATIENT-1 .
+american AGENT-0 was born in PATIENT-1 and was selected by nasa in PATIENT-3 . he spent 52 minutes in space .
+AGENT-0 was a member of the PATIENT-1 operated BRIDGE-1 , which is operated by PATIENT-1 .
+AGENT-0 was born in BRIDGE-0 where PATIENT-0 served as a representative . he was born in BRIDGE-0 where PATIENT-1 served as a representative .
+AGENT-0 , now PATIENT-3 , was born in PATIENT-0 and graduated from mit with a sc.d in 1963 . he was a crew member of PATIENT-1 .
+AGENT-0 was born in PATIENT-0 and was selected by nasa in PATIENT-1 . he was a PATIENT-3 and a crew member of PATIENT-2 .
+AGENT-0 ( born in PATIENT-0 ) was a crew member of BRIDGE-0 which was operated by PATIENT-2 .
+AGENT-0 was born in PATIENT-2 and died in PATIENT-1 .
+AGENT-0 died in st louis where francis g slay is the mayor .
+AGENT-0 was an american who was born in PATIENT-2 . he attended the PATIENT-0 and died in PATIENT-1 .
+AGENT-0 joined PATIENT-1 in PATIENT-2 and served as a PATIENT-0 .
+the AGENT-0 in PATIENT-1 , BRIDGE-0 was established in PATIENT-0 . the leader of BRIDGE-0 is PATIENT-2 .
+the AGENT-0 in PATIENT-1 , PATIENT-1 is affiliated with the BRIDGE-0 in PATIENT-0 .
+the AGENT-0 in PATIENT-0 , PATIENT-2 is affiliated with PATIENT-3 . the director is PATIENT-1 .
+the AGENT-0 was given the 'technical campus ' status by the BRIDGE-0 in PATIENT-0 . the institute was given the 'technical campus ' status by the BRIDGE-0 in PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , BRIDGE-1 , BRIDGE-1 , where the capital city is austin .
+the AGENT-0 is in BRIDGE-1 , BRIDGE-0 . BRIDGE-1 has a PATIENT-1 government . the leader of BRIDGE-0 is PATIENT-0 .
+the AGENT-0 in PATIENT-2 , BRIDGE-0 has PATIENT-1 academic staff . PATIENT-0 is the leader of BRIDGE-0 .
+the AGENT-0 is located in BRIDGE-0 . the country 's capital is PATIENT-1 and its anthem is desteapta-te , romane !
+the AGENT-0 is located in BRIDGE-1 , BRIDGE-0 . BRIDGE-0 's capital is PATIENT-1 and its leader is PATIENT-0 .
+AGENT-0 is a dish from the region of PATIENT-0 , PATIENT-1 . the main ingredients of AGENT-0 are PATIENT-3 .
+AGENT-0 can be found in BRIDGE-0 , where the capital is PATIENT-0 and the leaders are PATIENT-1 and PATIENT-2 .
+AGENT-0 comes from the PATIENT-2 region of PATIENT-0 . the main ingredients are PATIENT-1 .
+AGENT-0 comes from the PATIENT-2 region of PATIENT-0 . the main ingredients are PATIENT-1 .
+AGENT-0 is a food found in BRIDGE-0 , where the leader is PATIENT-1 and the PATIENT-0 are an ethnic group .
+AGENT-0 is a dish from BRIDGE-1 and BRIDGE-0 . the javenese people are an ethnic group from BRIDGE-0 .
+AGENT-0 is a food found in PATIENT-0 and BRIDGE-0 . malays and PATIENT-1 are ethnic groups from BRIDGE-0 .
+AGENT-0 comes from the BRIDGE-0 , where PATIENT-0 is a leader and the capital is washington d.c. PATIENT-1 are one of the ethnic groups there .
+AGENT-0 comes from the BRIDGE-0 , where PATIENT-0 is a leader and the capital is washington d.c. PATIENT-1 are one of the ethnic groups there .
+PATIENT-0 is an ingredient in AGENT-0 which is a variation of PATIENT-1 and is a variation of PATIENT-1 .
+the AGENT-0 comes from the PATIENT-1 and the main ingredients are PATIENT-3 and PATIENT-3 .
+AGENT-0 is a BRIDGE-0 that can be served as a PATIENT-0 and is a BRIDGE-0 . PATIENT-1 are an ethnic group in BRIDGE-1 .
+the main ingredients of AGENT-0 are chopped fruits , sour cream , condensed milk , granola , shredded coconut and PATIENT-3s .
+AGENT-0 is a dish from the region of PATIENT-0 , PATIENT-2 . the main ingredients are PATIENT-1 .
+AGENT-0 is a dish from the region of PATIENT-0 , PATIENT-2 . the main ingredients are PATIENT-1 .
+AGENT-0 ( or tart ) originates from the BRIDGE-0 , which is part of the PATIENT-0 . it includes PATIENT-1 .
+AGENT-0 is a dish from PATIENT-3 , PATIENT-1 . the main ingredients are PATIENT-2 .
+the main ingredients of AGENT-0 are noodles , pork organs , vegetables , chicken , shrimp and beef .
+AGENT-0 is a colombian dish from the PATIENT-2 . the main ingredients are PATIENT-1 .
+the main ingredients of AGENT-0 are chopped fruits , sour cream , condensed milk , granola , shredded coconut and PATIENT-3s .
+AGENT-0 can be found in BRIDGE-0 where the PATIENT-0 is spoken and the leaders are PATIENT-1 and PATIENT-2 .
+AGENT-0 ( or tart ) originates from the country of PATIENT-0 . it includes PATIENT-1 .
+AGENT-0 comes from the PATIENT-3 region of PATIENT-0 . the main ingredients are noodles , pork organs , vegetables , chicken , shrimp and beef .
+AGENT-0 is a PATIENT-2 from the PATIENT-1 . the main ingredients are PATIENT-3 and PATIENT-0 .
+AGENT-0 comes from the PATIENT-2 region of PATIENT-0 . the main ingredients are PATIENT-1 .
+AGENT-0 is a traditional dish from BRIDGE-0 , where the leader is PATIENT-2 and the leader is PATIENT-2 .
+AGENT-0 is a dish from the region of PATIENT-0 , PATIENT-2 . the main ingredients are PATIENT-1 .
+AGENT-0 ( or PATIENT-2 ) originates from the PATIENT-1 region of PATIENT-0 and contains PATIENT-3 .
+AGENT-0 originates from PATIENT-0 and is also known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece 'n bacon , bacon cob , bacon barm and bacon muffin . the main ingredients of AGENT-0 are PATIENT-3 .
+the main ingredient of AGENT-0 is PATIENT-1 . BRIDGE-0 belongs to the PATIENT-2 order of PATIENT-0s .
+AGENT-0 is a dish from the region of PATIENT-0 , PATIENT-2 . the main ingredients are PATIENT-1 .
+AGENT-0 is a PATIENT-1 dish from the PATIENT-2 region of PATIENT-0 and contains PATIENT-3 .
+AGENT-0 comes from the PATIENT-2 region of PATIENT-0 . the main ingredients are PATIENT-1 .
+AGENT-0 is a BRIDGE-1 found in BRIDGE-0 . enrique pena nieto is the leader of BRIDGE-0 , where the leader is PATIENT-0 .
+AGENT-0 is a dish from BRIDGE-0 where PATIENT-0 is the leader and PATIENT-1 is the leader .
+AGENT-0 is a dish from BRIDGE-1 , BRIDGE-0 . the leader of BRIDGE-1 is PATIENT-1 and the PATIENT-0 are an ethnic group in BRIDGE-0 .
+AGENT-0 is from the BRIDGE-0 where the language is english and one of the ethnic groups is african american and the language spoken is english .
+AGENT-0 is eaten in the BRIDGE-0 where the language is english and one of the ethnic groups are the igorot and the language spoken is english .
+AGENT-0 is a BRIDGE-1 found in the BRIDGE-0 . the language of the country is english and the PATIENT-1 is spoken .
+AGENT-0 is a BRIDGE-1 found in the BRIDGE-0 . the language of the country is english and the PATIENT-1 is spoken .
+AGENT-0 is the sequel to PATIENT-2 . it was written by PATIENT-1 . it was written by PATIENT-1 .
+PATIENT-2 is the president of BRIDGE-0 which is the publisher of AGENT-0 . the university is affiliated with the association of public and land grant universities and the PATIENT-2 .
+AGENT-0 is published by PATIENT-1 in the BRIDGE-1 , where english is spoken ( as in PATIENT-0 ) . native americans are one of the ethnic groups of the BRIDGE-1 .
+AGENT-0 is published by PATIENT-1 in the BRIDGE-1 , where english is spoken ( as in PATIENT-0 ) . native americans are one of the ethnic groups of the BRIDGE-1 .
+AGENT-0 is published by BRIDGE-1 in the BRIDGE-2 where one of the ethnic groups is african american . they speak english , same as in PATIENT-0 .
+the BRIDGE-0 is spoken in PATIENT-0 and the BRIDGE-1 . AGENT-0 is from the BRIDGE-1 where the capital city is washington dc and native americans are one of the ethnic groups .
+these books were published in the following order : castle , BRIDGE-1 , AGENT-0 , BRIDGE-0 and maiden castle .
+AGENT-0 originates from the BRIDGE-0 where the native americans are an ethnic group . the book is written in english which is the language spoken in PATIENT-1 .
+AGENT-0 was published in the BRIDGE-0 , where english is spoken ( as in PATIENT-1 ) . the leader of the us is PATIENT-0 and there are many PATIENT-2 .
+1634 the ram rebellion was written in the BRIDGE-0 , where PATIENT-0 is a leader . the capital of the country is washington dc and the PATIENT-2 are an ethnic group there .
+1634 the ram rebellion comes from the BRIDGE-0 , where PATIENT-0 is a leader and the capital is washington d.c. PATIENT-3 are one of the ethnic groups there .
+AGENT-0 was published in the BRIDGE-0 , where english is spoken ( as in PATIENT-1 ) . the leader of the us is known as the president and the language spoken is english .
+the AGENT-0 is located in BRIDGE-0 which is part of the PATIENT-0 . the leader of the country is known as the PATIENT-1 and the capital city is PATIENT-3 .
+AGENT-0 can be found in BRIDGE-0 , PATIENT-2 , where the capital city is PATIENT-1 and the PATIENT-0 are an ethnic group .
+the AGENT-0 is located in the state of BRIDGE-1 , BRIDGE-1 . BRIDGE-0 is part of the state of BRIDGE-1 where the PATIENT-0 is spoken .
+AGENT-0 is located in BRIDGE-1 , PATIENT-1 , PATIENT-1 . the capital of BRIDGE-0 is springfield .
+AGENT-0 is located in BRIDGE-1 , PATIENT-1 , PATIENT-1 . the capital of BRIDGE-0 is springfield .
+AGENT-0 , which has a total area of PATIENT-3etres and is located in BRIDGE-0 , PATIENT-1 , PATIENT-0 .
+AGENT-0 is located in BRIDGE-1 , PATIENT-0 , where the leader is PATIENT-2 .
+the population density of AGENT-0 , PATIENT-3 , PATIENT-3 , PATIENT-3 , is PATIENT-0 .
+AGENT-0 has an elevation of PATIENT-2 metres above sea level and is located in PATIENT-3 , PATIENT-0 . the airport is PATIENT-2 metres above sea level .
+the AGENT-0 is located in the city of BRIDGE-0 , BRIDGE-1 , BRIDGE-1 . one of the ethnic groups in the country are the PATIENT-0 and the capital city is PATIENT-1 .
+AGENT-0 is located in PATIENT-2 , PATIENT-1 and is part of the PATIENT-0 . the airport has a total area of PATIENT-4 .
+AGENT-0 is located in BRIDGE-0 , which is part of BRIDGE-1 , in the BRIDGE-1 . the PATIENT-0 is spoken in BRIDGE-1 .
+AGENT-0 is located in BRIDGE-0 , which is part of BRIDGE-1 , where the largest city is PATIENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-3 , where the largest city is PATIENT-0 . BRIDGE-0 is part of the PATIENT-2 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , where the capital is PATIENT-0 and the language is italian .
+AGENT-0 is located in BRIDGE-0 , PATIENT-2 , where the largest city is PATIENT-0 .
+AGENT-0 is located in BRIDGE-1 , BRIDGE-0 , where the largest city is PATIENT-0 . the capital city is PATIENT-1 and the capital city is PATIENT-1 .
+the largest city in BRIDGE-0 is PATIENT-0 and the largest city is PATIENT-2 . the country is the location of the AGENT-0 in BRIDGE-0 , where the largest city is PATIENT-2 .
+AGENT-0 is a food found in BRIDGE-0 , PATIENT-3 , where the people are known as PATIENT-0 and the capital city is washington d.c .
+the AGENT-0 is located in BRIDGE-0 , which is part of the PATIENT-3 . the capital of the country is washington d.c. and PATIENT-0 are one of the ethnic groups .
+AGENT-0 is from the PATIENT-2 and is part of the PATIENT-2 . it is also home to the ethnic group of PATIENT-0 and the PATIENT-3 .
+the AGENT-0 is located in BRIDGE-0 , PATIENT-1 . the capital of BRIDGE-0 is PATIENT-2 and the PATIENT-0 are an ethnic group from BRIDGE-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 , BRIDGE-0 . the PATIENT-0 are an ethnic group from BRIDGE-0 .
+the AGENT-0 is located in BRIDGE-1 , BRIDGE-0 . the capital of the country is PATIENT-2 and its ethnic group is PATIENT-0 .
+the AGENT-0 is located in BRIDGE-0 , in the PATIENT-1 . the leader of the country is PATIENT-2 and the language spoken is english .
+the llocano people are an ethnic group in the BRIDGE-0 , where the people are known as PATIENT-2 . AGENT-0 is from the PATIENT-1 and is part of the PATIENT-1 .
+AGENT-0 is located in BRIDGE-0 , which is led by PATIENT-0 . the capital of the country is PATIENT-1 and one of the ethnic groups in the country are the PATIENT-2 .
+1634 the ram rebellion was written in the BRIDGE-0 , where the leader is known as the president and the native americans are an ethnic group .
+the AGENT-0 was established in PATIENT-2 in gettysburg , PATIENT-1 and is categorised as a PATIENT-3 .
+the AGENT-0 is located in BRIDGE-0 and is categorised as a PATIENT-3 . adams county is south of cumberland county and south of cumberland county .
+the AGENT-0 is located in BRIDGE-0 . the capital of BRIDGE-0 is PATIENT-0 and its leader is PATIENT-3 . the leader of BRIDGE-0 is prime minister PATIENT-3 .
+PATIENT-0 is the capital of BRIDGE-0 where the legislature is the national assembly . the country is the location of the PATIENT-0 turkish martyrs memorial which is dedicated to PATIENT-1 .
+president ahmet davutoglu is the leader of BRIDGE-0 where the largest city is PATIENT-3 . the capital city is PATIENT-2 and the country is the location of the AGENT-0 .
+the AGENT-0 in PATIENT-3 , BRIDGE-0 was established in PATIENT-0 . BRIDGE-0 has mahe , PATIENT-0 to its northwest .
+the AGENT-0 is located in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , PATIENT-0 – 560090 . it has PATIENT-2 postgraduate students and is affiliated with the PATIENT-4 . it has PATIENT-2 postgraduate students .
+the AGENT-0 in PATIENT-1 , PATIENT-2 is affiliated with the PATIENT-4 and has PATIENT-3 postgraduate students . its president is PATIENT-0 .
+the AGENT-0 is located in BRIDGE-1 , BRIDGE-1 . the leader of BRIDGE-1 is PATIENT-2 and the leader of BRIDGE-1 is PATIENT-2 .
+the AGENT-0 in PATIENT-3 , BRIDGE-0 was established in PATIENT-1 . it has PATIENT-2 academic staff and was established in PATIENT-1 .
+AGENT-0 is in BRIDGE-1 , BRIDGE-0 . the leader of BRIDGE-1 is PATIENT-1 and the largest city in BRIDGE-0 is PATIENT-0 .
+the AGENT-0 in PATIENT-2 , BRIDGE-0 was established in PATIENT-3 and has an academic staff of PATIENT-0 . the leader of BRIDGE-0 is PATIENT-1 .
+the AGENT-0 in BRIDGE-1 , BRIDGE-1 has a PATIENT-2 government . it is affiliated with the BRIDGE-0 which has its headquarters in PATIENT-0 .
+AGENT-0 , a character in big hero 6 , was created by steven t seagle and the american , BRIDGE-0 .
+BRIDGE-0 has been the manager of a c cesena and plays for both PATIENT-0 and PATIENT-2 .
+PATIENT-2 is the leader of BRIDGE-1 where afc BRIDGE-1 is located . the club is managed by stuart parker who plays for PATIENT-0 and PATIENT-1 .
+the ground of AGENT-0 is located in BRIDGE-0 , where they speak italian . the leader of BRIDGE-0 is PATIENT-0 and they speak italian .
+the manager of AGENT-0 is BRIDGE-1 , who played for PATIENT-0 and PATIENT-1 .
+the ground of AGENT-0 is located in BRIDGE-0 , the capital of which is PATIENT-2 . the leader of BRIDGE-0 is PATIENT-0 and the language spoken there is italian .
+the ground of AGENT-0 is located in BRIDGE-0 , where the official language is italian and the leader is PATIENT-3 . the capital of BRIDGE-0 is PATIENT-2 and the official language is italian .
+arem arem is a traditional dish from PATIENT-1 , BRIDGE-0 . the leader of BRIDGE-0 is PATIENT-0 and the currency is the PATIENT-2 .
+AGENT-0 is a food found in BRIDGE-0 , where the capital is PATIENT-2 and ethnic groups include PATIENT-0 and PATIENT-2 .
+AGENT-0 is a food found in BRIDGE-0 , where the capital is PATIENT-1 and ethnic groups include the PATIENT-2 and PATIENT-0 .
+AGENT-0 is a food found in BRIDGE-0 , where the capital is PATIENT-1 and ethnic groups include the PATIENT-2 and PATIENT-0 .
+AGENT-0 is a food found in BRIDGE-0 , where the leader is PATIENT-1 and ethnic groups include the PATIENT-0 and PATIENT-1 .
+the main ingredients of AGENT-0 are PATIENT-4 . the dish comes from the PATIENT-3 region of PATIENT-0 .
+AGENT-0 is a food found in BRIDGE-0 , where the capital is PATIENT-2 , and the PATIENT-0 are an ethnic group and the capital city is PATIENT-2 .
+AGENT-0es are popular in the uk and its main ingredients are PATIENT-1 .
+AGENT-0 is a dish from the PATIENT-3 region of BRIDGE-0 . the leaders of the country are PATIENT-0 and PATIENT-1 .
+AGENT-0 comes from the BRIDGE-0 region of PATIENT-0 . one of the ingredients in AGENT-0 is BRIDGE-1 which is part of the PATIENT-2 order .
+AGENT-0 , made with PATIENT-3 , can be found in BRIDGE-0 where the PATIENT-1 is spoken and the leaders are PATIENT-0 and PATIENT-2 .
+AGENT-0 is a dish from BRIDGE-0 , where the leader is PATIENT-0 . PATIENT-1 is one of the ingredients in AGENT-0 .
+AGENT-0 is a dish found in BRIDGE-0 , where PATIENT-0 is a leader . PATIENT-1 is one of the ingredients in AGENT-0 .
+AGENT-0 is a dish from BRIDGE-0 , where the leader is PATIENT-0 and PATIENT-1 is one of the ingredients .
+the AGENT-0 comes from the PATIENT-1 region of PATIENT-0 and includes the ingredients bread , almonds , PATIENT-4 , water and olive oil .
+AGENT-0 is from the BRIDGE-1 region of BRIDGE-0 , where the leaders are PATIENT-0 and PATIENT-1 .
+AGENT-0 is from the PATIENT-3 region of BRIDGE-0 . the leaders of BRIDGE-0 are PATIENT-0 and PATIENT-2 .
+AGENT-0 is a PATIENT-1 dish from the PATIENT-3 region of PATIENT-0 . the main ingredients are ground almonds , jam , butter and eggs .
+AGENT-0 can be found in BRIDGE-0 where the PATIENT-0 is spoken and the leader is PATIENT-1 . PATIENT-2 is the leader of BRIDGE-0 .
+AGENT-0 is a PATIENT-3 found in PATIENT-1 , BRIDGE-0 . the leader of BRIDGE-0 is PATIENT-0 and the leader of BRIDGE-0 is felipe vi .
+felipe vi is the leader of BRIDGE-1 where the PATIENT-1 are an ethnic group . AGENT-0 is a food found in BRIDGE-1 , where the leader is PATIENT-0 .
+AGENT-0 is a traditional italian sauce . the capital of BRIDGE-0 is PATIENT-0 and the leaders include PATIENT-1 and PATIENT-2 .
+PATIENT-0 and PATIENT-3 are leaders in BRIDGE-0 where the capital is PATIENT-1 . AGENT-0 is a traditional italian sauce . the leader of BRIDGE-0 is PATIENT-2 .
+AGENT-0 is a traditional italian sauce . the capital of BRIDGE-0 is PATIENT-1 and the leaders include PATIENT-0 and PATIENT-2 .
+the javenese people are an ethnic group in BRIDGE-0 , where the dish AGENT-0 can be found . the dish comes from the PATIENT-2 region of PATIENT-0 .
+AGENT-0 is a dish from BRIDGE-1 and BRIDGE-0 . the leader of BRIDGE-1 is PATIENT-2 and the PATIENT-0 are an ethnic group from BRIDGE-0 .
+AGENT-0 is eaten in the BRIDGE-0 where the language is english and one of the ethnic groups are the igorot and the language is english . the language spoken in the country is english .
+AGENT-0 is a dish from BRIDGE-1 and BRIDGE-0 . the leader of BRIDGE-1 is felipe vi and the PATIENT-2 are an ethnic group in the country .
+AGENT-0 is a dish from BRIDGE-1 , BRIDGE-0 . the leader of BRIDGE-1 is felipe vi and the leader is felipe vi .
+AGENT-0 is a us national who was born in PATIENT-2 . he was selected by nasa in PATIENT-3 and is now PATIENT-4 .
+AGENT-0 was born in PATIENT-1 and served as a crew member of BRIDGE-1 operated by PATIENT-2 .
+AGENT-0 was an american born in PATIENT-2 . he served as a crew member of BRIDGE-0 which was commanded by PATIENT-0 .
+AGENT-0 is a us national who was born in PATIENT-0 on 20 january 1930 . he was a PATIENT-3 and a crew member of PATIENT-2 .
+AGENT-0 is a us national who was born in PATIENT-0 . he was a PATIENT-2 and a crew member of BRIDGE-0 operated by PATIENT-3 .
+AGENT-0 was born in PATIENT-0 and graduated from mit with a sc.d in 1963 . he was a PATIENT-2 and a crew member of PATIENT-1 . he is now PATIENT-4 .
+AGENT-0 ( born in PATIENT-0 ) was a crew member of BRIDGE-0 operated by PATIENT-3 . PATIENT-2 was the backup pilot of BRIDGE-0 and PATIENT-2 was a backup pilot .
+AGENT-0 was born in PATIENT-1 on october 17 , 1933 . he served as a crew member of BRIDGE-0 which was operated by PATIENT-3 .
+AGENT-0 was a crew member of the PATIENT-2 operated BRIDGE-1 . he was a crew member of PATIENT-2 's BRIDGE-1 where PATIENT-1 is a senator .
+AGENT-0 was born in PATIENT-3 and died in PATIENT-2 . he was awarded the distinguished service medal by the united states navy . he died in PATIENT-2 .
+AGENT-0 is a us national who was born in PATIENT-3 . he was a PATIENT-2 and a crew member of PATIENT-4 . he retired on september 1 , 1969 .
+AGENT-0 is located in BRIDGE-0 , BRIDGE-1 , PATIENT-0 . the leader of BRIDGE-1 is cyrus vance jr .
+AGENT-0 is located in PATIENT-1 and is operated by PATIENT-3 . the airport is PATIENT-2 metres above sea level and has a runway length of PATIENT-0 . the runway name is PATIENT-4 .
+AGENT-0 is located in PATIENT-0 and is operated by PATIENT-2 . the airport is PATIENT-3 metres above sea level and has the icao location identifier of PATIENT-4 . the airport is PATIENT-3 metres above sea level .
+the PATIENT-0 is the operating organisation for AGENT-0 in PATIENT-1 . the runway name is PATIENT-4 and it has a length of PATIENT-2 .
+AGENT-0 , located in PATIENT-2 , is operated by the PATIENT-0 and has the icao location identifier of PATIENT-3 . the runway name is PATIENT-4 and has a length of PATIENT-1 .
+AGENT-0 is operated by the BRIDGE-0 who were involved in the invasion of panama . the PATIENT-0 is a transport aircraft on the BRIDGE-0 and the PATIENT-1 can be found on usaf aircraft carriers .
+AGENT-0 is operated by the BRIDGE-0 . the usaf fought in the PATIENT-0 and the PATIENT-3 . the PATIENT-1 can be found on usaf aircraft carriers carriers .
+PATIENT-2 is served by AGENT-0 which is 88 metres above sea level . the 1st runway is made from PATIENT-0 and has a length of PATIENT-1 .
+AGENT-0 in PATIENT-0 is operated by the PATIENT-2 . it serves the city of PATIENT-3 and has a runway name of PATIENT-4 with a length of PATIENT-1 .
+AGENT-0 in PATIENT-0 is operated by the PATIENT-2 . it serves the city of PATIENT-3 and has a runway name of PATIENT-4 with a length of PATIENT-1 .
+AGENT-0 serves the city of PATIENT-3 in PATIENT-2 . the airport serves the city of PATIENT-3 and has a runway length of PATIENT-1 .
+AGENT-0 is located in PATIENT-0 and serves the city of PATIENT-2 . it is PATIENT-3 metres above sea level and has a runway name of PATIENT-4 with a length of PATIENT-1 .
+AGENT-0 is located in PATIENT-0 and serves the city of PATIENT-2 . it is PATIENT-3 metres above sea level and has a runway name of PATIENT-4 with a length of PATIENT-1 .
+AGENT-0 is located in BRIDGE-0 and serves the city of PATIENT-3 . it is PATIENT-1 metres above sea level and has a runway length of PATIENT-2 .
+AGENT-0 is located in PATIENT-0 and serves the city of PATIENT-1 . it is PATIENT-2 metres above sea level and has a runway name of PATIENT-3 with a length of PATIENT-4 .
+PATIENT-2 and PATIENT-0 are leaders in BRIDGE-1 where the PATIENT-1 is spoken . the city of BRIDGE-0 is served by AGENT-0 .
+PATIENT-2 and PATIENT-0 are leaders in BRIDGE-1 where the PATIENT-1 is spoken . the city of BRIDGE-0 is served by AGENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 , PATIENT-1 . the leader of BRIDGE-1 is PATIENT-2 .
+AGENT-0 serves the city of BRIDGE-1 in BRIDGE-0 . two of the leaders of which are PATIENT-0 and PATIENT-1 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-3 , PATIENT-2 . its icao location identifier is PATIENT-1 .
+AGENT-0 serves the city of saranac lake , PATIENT-1 , PATIENT-0 .
+AGENT-0 serves the city of saranac lake , PATIENT-1 , PATIENT-0 .
+AGENT-0 is located in BRIDGE-1 , PATIENT-1 and is operated by the BRIDGE-0 . the PATIENT-0 is an aircraft helicopter of BRIDGE-0 .
+AGENT-0 is located in BRIDGE-1 , PATIENT-2 and is operated by the BRIDGE-0 . the PATIENT-0 is an aircraft helicopter of the BRIDGE-0 . PATIENT-1 is the leader of BRIDGE-1 .
+AGENT-0 serves the city of BRIDGE-1 in BRIDGE-0 . malatu teshome and PATIENT-1 are leaders in BRIDGE-0 .
+AGENT-0 in BRIDGE-0 , PATIENT-1 , PATIENT-3 was completed in PATIENT-0 .
+construction of AGENT-0 began in PATIENT-2 and is located in PATIENT-0 . it has PATIENT-3 floors and a floor area of PATIENT-3 .
+AGENT-0 is located in BRIDGE-0 , BRIDGE-1 , PATIENT-1 . the leader of BRIDGE-0 is PATIENT-0 and the capital city is springfield .
+BRIDGE-1 , founded in washington , d.c. , is the tenant of ac hotel bella sky in copenhagen , BRIDGE-0 . the current tenant of the hotel is BRIDGE-1 which was founded in washington dc .
+PATIENT-1 is a key person at BRIDGE-0 which was founded in washington dc and is the tenant of AGENT-0 . the current tenant of the hotel is the BRIDGE-0 hotel which was founded in washington dc .
+BRIDGE-0 , founded in washington , d.c. , is the tenant of the ac hotel bella sky in copenhagen , BRIDGE-1 . the leader of BRIDGE-1 is lars lokke rasmussen and the language spoken is danish .
+AGENT-0 was designed by the architect BRIDGE-0 , who was born in PATIENT-1 . it is located in BRIDGE-1 , where the leader is PATIENT-2 and the PATIENT-0 is a leader .
+construction of AGENT-0 began in PATIENT-2 and completed in PATIENT-0 . the current tenants are the PATIENT-1 and the current tenants are the PATIENT-1 .
+AGENT-0 in PATIENT-3 , PATIENT-PATIENT-1 , PATIENT-0 has PATIENT-1 floors .
+AGENT-0 is located in BRIDGE-0 , PATIENT-0 , BRIDGE-1 . the leader of BRIDGE-1 is cyrus vance jr .
+the BRIDGE-0 , located in the PATIENT-3 , is the current tenant of alan b miller hall , which was designed by the architect PATIENT-1 and is located in PATIENT-0 , PATIENT-3 .
+AGENT-0 is located in BRIDGE-1 , BRIDGE-1 , where PATIENT-0 is the leader and the PATIENT-1 is the leader .
+AGENT-0 is in the PATIENT-1 region of BRIDGE-1 . the leader of BRIDGE-0 is PATIENT-0 and the leader of the country is felipe vi .
+the AGENT-0 is in the eastern province state of BRIDGE-0 . the leader of BRIDGE-0 is PATIENT-0 and the capital is PATIENT-2 .
+BRIDGE-0 was born in PATIENT-0 and designed several significant buildings including the AGENT-0 , the PATIENT-1 and PATIENT-2 .
+BRIDGE-0 was born in PATIENT-0 and designed several significant buildings including the AGENT-0 , the PATIENT-1 and PATIENT-2 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-2 , PATIENT-0 . PATIENT-1 is the leader of BRIDGE-1 .
+AGENT-0 was designed by the architect BRIDGE-1 , who was born in BRIDGE-0 . the governing body of BRIDGE-0 is labour politician john clancy and the governing body is PATIENT-2 .
+AGENT-0 can be found in BRIDGE-0 , where the capital is PATIENT-0 and the leader is prime minister PATIENT-3 . PATIENT-3 is the leader of BRIDGE-0 .
+the AGENT-0 was established in PATIENT-4 in PATIENT-2 , PATIENT-2 , PATIENT-0 .
+the AGENT-0 is located in BRIDGE-0 and is categorised as a PATIENT-4 . adams county is east of franklin county and south of cumberland county . carrol county , maryland is to the southeast .
+PATIENT-0 is the leader of BRIDGE-0 where the capital city is PATIENT-1 . the country is the location of the PATIENT-0 turkish martyrs memorial which is dedicated to the PATIENT-3 . the memorial was designed by huseyin butuner and hilmi guner and is dedicated to the PATIENT-3 .
+huseyin butuner and hilmi guner designed the PATIENT-0 baku turkish martyrs memorial which is dedicated to the PATIENT-1 . it was designed by huseyin butuner and hilmi guner and is located in BRIDGE-0 , a country led by PATIENT-3 .
+the AGENT-0 was established in PATIENT-1 in gettysburg , PATIENT-2 , PATIENT-2 . the monument falls under the category of PATIENT-3 .
+AGENT-0 was born on march 15 , 1932 in PATIENT-3 . he was a PATIENT-1 and spent 100305 minutes in space . he spent 100305 minutes in space .
+AGENT-0 was born in PATIENT-2 and died in PATIENT-1 . he was awarded the distinguished service medal by the united states navy . he died in PATIENT-1 .
+AGENT-0 ( born PATIENT-4 ) was a crew member of PATIENT-1 's BRIDGE-0 along with backup pilot PATIENT-0 . PATIENT-3 was the backup pilot of BRIDGE-0 and PATIENT-3 was the commander .
+AGENT-0 is a us national who was born in PATIENT-0 . he graduated from mit with a sc.d in PATIENT-2 . he was selected by nasa in PATIENT-2 and served as a crew member on PATIENT-3 .
+AGENT-0 was born on january 20 , 1930 in PATIENT-0 . he graduated from massachusetts institute of technology in 1963 with a doctorate in science . he served as a crew member of BRIDGE-0 which was operated by PATIENT-4 . the backup pilot was PATIENT-3 .
+AGENT-0 is a us national who was born in PATIENT-0 . he was a PATIENT-2 and a crew member of BRIDGE-0 which was operated by PATIENT-4 . the backup pilot was PATIENT-3 .
+AGENT-0 was born on march 15 , 1932 in PATIENT-0 . he graduated from mit with a sc.d in PATIENT-1 . he served as a PATIENT-3 and was selected by nasa in PATIENT-1 . he served as a PATIENT-3 .
+AGENT-0 graduated from the PATIENT-2 . he was awarded the distinguished service medal by the united states navy , which is higher than the PATIENT-2 .
+AGENT-0 was born in PATIENT-3 and graduated from ut austin in 1955 with a b.s . he served as a PATIENT-2 and was a crew member of PATIENT-4 . he retired in 1969 .
+AGENT-0 was born in PATIENT-1 and served as a crew member of PATIENT-3 's BRIDGE-0 alongside PATIENT-2 and backup pilot PATIENT-2 .
+AGENT-0 graduated from ut austin in 1955 with a b.s . he was a member of BRIDGE-0 's crew along with PATIENT-1 and backup pilot PATIENT-1 .
+the AGENT-0 in PATIENT-2 , PATIENT-0 was established in PATIENT-3 . its dean is PATIENT-1 and it has PATIENT-4 academic staff .
+the AGENT-0 is located in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , PATIENT-0 – 560090 , PATIENT-1 , PATIENT-2 . the institute has PATIENT-3 postgraduate students .
+the AGENT-0 is located in soldevanahalli , acharya dr. sarvapalli radhakrishnan road , hessarghatta main road , PATIENT-1 - 560090 , PATIENT-3 . it was established in PATIENT-2 and its president is PATIENT-0 . the campus is located at PATIENT-4
+the AGENT-0 is located in BRIDGE-0 . it is affiliated with the BRIDGE-1 in PATIENT-1 . the country 's leader is the federal chancellor PATIENT-1 and the religion is the PATIENT-3 .
+the school of business and social sciences at aarhus university in PATIENT-2 , BRIDGE-0 is affiliated with the BRIDGE-1 in the city of PATIENT-3 . the leader of the country is PATIENT-0 and the country 's leader is PATIENT-1 .
+the AGENT-0 in BRIDGE-1 , BRIDGE-0 was established in PATIENT-1 . its leader is PATIENT-2 and its largest city is PATIENT-0 . the leader of BRIDGE-1 is PATIENT-2 .
+the AGENT-0 is located in BRIDGE-0 . the country 's capital is PATIENT-3 and its leader is prime minister PATIENT-1 . BRIDGE-0 's ethnic group is PATIENT-0 .
+the AGENT-0 in PATIENT-2 , BRIDGE-0 was established in PATIENT-4 . it has PATIENT-0 academic staff and 16,000 students . its leader is PATIENT-1 .
+ahmet davutoglu is the leader of BRIDGE-0 , where the capital is PATIENT-1 and the currency is the PATIENT-4 . the country is the location of the PATIENT-3 ataturk monument which was inaugurated on 27 july 1932 in izmir .
+ahmet davutoglu is the leader of BRIDGE-0 where the capital city is PATIENT-3 . the country is the location of the PATIENT-4 ataturk monument which was designed by PATIENT-2 and inaugurated on 27 july 1932 in izmir .
+PATIENT-1 is the leader of BRIDGE-0 where the currency is the PATIENT-4 and the capital city is PATIENT-2 . the country is the location of the ataturk monument ( izmir ) which was inaugurated on 27 july 1932 in izmir .
+the AGENT-0 in PATIENT-4 , BRIDGE-0 was established in PATIENT-2 . it has PATIENT-3 academic staff and PATIENT-1 students . the dean of BRIDGE-0 is PATIENT-0 .
+the AGENT-0 in PATIENT-1 , PATIENT-5 was established in PATIENT-3 and is affiliated with the PATIENT-2 . its president is PATIENT-0 and the director is PATIENT-2 .
+AGENT-0 was given the 'technical campus ' status by the BRIDGE-0 in PATIENT-0 . the institute is located in the state of BRIDGE-1 which has PATIENT-1 to its northeast and the PATIENT-2 to its west . the institute is governed by the PATIENT-3 .
+the AGENT-0 is located in BRIDGE-1 , BRIDGE-0 . BRIDGE-0 's capital is PATIENT-3 and its leader is prime minister PATIENT-2 . BRIDGE-0 's ethnic group is PATIENT-0 .
+the AGENT-0 in PATIENT-3 , BRIDGE-0 was established in PATIENT-5 . its dean is PATIENT-2 and it is affiliated with the PATIENT-4 .
+the city of BRIDGE-2 in BRIDGE-1 is governed by the PATIENT-1 . it is the location of the AGENT-0 which is affiliated with the BRIDGE-0 which has its headquarters in PATIENT-0 . BRIDGE-1 's leader is the PATIENT-1 .
+the AGENT-0 in PATIENT-0 , PATIENT-4 was established in PATIENT-6 . it has PATIENT-3 students and its dean is PATIENT-2 . it is affiliated with the PATIENT-1 and has PATIENT-3 students .
+AGENT-0 was born on march 15 , 1932 in PATIENT-5 . he graduated from ut austin in 1955 with a b.s . and was a PATIENT-1 and crew member of PATIENT-4 . he is now PATIENT-6 .
+AGENT-0 was born in PATIENT-4 on november 18 , 1923 . he graduated from nwc with a m.a . in 1957 . he was selected by nasa in PATIENT-5 and died in PATIENT-2 .
+american AGENT-0 was born in PATIENT-5 . he was a PATIENT-3 and a crew member of BRIDGE-0 which was operated by PATIENT-2 . the commander of BRIDGE-0 was PATIENT-4 and PATIENT-0 was a backup pilot .
+edwin e. aldrin jr , also known as AGENT-0 , was born on 20 january 1930 in PATIENT-0 . he graduated from mit with a sc . d in PATIENT-2 and was selected by nasa in PATIENT-2 . he was a crew member on PATIENT-3 .
+AGENT-0 is a us national who was born in PATIENT-0 on 20 january 1930 . he graduated from ut austin in 1955 with a b.s . he was a PATIENT-4 and a crew member of PATIENT-3 . he spent 52 minutes in space .
+AGENT-0 is a us national who was born in PATIENT-0 on PATIENT-5 . he graduated from mit with a sc.d in 1963 . he was a crew member of PATIENT-2 and was a crew member of PATIENT-2 .
+american AGENT-0 was born in PATIENT-0 on PATIENT-2 . he was a crew member of BRIDGE-0 which was operated by PATIENT-5 in PATIENT-4 . he is now PATIENT-1 .
+american AGENT-0 was a crew member of BRIDGE-0 operated by PATIENT-5 . he graduated from ut austin in 1955 with a b.s . and is now PATIENT-1 .
+AGENT-0 was born in PATIENT-5 on PATIENT-3 . he was a PATIENT-4 and a crew member of PATIENT-5 . he is now PATIENT-2 .
+american AGENT-0 was born in PATIENT-2 and served as a crew member of BRIDGE-0 operated by PATIENT-5 . PATIENT-3 was the backup pilot of BRIDGE-0 and PATIENT-3 was a backup pilot on the mission .
+AGENT-0 was born in PATIENT-5 on the 15th of march 1932 . he was selected by nasa in PATIENT-1 and served as a PATIENT-4 . he spent 52 minutes in space .
+AGENT-0 won the PATIENT-0 .
+the AGENT-0 was involved in battles at the PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+the hub airport for AGENT-0 is PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the inauguration date of AGENT-0 is PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+the inauguration date of AGENT-0 is PATIENT-0 .
+AGENT-0 died in PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 resides in the PATIENT-0 .
+AGENT-0 graduated from the PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 was a PATIENT-0 national .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+the construction of AGENT-0 began in PATIENT-0 .
+AGENT-0 won the PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 was built in PATIENT-0 .
+the hub airport for AGENT-0 is PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 is an american .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 died in PATIENT-0 .
+the construction of AGENT-0 began in PATIENT-0 .
+the AGENT-0 was involved in battles at the PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 was a PATIENT-0 national .
+the construction of AGENT-0 began in PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the construction of AGENT-0 began in PATIENT-0 .
+the hub airport for AGENT-0 is PATIENT-0 .
+PATIENT-0 was the AGENT-0 commander .
+the PATIENT-0 is spoken in AGENT-0 .
+PATIENT-0 was the AGENT-0 commander .
+AGENT-0 is part of PATIENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+PATIENT-0 was the AGENT-0 commander .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 graduated from the PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the hub airport for AGENT-0 is PATIENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+the AGENT-0 was involved in battles at the PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+the comic character asterix is also known as PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the inauguration date of AGENT-0 is PATIENT-0 .
+AGENT-0 is located in PATIENT-0 .
+AGENT-0 is operated by PATIENT-0 .
+the inauguration date of AGENT-0 is PATIENT-0 .
+AGENT-0 was completed in PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 is operated by PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the comic character asterix is also known as PATIENT-0 .
+AGENT-0 is PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 is related to PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 is related to PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 is PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 was built in PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the PATIENT-0 is the governing body of AGENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 was founded by PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 is related to PATIENT-0 .
+AGENT-0 is located in PATIENT-0 .
+AGENT-0 is located in PATIENT-0 .
+AGENT-0 is related to PATIENT-0 .
+AGENT-0 is related to PATIENT-0 .
+PATIENT-0 inhabit AGENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+the leader of AGENT-0 is PATIENT-0 .
+AGENT-0 was founded by PATIENT-0 .
+the headquarters of AGENT-0 are in PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the anthem of AGENT-0 is called desteapta te romane .
+PATIENT-0 are an ethnic group in the AGENT-0 .
+the chairman of AGENT-0 is PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 was awarded the PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 play in PATIENT-0 .
+the manager of AGENT-0 is PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 was born on PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+the AGENT-0 is 121.92 metres .
+AGENT-0 play in PATIENT-0 .
+AGENT-0 was born on PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 .
+AGENT-0 played youth football for torino fc .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 play in PATIENT-0 .
+the AGENT-0 is located in the city of PATIENT-0 .
+the manager of AGENT-0 is PATIENT-0 .
+AGENT-0 is in the PATIENT-0 .
+the PATIENT-0 is spoken in AGENT-0 .
+the PATIENT-0 is spoken in AGENT-0 .
+the AGENT-0 is located in the city of PATIENT-0 .
+the manager of AGENT-0 is PATIENT-0 .
+the manager of AGENT-0 is PATIENT-0 .
+the chairman of AGENT-0 is PATIENT-0 .
+the PATIENT-0 is spoken in AGENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 's ground is in PATIENT-0 .
+AGENT-0 is owned by PATIENT-0 .
+the AGENT-0 is located in the city of PATIENT-0 .
+the AGENT-0 is located in the city of PATIENT-0 .
+AGENT-0 was built in PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 is a fantasy novel .
+AGENT-0 is a fantasy novel .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 was born on PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 is a fantasy novel .
+AGENT-0 is a fantasy novel .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 is a fantasy novel .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 is a fantasy novel .
+AGENT-0 is a fantasy novel .
+AGENT-0 is a fantasy novel .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 died in PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 was built in PATIENT-0 .
+AGENT-0 is a fantasy novel .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 was born on PATIENT-0 .
+AGENT-0 is a fantasy novel .
+AGENT-0 is located in PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 is a fantasy novel .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 is a fantasy novel .
+AGENT-0 was built in PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 is part of PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 is part of PATIENT-0 .
+AGENT-0 is located in PATIENT-0 .
+PATIENT-0 is the parent company of AGENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+PATIENT-0 inhabit AGENT-0 .
+the population density of AGENT-0 , is PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 was formerly called the PATIENT-0 .
+the rector of the AGENT-0 is PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+AGENT-0 was formerly called the PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 produces PATIENT-0 .
+the AGENT-0 is known as PATIENT-0 .
+AGENT-0 graduated from the PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 was an american who was involved in PATIENT-1 .
+AGENT-0 was involved in battles at the PATIENT-0 and the PATIENT-1 .
+the BRIDGE-0 , headquartered in PATIENT-0 , is the location of the AGENT-0 .
+AGENT-0 was born in PATIENT-1 and is operated by PATIENT-0 .
+AGENT-0 , who graduated from afit , m.s . in 1962 , was born in PATIENT-0 .
+AGENT-0 was born in PATIENT-1 and was a PATIENT-0 national .
+AGENT-0 , a us national , was a PATIENT-0 national .
+PATIENT-0 is the nickname of the AGENT-0 which was broadcast by PATIENT-1 .
+AGENT-0 was born in PATIENT-1 and its nickname is PATIENT-0 .
+AGENT-0 was involved in the invasion of panama .
+the BRIDGE-0 was involved in the PATIENT-0 and the invasion of panama .
+AGENT-0 , who graduated from afit , m.s . in 1962 , was born in PATIENT-0 .
+AGENT-0 was born in PATIENT-1 and is a us national .
+AGENT-0 was involved in battles at the PATIENT-0 and the PATIENT-1 .
+AGENT-0 , a us national , was born in PATIENT-0 .
+AGENT-0 was born in PATIENT-1 and was born in PATIENT-0 .
+AGENT-0 , a us national , was born in PATIENT-0 .
+AGENT-0 , a us national , was born in PATIENT-0 .
+AGENT-0 , PATIENT-1 , was awarded the PATIENT-0 .
+AGENT-0 began in PATIENT-1 and was involved in battles at the PATIENT-0 .
+AGENT-0 was involved in the invasion of panama .
+AGENT-0 was born in PATIENT-1 and was involved in battles at the PATIENT-0 .
+AGENT-0 was involved in the invasion of panama .
+AGENT-0 was involved in the invasion of panama .
+AGENT-0 was born on PATIENT-1 and died in PATIENT-0 .
+PATIENT-1 AGENT-0 was born on PATIENT-1 .
+AGENT-0 was born in PATIENT-1 and died in PATIENT-0 .
+AGENT-0 was born in PATIENT-1 and died in PATIENT-1 .
+AGENT-0 was born in PATIENT-1 and is operated by PATIENT-0 .
+AGENT-0 , a us national , was a PATIENT-0 national .
+AGENT-0 was born in PATIENT-1 and was born in PATIENT-0 .
+AGENT-0 was born in PATIENT-1 and was born in PATIENT-0 .
+AGENT-0 , a us national , was a PATIENT-0 national .
+PATIENT-0 is the nickname of AGENT-0 .
+AGENT-0 , a us national , was born in PATIENT-0 .
+the BRIDGE-0 was involved in the PATIENT-0 and the invasion of panama .
+AGENT-0 was involved in the invasion of panama .
+AGENT-0 , a us national , was born in PATIENT-0 .
+AGENT-0 , a us national , was a PATIENT-0 national .
+AGENT-0 ( born on 1932-03-15 ) was a PATIENT-1 citizen .
+AGENT-0 is from BRIDGE-0 where the currency is the PATIENT-0 .
+PATIENT-0 is the leader of BRIDGE-0 where AGENT-0 is located .
+AGENT-0 died in BRIDGE-0 , PATIENT-0 .
+AGENT-0 was born in PATIENT-1 and plays for PATIENT-0 .
+the manager of AGENT-0 is BRIDGE-0 who plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 and PATIENT-1 .
+AGENT-0 plays for PATIENT-0 and PATIENT-1 .
+AGENT-0 plays for PATIENT-0 and PATIENT-1 .
+AGENT-0 plays for PATIENT-0 and PATIENT-1 .
+the manager of AGENT-0 is BRIDGE-0 who plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 and PATIENT-1 .
+AGENT-0 , PATIENT-1 , was awarded the PATIENT-0 .
+AGENT-0 , PATIENT-1 , was awarded the PATIENT-0 .
+AGENT-0 was born on the 17th of october 1933 in PATIENT-0 .
+AGENT-0 plays for PATIENT-0 and PATIENT-1 .
+AGENT-0 plays for PATIENT-0 and PATIENT-1 .
+the manager of AGENT-0 is BRIDGE-0 who plays for PATIENT-0 .
+the manager of AGENT-0 is BRIDGE-0 who plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 and PATIENT-1 .
+the manager of AGENT-0 is BRIDGE-0 who plays for PATIENT-0 .
+AGENT-0 was born on PATIENT-1 and plays for PATIENT-0 .
+AGENT-0 was born in PATIENT-1 and plays for PATIENT-0 .
+the manager of AGENT-0 is BRIDGE-0 who plays for PATIENT-0 .
+AGENT-0 plays for PATIENT-0 and PATIENT-1 .
+AGENT-0 is in the BRIDGE-0 league , which is in PATIENT-0 .
+AGENT-0 plays for PATIENT-0 and PATIENT-1 .
+AGENT-0 was born in PATIENT-1 and was born in PATIENT-0 .
+AGENT-0 was born on PATIENT-1 and plays for PATIENT-0 .
+AGENT-0 play in the PATIENT-0 and is part of the PATIENT-1 club .
+AGENT-0 was born in BRIDGE-0 where the leader is PATIENT-0 .
+AGENT-0 was born in BRIDGE-0 where the anthem is the PATIENT-0 .
+AGENT-0 was born in BRIDGE-0 where they speak english .
+the manager of AGENT-0 is BRIDGE-0 who plays for PATIENT-0 .
+the ground of AGENT-0 is located in PATIENT-0 .
+AGENT-0 play in the BRIDGE-0 league in PATIENT-0 .
+the ground of AGENT-0 is located in PATIENT-0 .
+the nickname of AGENT-0 , which is in PATIENT-0 , is PATIENT-1 .
+PATIENT-1 is the nickname of the AGENT-0 which is nicknamed PATIENT-0 .
+AGENT-0 , PATIENT-1 , was developed by the PATIENT-0 .
+the AGENT-0 is nicknamed PATIENT-0 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-0 .
+AGENT-0 was born in PATIENT-1 on the 17th of october 1933 .
+AGENT-0 was born in PATIENT-1 and was born in PATIENT-0 .
+PATIENT-0 is the founder of BRIDGE-0 , which is the publisher of AGENT-0 .
+the AGENT-0 is nicknamed PATIENT-1 and was developed by the PATIENT-0 .
+AGENT-0 , PATIENT-1 , was born in PATIENT-0 .
+AGENT-0 is the PATIENT-0 .
+PATIENT-0 is the founder of BRIDGE-0 , which is the publisher of AGENT-0 .
+PATIENT-0 is the founder of BRIDGE-0 , which is the publisher of AGENT-0 .
+the nickname of AGENT-0 , which is in PATIENT-0 , is PATIENT-1 .
+PATIENT-0 is the founder of BRIDGE-0 , which is the publisher of AGENT-0 .
+AGENT-0 , built in PATIENT-1 , is PATIENT-0 .
+PATIENT-0 is the founder of BRIDGE-0 , which is the publisher of AGENT-0 .
+AGENT-0 was born in PATIENT-0 and was born in PATIENT-1 .
+the AGENT-0 is nicknamed PATIENT-0 .
+the AGENT-0 is nicknamed PATIENT-0 .
+AGENT-0 was born in PATIENT-0 .
+AGENT-0 was born in PATIENT-1 and died in PATIENT-0 .
+the nickname of AGENT-0 , which is in PATIENT-0 , is PATIENT-1 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-0 .
+AGENT-0 , whose nickname is PATIENT-1 , is in PATIENT-0 .
+the nickname of AGENT-0 , which is in PATIENT-0 , is PATIENT-1 .
+the nickname of AGENT-0 , which is in PATIENT-0 , is PATIENT-1 .
+PATIENT-0 is the tenant of the AGENT-0 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-0 .
+AGENT-0 , whose nickname is PATIENT-1 , is in PATIENT-0 .
+AGENT-0 , whose nickname is PATIENT-1 , is in PATIENT-0 .
+AGENT-0 , built in PATIENT-1 , is PATIENT-0 .
+PATIENT-0 is the founder of BRIDGE-0 , which is the publisher of AGENT-0 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-0 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-0 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-0 .
+PATIENT-0 is the founder of BRIDGE-0 , which is the publisher of AGENT-0 .
+PATIENT-0 is the tenant of the AGENT-0 .
+the BRIDGE-0 is located in PATIENT-0 and is the tenant of the AGENT-0 .
+the AGENT-0 is nicknamed PATIENT-1 and was developed by the PATIENT-0 .
+PATIENT-1 is the nickname of the AGENT-0 which is developed by the PATIENT-0 .
+PATIENT-1 is the nickname of the AGENT-0 which is nicknamed PATIENT-0 .
+PATIENT-1 is the nickname of the AGENT-0 which is nicknamed PATIENT-0 .
+PATIENT-1 is the nickname of the AGENT-0 which is nicknamed PATIENT-0 .
+PATIENT-1 is the nickname of the AGENT-0 which is nicknamed PATIENT-0 .
+AGENT-0 is nicknamed PATIENT-0 .
+the AGENT-0 is nicknamed PATIENT-1 and was developed by the PATIENT-0 .
+BRIDGE-0 , born in PATIENT-0 , is the nickname of AGENT-0 .
+BRIDGE-0 , from the PATIENT-0 , is the nickname of AGENT-0 .
+AGENT-0 is nicknamed PATIENT-0 .
+BRIDGE-0 , from the PATIENT-0 , is the nickname of AGENT-0 .
+BRIDGE-0 , born in PATIENT-0 , is the nickname of AGENT-0 .
+the AGENT-0 , known as PATIENT-1 , was developed by the PATIENT-0 .
+the rector of the AGENT-0 is PATIENT-1 and the rector is PATIENT-1 .
+PATIENT-1 is the nickname of the AGENT-0 which is nicknamed PATIENT-0 .
+the AGENT-0 is nicknamed PATIENT-0 .
+PATIENT-1 is the nickname of the AGENT-0 which is nicknamed PATIENT-0 .
+the AGENT-0 is nicknamed PATIENT-1 and was developed by the PATIENT-0 .
+the AGENT-0 is nicknamed PATIENT-0 .
+AGENT-0 , now PATIENT-1 , was born in PATIENT-0 .
+PATIENT-1 is the nickname of the AGENT-0 which is nicknamed PATIENT-0 .
+PATIENT-1 is the nickname of the AGENT-0 which is nicknamed PATIENT-0 .
+AGENT-0 , which has a runway length of PATIENT-1 , is in PATIENT-0 .
+AGENT-0 has a runway length of PATIENT-1 and was developed by the PATIENT-0 .
+AGENT-0 is operated by BRIDGE-0 which is located in PATIENT-0 .
+AGENT-0 is operated by BRIDGE-0 which is located in PATIENT-0 .
+AGENT-0 has a runway length of PATIENT-1 and was developed by the PATIENT-0 .
+AGENT-0 has a runway length of PATIENT-1 and was inaugurated on PATIENT-0 .
+the AGENT-0 is nicknamed PATIENT-0 and the rector is PATIENT-1 .
+PATIENT-1 is the nickname of the AGENT-0 which is nicknamed PATIENT-0 .
+PATIENT-1 is the nickname of the AGENT-0 which is nicknamed PATIENT-0 .
+BRIDGE-0 , headquartered in PATIENT-0 , is the designer of the AGENT-0 .
+AGENT-0 is located in PATIENT-1 and has a runway length of PATIENT-0 .
+AGENT-0 contain PATIENT-0 of protein and PATIENT-1 .
+AGENT-0 's nickname is PATIENT-1 and its nickname is PATIENT-1 .
+AGENT-0 's nickname is PATIENT-1 and its nickname is PATIENT-1 .
+the AGENT-0 is nicknamed PATIENT-0 .
+PATIENT-1 is the nickname of the AGENT-0 which is nicknamed PATIENT-0 .
+PATIENT-1 is the nickname of the AGENT-0 which is nicknamed PATIENT-0 .
+the BRIDGE-0 is the tenant of the AGENT-0 .
+the AGENT-0 is nicknamed PATIENT-1 and was developed by the PATIENT-0 .
+PATIENT-0 is the leader of BRIDGE-0 where AGENT-0 is located .
+the AGENT-0 is nicknamed PATIENT-1 and was developed by the PATIENT-0 .
+PATIENT-0 is the parent company of BRIDGE-0 , the publisher of the AGENT-0 .
+AGENT-0 contain PATIENT-0 of protein and PATIENT-1 .
+PATIENT-1 is the nickname of the AGENT-0 which is nicknamed PATIENT-0 .
+AGENT-0 's nickname is PATIENT-1 and its nickname is PATIENT-1 .
+PATIENT-0 is the tenant of the AGENT-0 .
+the AGENT-0 is nicknamed PATIENT-1 and was developed by the PATIENT-0 .
+the AGENT-0 is nicknamed PATIENT-1 and was developed by the PATIENT-0 .
+the AGENT-0 is nicknamed BRIDGE-0 , which belongs to the division of PATIENT-0s .
+PATIENT-0 is the tenant of the AGENT-0 .
+PATIENT-0 is the tenant of the AGENT-0 .
+AGENT-0 is operated by the BRIDGE-0 which has PATIENT-0 as a key person .
+the BRIDGE-0 , headquartered in PATIENT-0 , is the tenant of the AGENT-0 .
+PATIENT-0 is the leader of BRIDGE-0 where the AGENT-0 is located .
+PATIENT-0 is the parent company of BRIDGE-0 who publish the AGENT-0 .
+AGENT-0 is operated by BRIDGE-0 which is owned by PATIENT-0 .
+PATIENT-0 is the leader of BRIDGE-0 where the AGENT-0 is located .
+AGENT-0 was born in PATIENT-1 and served as a PATIENT-2 . he won the PATIENT-0 .
+AGENT-0 , who was born in PATIENT-2 , attended the PATIENT-0 and is operated by PATIENT-1 .
+born in PATIENT-1 , BRIDGE-0 is the location of the AGENT-0 .
+AGENT-0 was born in PATIENT-1 and is operated by PATIENT-2 .
+AGENT-0 was born in PATIENT-0 and graduated from massachusetts institute of technology in 1963 . he was a PATIENT-2 and a PATIENT-2 .
+AGENT-0 , which is affiliated with the PATIENT-1 , was given the 'technical campus ' status by PATIENT-0 .
+AGENT-0 , which is affiliated with the PATIENT-1 , was given the 'technical campus ' status by PATIENT-0 .
+AGENT-0 , a us national , was born in PATIENT-0 and served as a PATIENT-1 . he was born in PATIENT-2 .
+AGENT-0 was born in PATIENT-1 and is operated by PATIENT-2 .
+AGENT-0 was involved in battles at the PATIENT-0 and the commander PATIENT-1 .
+AGENT-0 , a us national , was born in PATIENT-2 and is a us national .
+AGENT-0 , PATIENT-1 , was involved in the invasion of panama and the commander PATIENT-0 .
+AGENT-0 was born in PATIENT-1 and graduated from afit , m.s . in 1962 and has a hub of PATIENT-0 .
+AGENT-0 , born in PATIENT-0 , was involved in the invasion of panama .
+AGENT-0 was involved in battles at the PATIENT-0 and the commander PATIENT-1 .
+AGENT-0 , a us national , was born in PATIENT-0 and served as a PATIENT-1 . he was born in PATIENT-2 .
+AGENT-0 , a us national , was born in PATIENT-0 and served as a PATIENT-1 . he was born in PATIENT-2 .
+AGENT-0 was published in the BRIDGE-0 , where PATIENT-1 is the president .
+AGENT-0 , a us national , was born in BRIDGE-0 , where the leader is PATIENT-0 .
+AGENT-0 is a us national whose leader is PATIENT-0 .
+AGENT-0 , who was born in PATIENT-1 , graduated from afit , m.s . in 1962 and served as a PATIENT-0 .
+the us AGENT-0 was started in PATIENT-1 and was involved in battles at the PATIENT-0 .
+the us AGENT-0 was started in PATIENT-1 and was involved in battles at the PATIENT-0 .
+AGENT-0 was born on PATIENT-1 and died in PATIENT-0 .
+the AGENT-0 belongs to the category of PATIENT-1 and was born in PATIENT-0 .
+AGENT-0 died in BRIDGE-0 he died in st louis .
+AGENT-0 was born in PATIENT-2 and died in PATIENT-0 .
+AGENT-0 was born in PATIENT-2 and died in PATIENT-0 .
+AGENT-0 died in BRIDGE-0 where the leader is PATIENT-1 and the PATIENT-0 is the governing body .
+PATIENT-1 is the nickname of AGENT-0 , who was born in PATIENT-2 .
+AGENT-0 was born in PATIENT-2 and died in PATIENT-0 .
+AGENT-0 , born in PATIENT-1 , is the nickname of PATIENT-0 and was born in PATIENT-1 .
+AGENT-0 , born in PATIENT-1 , is the nickname of PATIENT-0 and was born in PATIENT-1 .
+the PATIENT-1 is the operating organisation of AGENT-0 , which is owned by the PATIENT-2 .
+AGENT-0 was designed by PATIENT-0 and is found in BRIDGE-0 where the largest city is PATIENT-1 .
+AGENT-0 was born on BRIDGE-0 , whose leader is PATIENT-1 .
+AGENT-0 is in PATIENT-1 and the leader is PATIENT-1 .
+PATIENT-0 was the commander of AGENT-0 , who was born in PATIENT-1 .
+AGENT-0 was a student at the BRIDGE-1 , which was commanded by the PATIENT-1 . PATIENT-0 was the commander of BRIDGE-0 .
+AGENT-0 died in BRIDGE-0 where the leader is PATIENT-0 .
+AGENT-0 died in BRIDGE-0 where the leader is PATIENT-0 .
+AGENT-0 died in st louis in BRIDGE-0 . PATIENT-0 is the leader of BRIDGE-0 .
+AGENT-0 was a student at the BRIDGE-0 , which was commanded by PATIENT-0 and PATIENT-2 .
+AGENT-0 is a us national , who was born in PATIENT-1 .
+AGENT-0 is a us national where the PATIENT-1 are an ethnic group .
+the AGENT-0 is situated in the PATIENT-1 and its nickname is PATIENT-1 . it is developed by the PATIENT-0 .
+the AGENT-0 is situated in the PATIENT-1 and its nickname is PATIENT-1 . it is developed by the PATIENT-0 .
+the AGENT-0 , or admin . sci . q , is voiced by PATIENT-2 .
+AGENT-0 , which is owned by the PATIENT-2 , was developed by the PATIENT-0 .
+the AGENT-0 is situated in the PATIENT-1 and its nickname is PATIENT-1 . it is developed by the PATIENT-0 .
+the AGENT-0 , known as PATIENT-1 , was designed by PATIENT-1 and is located in PATIENT-0 .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 .
+BRIDGE-0 is the nickname of AGENT-0 and his alma mater is PATIENT-1 .
+PATIENT-0 is the tenant of the AGENT-0 in PATIENT-1 .
+AGENT-0 is in PATIENT-1 and died in st louis .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 .
+the AGENT-0 is affiliated with the PATIENT-2 and was developed by the PATIENT-0 .
+BRIDGE-0 , born in PATIENT-0 , is the nickname of AGENT-0 .
+the AGENT-0 , known as PATIENT-1 , is located at PATIENT-0 and its full name is PATIENT-1 .
+the AGENT-0 is affiliated with the PATIENT-1 and its nickname is PATIENT-1 .
+the AGENT-0 , known as PATIENT-1 , was designed by PATIENT-1 and is located in PATIENT-0 .
+the nickname of the AGENT-0 is `` PATIENT-2 '' and it is nicknamed PATIENT-0 .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 .
+the AGENT-0 is situated in PATIENT-2 and its nickname is PATIENT-0 . it is owned by PATIENT-1 .
+the AGENT-0 is affiliated with the PATIENT-2 and was developed by the PATIENT-0 .
+the AGENT-0 , which has the area name of PATIENT-2 , is located at PATIENT-0 .
+the AGENT-0 is affiliated with the PATIENT-1 and its nickname is PATIENT-1 .
+the AGENT-0 is affiliated with the PATIENT-1 and its nickname is PATIENT-1 .
+the BRIDGE-0 , which is located in PATIENT-1 , is the address of AGENT-0 , which is located in the PATIENT-1 .
+the nickname of AGENT-0 is PATIENT-2 and it is nicknamed PATIENT-0 .
+the PATIENT-0 is the nickname of the AGENT-0 which has the nickname `` PATIENT-2 '' .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-0 and is PATIENT-2 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-0 and is PATIENT-2 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-0 and is PATIENT-2 .
+PATIENT-0 and PATIENT-1 are the nickname of the AGENT-0 .
+PATIENT-0 and PATIENT-1 are the nickname of the AGENT-0 .
+AGENT-0 , which is broadcast by the PATIENT-1 , was shown on the PATIENT-0 on PATIENT-2 .
+the AGENT-0 , which is owned by the PATIENT-2 , is located at PATIENT-2 and was developed by the PATIENT-0 .
+PATIENT-0 is the tenant of the BRIDGE-0 , which is the publisher of AGENT-0 .
+AGENT-0 was born in PATIENT-0 and was born in BRIDGE-0 where PATIENT-1 is the leader .
+the AGENT-0 , which is owned by the PATIENT-1 , was founded in PATIENT-0 .
+PATIENT-0 is the tenant of the BRIDGE-0 , which is the publisher of AGENT-0 .
+PATIENT-0 is the tenant of the BRIDGE-0 , which is the publisher of AGENT-0 .
+PATIENT-0 born AGENT-0 was born in PATIENT-0 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-0 and is PATIENT-2 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-0 and is PATIENT-2 .
+the AGENT-0 , which is owned by the PATIENT-2 , is broadcast by the PATIENT-2 . it is owned by the PATIENT-2 .
+PATIENT-0 is the tenant of the BRIDGE-0 , which is the publisher of AGENT-0 .
+AGENT-0 was born in PATIENT-1 and died in PATIENT-2 .
+AGENT-0 was born in PATIENT-1 and died in PATIENT-0 .
+AGENT-0 was born in PATIENT-2 and died in PATIENT-0 .
+AGENT-0 was born in BRIDGE-0 , whose leader is PATIENT-1 and he died in PATIENT-0 .
+AGENT-0 died in st louis where the leader is PATIENT-1 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-0 and is PATIENT-2 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-0 and is PATIENT-2 .
+PATIENT-0 is the tenant of the AGENT-0 which is owned by PATIENT-1 .
+PATIENT-0 is the tenant of the AGENT-0 which is owned by PATIENT-1 .
+AGENT-0 is a PATIENT-1 citizen born in PATIENT-0 .
+AGENT-0 was born in PATIENT-1 and is now PATIENT-0 .
+the BRIDGE-0 , headquartered in PATIENT-1 , is the publisher of AGENT-0 and its nickname is PATIENT-1 .
+the AGENT-0 , which is owned by the PATIENT-2 , is broadcast by the PATIENT-2 . it is owned by the PATIENT-2 .
+PATIENT-0 is the tenant of the AGENT-0 which is located in the PATIENT-1 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-0 and is PATIENT-2 .
+the AGENT-0 , which is owned by the PATIENT-2 , is broadcast by the PATIENT-2 . it is owned by the PATIENT-2 .
+PATIENT-0 is the tenant of the AGENT-0 which is nicknamed PATIENT-1 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-0 and is PATIENT-2 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-0 and is PATIENT-2 .
+the BRIDGE-0 is the location of the AGENT-0 which is owned by the BRIDGE-0 in PATIENT-1 .
+the AGENT-0 , which is owned by PATIENT-2 , is owned by the PATIENT-2 . it is owned by the PATIENT-2 .
+PATIENT-0 is the tenant of the AGENT-0 which is owned by PATIENT-1 .
+AGENT-0 was born in PATIENT-1 and was born in BRIDGE-0 where the PATIENT-0 are an ethnic group .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 .
+the AGENT-0 , which has a runway length of PATIENT-1 , is located at PATIENT-2 .
+PATIENT-1 is the nickname of AGENT-0 , which has a runway length of PATIENT-2 .
+AGENT-0 is owned by the BRIDGE-0 which is located in PATIENT-0 and owned by the BRIDGE-0 .
+AGENT-0 , which was begun in PATIENT-1 , was built in PATIENT-0 and has a runway length of PATIENT-2 .
+the PATIENT-0 is the nickname of the AGENT-0 , which has a runway length of PATIENT-2 .
+the PATIENT-0 is the nickname of the AGENT-0 , which has a runway length of PATIENT-2 .
+BRIDGE-0 , founded in washington , d.c. , is the nickname of AGENT-0 .
+AGENT-0 is from the BRIDGE-0 , where PATIENT-0 are one of the ethnic groups .
+AGENT-0 is from the BRIDGE-0 where PATIENT-0 are an ethnic group and the capital is washington d.c .
+the PATIENT-1 is the nickname of the AGENT-0 , which is nicknamed PATIENT-1 and has PATIENT-2 members .
+the AGENT-0 is owned by the PATIENT-2 and was built in PATIENT-0 .
+the AGENT-0 is affiliated with the PATIENT-2 and its motto is PATIENT-1 .
+the AGENT-0 is situated in the PATIENT-1 and its nickname is PATIENT-1 . it is developed by the PATIENT-0 .
+PATIENT-1 is the capital of BRIDGE-0 where the AGENT-0 is located .
+PATIENT-1 is the capital of BRIDGE-0 where the AGENT-0 is located .
+the nickname of AGENT-0 is PATIENT-1 and the nickname is PATIENT-1 .
+the nickname of AGENT-0 is PATIENT-1 and the nickname is PATIENT-1 .
+the PATIENT-0 is the nickname of the AGENT-0 , which has a runway length of PATIENT-1 .
+PATIENT-1 is the tenant of the AGENT-0 which has PATIENT-2 as its nickname .
+BRIDGE-0 , founded in washington , d.c. , is the nickname of the AGENT-0 .
+PATIENT-1 is a key person at BRIDGE-0 , which is the nickname of AGENT-0 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 and its nickname is BRIDGE-0 .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 .
+the BRIDGE-0 , headquartered in PATIENT-1 , is the nickname of AGENT-0 and its nickname is PATIENT-0 .
+the PATIENT-1 is the nickname of the AGENT-0 which has PATIENT-0 as its nickname and PATIENT-1 as its nickname .
+the PATIENT-1 is the nickname of the AGENT-0 which has PATIENT-0 as its nickname and PATIENT-1 as its nickname .
+the AGENT-0 is located in the city of PATIENT-2 , PATIENT-0 . it is owned by the PATIENT-2 .
+AGENT-0 is from the BRIDGE-0 where the leader is called the president and PATIENT-0 are one of the ethnic groups .
+the ac hotel bella sky in PATIENT-2 , PATIENT-1 was developed by the PATIENT-0 .
+the AGENT-0 is affiliated with the PATIENT-2 and its motto is PATIENT-1 .
+AGENT-0 contain PATIENT-0 of protein , PATIENT-2 and 18 grams of carbs .
+AGENT-0 is located in BRIDGE-0 , PATIENT-1 and was founded in PATIENT-0 .
+the AGENT-0 is owned by the college of william and mary and is owned by the college of william and mary .
+AGENT-0 is owned by the BRIDGE-0 , which is located in PATIENT-0 .
+the BRIDGE-0 , which is located in PATIENT-1 , is the tenant of the AGENT-0 , which is located in the PATIENT-1 .
+the BRIDGE-1 is located in PATIENT-0 and is the location of the AGENT-0 which has the headquarters of BRIDGE-1 .
+the BRIDGE-0 is located in PATIENT-0 and is the location of the AGENT-0 which is owned by the BRIDGE-1 .
+the BRIDGE-0 is located in PATIENT-0 , PATIENT-1 and is the location of the AGENT-0 .
+AGENT-0 is from the BRIDGE-0 where the people are known as PATIENT-0 and the PATIENT-1 are an ethnic group .
+jorge humberto rodriguez is attached to the club cd aguila and plays for PATIENT-1 .
+peter stoger is the manager of fc kolin and plays for both PATIENT-0 and PATIENT-1 .
+AGENT-0 played for PATIENT-2 and is attached to the club PATIENT-2 .
+AGENT-0 played for PATIENT-2 and is attached to the club PATIENT-2 .
+AGENT-0 was born in PATIENT-1 and is a member of the PATIENT-0 soccer club .
+AGENT-0 is in the PATIENT-0 club and plays for PATIENT-1 .
+AGENT-0 , which is owned by PATIENT-2 , was involved in the PATIENT-0 and owned by the PATIENT-1 .
+AGENT-0 , which is owned by PATIENT-2 , was involved in the PATIENT-0 and owned by the PATIENT-1 .
+AGENT-0 was born on PATIENT-1 and was designed by the PATIENT-0 .
+AGENT-0 was born in PATIENT-0 and plays for both PATIENT-2 and PATIENT-2 .
+AGENT-0 is in the PATIENT-0 club and plays for PATIENT-1 .
+AGENT-0 was born on PATIENT-1 and is a member of the PATIENT-0 club .
+the manager of AGENT-0 is BRIDGE-0 who plays for PATIENT-0 and is in the PATIENT-1 club .
+AGENT-0 , born in PATIENT-2 , was born in PATIENT-2 and plays for PATIENT-0 .
+AGENT-0 was born on PATIENT-1 and was designed by the PATIENT-0 .
+AGENT-0 was born in PATIENT-1 and died in BRIDGE-0 . PATIENT-0 is the leader of BRIDGE-0 .
+AGENT-0 ( born on 1932-03-15 ) was born on the 17th of october 1933 in PATIENT-0 .
+AGENT-0 ( born on 1932-03-15 ) was born on the 17th of october 1933 in PATIENT-0 .
+AGENT-0 is in the PATIENT-0 club and plays for PATIENT-1 .
+AGENT-0 is in the PATIENT-0 club and plays for PATIENT-1 .
+peter stoger is the manager of fc kolin and plays for both PATIENT-0 and PATIENT-1 .
+peter stoger is the manager of fc kolin and plays for both PATIENT-0 and PATIENT-1 .
+AGENT-0 plays for PATIENT-0 and PATIENT-1 .
+AGENT-0 , born in PATIENT-2 , was born in PATIENT-2 and plays for PATIENT-0 .
+AGENT-0 has a height of 28 metres and was born in PATIENT-0 .
+AGENT-0 , who was born in PATIENT-2 , has a height of 121.92 metres and was born in PATIENT-2 .
+AGENT-0 play in the BRIDGE-0 league which is owned by PATIENT-1 .
+AGENT-0 play in the BRIDGE-0 league which is owned by PATIENT-1 .
+the ground of aek athens fc is peter stoger who plays for both PATIENT-0 and PATIENT-2 .
+AGENT-0 are managed by BRIDGE-0 who plays for PATIENT-0 and PATIENT-1 .
+AGENT-0 played in the BRIDGE-0 , a player in PATIENT-0 and PATIENT-1 .
+BRIDGE-0 is the manager of AGENT-0 and plays for both PATIENT-0 and PATIENT-1 .
+AGENT-0 was born in BRIDGE-0 and died in PATIENT-1 .
+BRIDGE-0 is the manager of AGENT-0 and plays for both PATIENT-0 and PATIENT-2 .
+BRIDGE-0 is the manager of AGENT-0 and plays for both PATIENT-0 and PATIENT-1 .
+AGENT-0 was born in BRIDGE-0 , PATIENT-0 where the leader is PATIENT-1 .
+the BRIDGE-0 , located in the city of PATIENT-0 , is the current tenant of alan b miller hall .
+the ground of aek athens fc is peter stoger who plays for both PATIENT-0 and PATIENT-2 .
+peter stoger is in the sk vorwarts steyr club and is manager of 1 . fc köln and plays for both PATIENT-2 and PATIENT-2 .
+the manager of 1 . fc koln is peter stoger who plays for both PATIENT-0 and PATIENT-2 .
+peter stoger is the manager of fc kolin and plays for both PATIENT-0 and PATIENT-2 .
+the manager of 1 . fc koln is peter stoger who plays for both PATIENT-0 and PATIENT-2 .
+AGENT-0 was born in PATIENT-0 on PATIENT-1 . he was a student at the PATIENT-2 .
+the AGENT-0 is nicknamed st. vincent-st. mary high school which is located in the city of PATIENT-1 , in the city of PATIENT-1 .
+AGENT-0 was born on PATIENT-1 in PATIENT-3 and was a student at the PATIENT-0 .
+AGENT-0 was born in PATIENT-3 on the 23rd of july 1927 . he died in PATIENT-0 .
+AGENT-0 was born on PATIENT-2 in PATIENT-3 and is affiliated with the PATIENT-1 .
+peter stoger is the ground of fc kolin and plays for both PATIENT-0 and PATIENT-2 .
+BRIDGE-0 has been the manager of a c cesena and plays for both PATIENT-0 and PATIENT-1 .
+BRIDGE-0 has been the manager of a c cesena and plays for both PATIENT-0 and PATIENT-1 .
+AGENT-0 was born in PATIENT-1 on PATIENT-1 and is a member of the PATIENT-0 club .
+AGENT-0 was born in PATIENT-1 on PATIENT-1 and is a member of the PATIENT-0 club .
+AGENT-0 was born on nov 18 , 1923 in PATIENT-1 . he has a height of 28 metres and plays for PATIENT-2 .
+AGENT-0 was born in PATIENT-1 on PATIENT-1 and is a member of the PATIENT-0 club .
+AGENT-0 was born in PATIENT-1 and is a member of the PATIENT-0 club and has a height of 28 metres .
+AGENT-0 was born in PATIENT-2 on the 18th of november 1923 in PATIENT-2 . he has represented the club PATIENT-0 .
+AGENT-0 was born in PATIENT-3 and has a height of 28 metres . he is located at PATIENT-0 and was born in PATIENT-3 .
+AGENT-0 was born in BRIDGE-0 where the national anthem is the PATIENT-0 . PATIENT-1 is the leader of BRIDGE-0 and the national anthem is PATIENT-1 .
+AGENT-0 was born in BRIDGE-0 , where the anthem is known as the PATIENT-0 and the national anthem is PATIENT-1 .
+AGENT-0 was born in BRIDGE-0 where the national anthem is the PATIENT-0 . the leader of BRIDGE-0 is PATIENT-1 .
+peter stoger is the ground of fc kolin and plays for both PATIENT-0 and PATIENT-2 .
+BRIDGE-0 has been manager of ac lumezzane . he also plays for PATIENT-0 and PATIENT-1 .
+the BRIDGE-0 , which is located in PATIENT-0 , is the location of the AGENT-0 which is affiliated with the BRIDGE-0 in PATIENT-2 .
+AGENT-0 are managed by PATIENT-1 and play in the BRIDGE-0 league in PATIENT-0 .
+PATIENT-2 is the nickname of the AGENT-0 which is nicknamed PATIENT-2 and has PATIENT-3 as its nickname .
+PATIENT-2 is the nickname of the AGENT-0 which is affiliated with the PATIENT-1 and has PATIENT-3 as its nickname .
+the AGENT-0 is affiliated with the PATIENT-2 and its rector is PATIENT-1 . it is affiliated with the PATIENT-2 and its rector is PATIENT-0 .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 and has PATIENT-3 as its nickname .
+the AGENT-0 , full name `` PATIENT-2 '' , was developed by the PATIENT-0 and is located in the PATIENT-1 .
+BRIDGE-0 , born in PATIENT-0 , is the nickname of AGENT-0 . his alma mater is PATIENT-1 and his doctoral advisor was PATIENT-2 .
+BRIDGE-0 ( born in PATIENT-1 ) is the nickname of AGENT-0 . his alma mater is PATIENT-2 and his alma mater is PATIENT-2 .
+AGENT-0 is in PATIENT-1 and attended the BRIDGE-0 . his alma mater is PATIENT-2 and his doctoral advisor was PATIENT-0 .
+AGENT-0 is from the BRIDGE-0 , which is affiliated with PATIENT-0 , and died in PATIENT-2 .
+the PATIENT-2 is the nickname of AGENT-0 , which is affiliated with the PATIENT-0 and competes in the PATIENT-1 .
+AGENT-0 is in the PATIENT-0 . the BRIDGE-0 died in the state of PATIENT-2 .
+BRIDGE-0 , born in PATIENT-2 , is the nickname of AGENT-0 which is affiliated with the PATIENT-1 .
+PATIENT-1 born BRIDGE-0 was born in PATIENT-1 and is the nickname of AGENT-0 .
+the AGENT-0 , known as the PATIENT-1 , was designed by PATIENT-3 and is located in PATIENT-0 .
+AGENT-0 , whose nickname is PATIENT-1 , was developed by the PATIENT-0 and its nickname is PATIENT-1 .
+PATIENT-2 is the nickname of the AGENT-0 which has its nickname in PATIENT-1 and is affiliated with the PATIENT-1 .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 and has PATIENT-3 as its nickname .
+the AGENT-0 , known as the PATIENT-1 , was designed by PATIENT-3 and is located in PATIENT-0 .
+PATIENT-2 is the nickname of the AGENT-0 which is affiliated with the PATIENT-1 and has PATIENT-3 as its nickname .
+the AGENT-0 , known as the PATIENT-1 , was designed by PATIENT-3 and is located in PATIENT-0 .
+AGENT-0 , whose nickname is PATIENT-1 , was developed by the PATIENT-0 and its nickname is PATIENT-1 .
+PATIENT-2 is the nickname of the AGENT-0 which has the nickname of PATIENT-1 and the nickname of the PATIENT-1 .
+PATIENT-0 is the tenant of the BRIDGE-0 , which is affiliated with the PATIENT-1 and is the nickname of AGENT-0 .
+the college of william and mary is the owner of the AGENT-0 which is owned by the BRIDGE-0 which is located in PATIENT-0 .
+AGENT-0 is owned by the PATIENT-0 and owned by the PATIENT-2 . it is owned by the PATIENT-3 and is owned by the PATIENT-3 .
+the AGENT-0 , which is owned by the PATIENT-0 , was inaugurated on PATIENT-1 and is owned by the PATIENT-2 .
+the PATIENT-0 is the nickname of the AGENT-0 , which was started in PATIENT-3 and owned by the PATIENT-2 .
+the AGENT-0 is located in PATIENT-1 and is developed by the BRIDGE-0 which was founded in PATIENT-2 .
+the AGENT-0 , which is owned by the PATIENT-0 , was inaugurated on PATIENT-1 and is owned by the PATIENT-2 .
+the AGENT-0 , which was built in PATIENT-2 , has PATIENT-1 rooms and was completed in PATIENT-2 .
+the AGENT-0 , known as PATIENT-3 , was created by PATIENT-3 and is located in the PATIENT-2 . the PATIENT-0 is the governing body of the AGENT-0 .
+the AGENT-0 ( also known as PATIENT-0 ) is located in PATIENT-2 and its designers include PATIENT-3 and PATIENT-2 .
+the PATIENT-0 is the nickname of the AGENT-0 which is voiced by PATIENT-1 and is voiced by PATIENT-1 .
+AGENT-0 , which is owned by the PATIENT-1 , was developed by the PATIENT-0 and has the nickname PATIENT-1 .
+the AGENT-0 , nicknamed PATIENT-2 , has PATIENT-2 as its nickname and is nicknamed PATIENT-2 .
+the AGENT-0 is located in PATIENT-2 . BRIDGE-0 's leader is PATIENT-1 and its people are called PATIENT-0s .
+the AGENT-0 , which is affiliated with the PATIENT-2 , was developed by the PATIENT-0 and has PATIENT-1 floors .
+AGENT-0 contain PATIENT-0 of protein , PATIENT-3 and 18 grams of carbs .
+PATIENT-0 is the nickname of AGENT-0 which has the nickname of PATIENT-1 and PATIENT-2 .
+AGENT-0 , which is owned by the PATIENT-2 , has a runway length of PATIENT-1 and is located at PATIENT-3 .
+BRIDGE-0 , founded in PATIENT-0 , is the nickname of the AGENT-0 which is owned by the PATIENT-1 .
+BRIDGE-0 , founded in PATIENT-0 , is the nickname of the AGENT-0 which is owned by the PATIENT-1 .
+PATIENT-2 is a key person at BRIDGE-0 which is located in PATIENT-1 and is the location of the AGENT-0 which is owned by the PATIENT-0 .
+the AGENT-0 ( nicknamed PATIENT-1 ) , is affiliated with the PATIENT-0 and its nickname is PATIENT-1 .
+AGENT-0 , which is owned by PATIENT-1 , was developed by the PATIENT-0 and has a runway length of PATIENT-2 .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 and has PATIENT-3 as its nickname .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 and has PATIENT-3 as its nickname .
+AGENT-0 is located in BRIDGE-0 , where the capital is PATIENT-0 and the leader is PATIENT-1 .
+AGENT-0 's nickname is `` PATIENT-2 '' . it 's nickname is PATIENT-1 and its nickname is PATIENT-1 .
+the nickname of AGENT-0 is PATIENT-1 . it 's nickname is BRIDGE-0 , whose nickname is alvinegro .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 and has PATIENT-3 as its nickname .
+AGENT-0 , which is voiced by the PATIENT-2 , belongs to the division of PATIENT-0s and its nickname is PATIENT-2 .
+BRIDGE-0 , which was founded in PATIENT-0 , is the nickname of AGENT-0 and its tenant is PATIENT-1 .
+the BRIDGE-0 , founded in washington , d.c. , is the owner of AGENT-0 , which is owned by robert a m stern .
+the AGENT-0 , owned by the BRIDGE-0 , is owned by PATIENT-1 . it is owned by the BRIDGE-0 which is located in PATIENT-0 .
+PATIENT-0 is the tenant of the AGENT-0 , which is owned by the BRIDGE-0 which is located in the PATIENT-1 .
+the BRIDGE-0 , headquartered in PATIENT-1 , is the location of the AGENT-0 which is owned by the BRIDGE-0 which is headquartered in PATIENT-0 .
+the AGENT-0 is in the class of PATIENT-2 . it is governed by the PATIENT-0 and its motto is PATIENT-1 .
+the AGENT-0 , nickname PATIENT-1 , is affiliated with the PATIENT-2 and belongs to the division of PATIENT-0s .
+the AGENT-0 , owned by PATIENT-1 , is located in PATIENT-2 , BRIDGE-0 . the parent company of BRIDGE-0 is PATIENT-0 .
+the AGENT-0 is located in BRIDGE-1 , BRIDGE-0 . the leader of BRIDGE-0 is PATIENT-0 and the country 's leader is lars lokke rasmussen .
+AGENT-0 is from the BRIDGE-0 where the capital city is washington dc and the leader is PATIENT-0 . PATIENT-2 are one of the ethnic groups there .
+AGENT-0 is from the BRIDGE-0 where the capital is washington d.c. and PATIENT-0 is the capital . PATIENT-2 are one ethnic group there .
+PATIENT-1 is the tenant of the AGENT-0 which is owned by the BRIDGE-0 which was founded by PATIENT-0 .
+the AGENT-0 is nicknamed asa gigante . it 's nickname is PATIENT-2 and its nickname is PATIENT-0 .
+the AGENT-0 , which is owned by the PATIENT-1 , is broadcast by the PATIENT-1 and was founded in PATIENT-0 .
+the address of AGENT-0 is PATIENT-1 and it was completed in PATIENT-3 . it is owned by the PATIENT-1 and its nickname is PATIENT-0 .
+AGENT-0 , whose nickname is PATIENT-1 , is located at BRIDGE-0 , which is owned by PATIENT-0 .
+AGENT-0 , PATIENT-1 , was born in PATIENT-2 on the 15th of march 1932 .
+AGENT-0 , PATIENT-1 , was born in PATIENT-2 on the 15th of march 1932 .
+AGENT-0 , PATIENT-1 , was born in PATIENT-3 , and served as a PATIENT-2 .
+AGENT-0 , PATIENT-1 , was born in PATIENT-3 , and served as a PATIENT-2 .
+PATIENT-2 is the nickname of the AGENT-0 which has the nickname of `` PATIENT-1 '' and is nicknamed PATIENT-2 .
+AGENT-0 is edited by the BRIDGE-0 which is based in PATIENT-0 . the BRIDGE-1 has an ethnic group called PATIENT-1 .
+the BRIDGE-0 , which is affiliated with the PATIENT-2 , is the location of the AGENT-0 . it is owned by the BRIDGE-0 which is based in PATIENT-2 .
+the PATIENT-1 are an ethnic group in BRIDGE-1 which is the birthplace of AGENT-0 , who was born in BRIDGE-1 .
+AGENT-0 , a us national , was born in PATIENT-2 and is now PATIENT-1 .
+AGENT-0 was born in PATIENT-3 and is voiced by PATIENT-1 . they have the nickname PATIENT-0 and was born in PATIENT-3 .
+the AGENT-0 , which is affiliated with the PATIENT-2 , was founded by PATIENT-0 and is located in PATIENT-3 . it is owned by the PATIENT-2 .
+the AGENT-0 , which is affiliated with the PATIENT-2 , was founded by PATIENT-0 and is located in PATIENT-3 . it is owned by the PATIENT-2 .
+AGENT-0 was born in PATIENT-2 and died in PATIENT-0 . he was born in PATIENT-2 and died in PATIENT-0 .
+AGENT-0 died in BRIDGE-0 where the people are known as PATIENT-0 and the leader is PATIENT-1 .
+PATIENT-2 is the birthplace of AGENT-0 , which was born in PATIENT-1 and is affiliated with the PATIENT-0 .
+the address of AGENT-0 is PATIENT-1 and it was completed in PATIENT-3 . it is owned by the PATIENT-1 and its nickname is PATIENT-0 .
+the address of AGENT-0 is PATIENT-1 and it was completed in PATIENT-3 . it is owned by the PATIENT-1 and its nickname is PATIENT-0 .
+the college of william and mary is the nickname of the AGENT-0 which is owned by the BRIDGE-0 in PATIENT-1 .
+the college of william and mary is the nickname of the AGENT-0 which is owned by the BRIDGE-0 in PATIENT-1 .
+AGENT-0 , a us national , was born in PATIENT-2 and is now PATIENT-1 .
+AGENT-0 was born in PATIENT-2 and served as a PATIENT-3 . he was born in PATIENT-2 and is now PATIENT-0 .
+the AGENT-0 , which is owned by PATIENT-2 , is owned by the BRIDGE-0 which is headquartered in PATIENT-1 and is located in PATIENT-0 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded by PATIENT-0 and is located in PATIENT-2 . it is owned by the PATIENT-1 .
+the PATIENT-0 is the nickname of the AGENT-0 which is owned by PATIENT-2 and owned by the PATIENT-2 .
+AGENT-0 was born in PATIENT-2 and served as a PATIENT-1 . he was born in PATIENT-2 and is now PATIENT-0 .
+the tenant of the AGENT-0 is BRIDGE-0 which is headquartered in PATIENT-0 and PATIENT-2 .
+the address of AGENT-0 is PATIENT-1 and it was completed in PATIENT-3 . it is owned by the PATIENT-1 and its nickname is PATIENT-0 .
+the AGENT-0 , which is owned by the BRIDGE-0 , is located in PATIENT-1 . it is owned by the BRIDGE-0 which has its headquarters in PATIENT-1 .
+the address of AGENT-0 is PATIENT-1 and it was completed in PATIENT-3 . it is owned by the PATIENT-1 and its nickname is PATIENT-0 .
+the AGENT-0 , which is owned by the PATIENT-2 , is broadcast by the PATIENT-2 . it was completed in PATIENT-3 and is owned by the PATIENT-2 .
+AGENT-0 died in BRIDGE-1 where the leader is PATIENT-1 . he died in BRIDGE-1 where the leader is PATIENT-1 .
+the AGENT-0 , which is owned by the PATIENT-2 , is owned by the PATIENT-2 and owned by the PATIENT-2 . it is owned by the PATIENT-2 .
+the BRIDGE-0 , headquartered in PATIENT-1 , is the location of the AGENT-0 which is owned by the BRIDGE-0 which is based in PATIENT-2 .
+AGENT-0 was born in PATIENT-1 and is part of PATIENT-0 . the leader of BRIDGE-0 is PATIENT-2 .
+the AGENT-0 , which is owned by the PATIENT-2 , is owned by the PATIENT-2 and owned by the PATIENT-2 . it is owned by the PATIENT-2 .
+BRIDGE-0 ( part of the PATIENT-0 ) , is the nickname of AGENT-0 and PATIENT-1 .
+AGENT-0 was published by PATIENT-1 in BRIDGE-0 , where the PATIENT-0 are an ethnic group .
+AGENT-0 was born in PATIENT-3 and died in PATIENT-2 . he was involved in battles at the PATIENT-0 and the PATIENT-1 .
+AGENT-0 was born in PATIENT-3 and died in PATIENT-2 . he was involved in battles at the PATIENT-0 and the PATIENT-1 .
+AGENT-0 ( born in PATIENT-2 ) went to the BRIDGE-0 which is affiliated with the PATIENT-0 . he was born in PATIENT-2 .
+AGENT-0 ( born in PATIENT-3 ) is operated by the PATIENT-0 . it is from the PATIENT-1 region .
+AGENT-0 was born in PATIENT-3 and is a resident of the PATIENT-2 . the us resides in the PATIENT-2 .
+BRIDGE-0 ( born in PATIENT-0 ) is the manager of AGENT-0 , whose manager is PATIENT-1 .
+BRIDGE-0 ( born in PATIENT-0 ) is the manager of AGENT-0 , whose manager is PATIENT-1 .
+AGENT-0 , affiliated with the BRIDGE-0 , which is headquartered in PATIENT-1 , in the PATIENT-1 , was awarded the `` PATIENT-0 '' .
+AGENT-0 , owned by the PATIENT-2 , was given the 'technical campus ' status by BRIDGE-0 which is affiliated with the PATIENT-0 .
+AGENT-0 was born in PATIENT-2 and was awarded the distinguished service medal by the us navy , which is affiliated to the PATIENT-0 .
+AGENT-0 was born in PATIENT-2 and is operated by PATIENT-3 . he was a us national who was born in PATIENT-2 .
+AGENT-0 is a us national , who was born in PATIENT-2 . the us includes many PATIENT-1 .
+AGENT-0 , who was born in PATIENT-1 , graduated from afit , m.s . in 1962 and was involved in battles at the PATIENT-0 .
+AGENT-0 , a us national , was involved in the BRIDGE-1 , where PATIENT-1 was a backup pilot .
+AGENT-0 was involved in the invasion of panama . he was involved in battles at the PATIENT-0 and the PATIENT-2 .
+AGENT-0 was born in PATIENT-1 . he was a us national who was born in PATIENT-0 . he was a PATIENT-3 and was born in PATIENT-1 .
+AGENT-0 was born in PATIENT-1 . he was a us national who was born in PATIENT-0 . he was a PATIENT-3 and was born in PATIENT-1 .
+AGENT-0 was born in PATIENT-2 and is now PATIENT-3 . he was a us national who was born in PATIENT-2 .
+AGENT-0 is from BRIDGE-0 where the currency is the PATIENT-0 and the leader is PATIENT-1 .
+AGENT-0 was born in BRIDGE-0 ( led by PATIENT-2 ) and PATIENT-1 .
+AGENT-0 is from BRIDGE-0 where the leader is PATIENT-0 and the leader is PATIENT-1 .
+AGENT-0 is a citizen of the PATIENT-0 . the leader of BRIDGE-0 is PATIENT-2 and/or PATIENT-2 .
+AGENT-0 was born in PATIENT-1 and was involved in battles at the PATIENT-0 in the invasion of panama .
+AGENT-0 was born in PATIENT-1 and was involved in battles at the PATIENT-0 in the invasion of panama .
+AGENT-0 is in the PATIENT-0 and was involved in the invasion of panama . PATIENT-1 was the founder of BRIDGE-1 .
+AGENT-0 was born in PATIENT-0 and died in PATIENT-1 .
+the PATIENT-0 is the nickname of AGENT-0 , who was started in PATIENT-3 and completed in PATIENT-1 .
+AGENT-0 was born in BRIDGE-0 where the PATIENT-0 is spoken . the BRIDGE-1 was involved in the invasion of panama and PATIENT-1 .
+AGENT-0 was born in PATIENT-1 and died in PATIENT-0 .
+AGENT-0 was born in PATIENT-3 and died in PATIENT-0 . he died in PATIENT-1 .
+AGENT-0 has died in st louis . the leader of BRIDGE-0 is PATIENT-0 and the leader is PATIENT-1 .
+AGENT-0 , a us national , was born in PATIENT-3 . he served as a PATIENT-0 and was born in PATIENT-3 .
+AGENT-0 was an american who was born in PATIENT-3 . it was created by PATIENT-1 and the american , BRIDGE-0 .
+AGENT-0 was born in PATIENT-1 and is affiliated with the PATIENT-0 . he was born in PATIENT-1 and was a us national .
+AGENT-0 was born in PATIENT-2 and is operated by the PATIENT-0 . it was created by PATIENT-1 and the PATIENT-3 .
+AGENT-0 was born in PATIENT-2 and is operated by the PATIENT-0 . it was created by PATIENT-1 and the PATIENT-3 .
+AGENT-0 was born in PATIENT-2 and is operated by the PATIENT-0 . it was created by PATIENT-1 and the PATIENT-3 .
+AGENT-0 was born in PATIENT-2 and is operated by the PATIENT-0 . it was created by PATIENT-1 and the PATIENT-3 .
+AGENT-0 is located in the PATIENT-1 , in the state of BRIDGE-0 , where the largest city is PATIENT-2 .
+AGENT-0 is from the BRIDGE-1 region where the leader is PATIENT-0 . the leader of BRIDGE-1 is PATIENT-1 .
+AGENT-0 , BRIDGE-1 , was involved in battles at the PATIENT-0 and the PATIENT-1 .
+AGENT-0 was born in BRIDGE-1 where they speak english and the PATIENT-0 is spoken .
+AGENT-0 was born in PATIENT-2 and is operated by the BRIDGE-0 , which is run by the PATIENT-0 .
+AGENT-0 , owned by the BRIDGE-1 , is owned by the college of william and mary . the BRIDGE-0 is located in PATIENT-0 and has the capital city of PATIENT-1 .
+AGENT-0 is operated by the PATIENT-0 and owned by the PATIENT-1 . it is owned by the PATIENT-1 and owned by the PATIENT-1 .
+AGENT-0 , designed by PATIENT-4 , has PATIENT-2 floors and was completed in PATIENT-3 . it has a runway length of PATIENT-1 .
+the AGENT-0 was designed by PATIENT-4 and has PATIENT-2 floors . it was designed by the architect PATIENT-4 and completed in PATIENT-0 .
+the AGENT-0 is located in BRIDGE-0 . the country 's capital is PATIENT-2 and its ethnic group is PATIENT-0 . the country 's anthem is known as the PATIENT-3 .
+the AGENT-0 ( also known as PATIENT-4 ) is located in the city of PATIENT-2 , it 's alternative name is PATIENT-0 and it is made of PATIENT-3 .
+AGENT-0 is owned by the PATIENT-1 and owned by the PATIENT-1 . it is owned by the PATIENT-1 and owned by the PATIENT-1 .
+PATIENT-3 is a key person at BRIDGE-0 which is in PATIENT-2 and is the location of the AGENT-0 . the university is owned by the BRIDGE-0 which has its headquarters in PATIENT-1 .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-4 . it is owned by the PATIENT-4 and is located in the PATIENT-1 .
+the BRIDGE-0 is located in PATIENT-1 and is the location of the AGENT-0 which is owned by the BRIDGE-1 based in PATIENT-2 .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 . it is owned by the PATIENT-1 and is nicknamed PATIENT-4 .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 . it is affiliated with the PATIENT-4 and its nickname is PATIENT-0 .
+AGENT-0 is located in PATIENT-2 and its nickname is PATIENT-0 . it is owned by PATIENT-1 and its nickname is PATIENT-1 .
+AGENT-0 is located in the city of BRIDGE-1 which is governed by the BRIDGE-1 based in PATIENT-0 .
+the nickname of the AGENT-0 is PATIENT-2 . it is affiliated with the PATIENT-2 and BRIDGE-0 ( nickname PATIENT-0 ) .
+AGENT-0 is located in the city of PATIENT-1 . it is owned by the PATIENT-1 and its rector is PATIENT-1 .
+the AGENT-0 is in BRIDGE-0 . the country 's leader is lars lokke rasmussen and the country 's leader is PATIENT-1 .
+the AGENT-0 is nicknamed PATIENT-0 . it is owned by the PATIENT-1 and its rector is PATIENT-1 . the recor is PATIENT-1 .
+PATIENT-3 was the founder of BRIDGE-0 , which is the nickname of AGENT-0 . the university was founded by PATIENT-0 and owned by PATIENT-1 .
+the AGENT-0 , which is owned by the BRIDGE-0 , was founded in washington dc and is located in PATIENT-2 . it is owned by the BRIDGE-0 which was founded in PATIENT-0 .
+the AGENT-0 is owned by the BRIDGE-1 which was founded in PATIENT-1 . it is owned by the BRIDGE-1 which was founded in PATIENT-1 .
+the BRIDGE-0 is located in PATIENT-2 and is the location of the AGENT-0 which is owned by PATIENT-0 . the monument is owned by the BRIDGE-0 which was founded in PATIENT-1 .
+the AGENT-0 is owned by PATIENT-2 and owned by the BRIDGE-0 , which is located in PATIENT-0 . the PATIENT-2 is the parent company of BRIDGE-0 .
+AGENT-0 is located in the country of BRIDGE-0 , where the leader is PATIENT-2 and the people are called BRIDGE-0ns . the country is led by PATIENT-2 and uses the PATIENT-1 .
+the AGENT-0 is located in BRIDGE-1 , BRIDGE-0 . the capital of BRIDGE-0 is PATIENT-0 and the leader is PATIENT-1 .
+the AGENT-0 is located in BRIDGE-0 , BRIDGE-0 . the leader of BRIDGE-0 is PATIENT-0 and the capital city is PATIENT-1 .
+the llocano people are an ethnic group in the BRIDGE-0 where the language spoken is english . the capital city is PATIENT-1 and the country is home to the dish AGENT-0 .
+the manager of AGENT-0 is BRIDGE-1 . he also plays for both PATIENT-0 and PATIENT-1 .
+AGENT-0 died in BRIDGE-0 where the leader is PATIENT-0 and the leader is PATIENT-2 . the manager of AGENT-0 is PATIENT-2 .
+stuart parker is a footballer for chesterfield fc and is the manager of afc BRIDGE-1 . the club is lead by PATIENT-1 and plays for PATIENT-0 .
+the tenant of the AGENT-0 is PATIENT-2 . the club is owned by PATIENT-2 and is in PATIENT-0 .
+BRIDGE-0 is the nickname of AGENT-0 and plays for both PATIENT-0 and PATIENT-3 .
+AGENT-0 are managed by PATIENT-1 and play in the BRIDGE-0 league in PATIENT-0 . they are managed by PATIENT-1 .
+PATIENT-0 is the mayor of BRIDGE-1 where the ground of AGENT-0 is located . the club is located in the town of PATIENT-1 and plays for PATIENT-2 .
+the manager of AGENT-0 is BRIDGE-1 , who is part of the club 1 . fc union berlin and is part of the club 1 . fc union berlin .
+AGENT-0 are managed by PATIENT-1 and plays for both PATIENT-0 and PATIENT-2 .
+AGENT-0 was born in PATIENT-1 and played for PATIENT-2 . he also plays for both PATIENT-2 and PATIENT-2 .
+BRIDGE-0 has been manager of ac lumezzane and plays for both PATIENT-0 and PATIENT-1 .
+BRIDGE-0 has been manager of ac lumezzane and plays for both PATIENT-0 and PATIENT-1 .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 . it is located at the PATIENT-1 and the nickname is PATIENT-0 .
+the american BRIDGE-0 is the nickname of AGENT-0 . he was edited by PATIENT-0 and the american , BRIDGE-0 .
+PATIENT-0 is the alma mater of the BRIDGE-0 . he is the location of AGENT-0 who died in PATIENT-3 .
+AGENT-0 was developed by BRIDGE-0 who died in PATIENT-0 . his alma mater is PATIENT-2 and he was born in PATIENT-1 .
+BRIDGE-0 ( born in PATIENT-2 ) is the nickname of AGENT-0 . his alma mater is PATIENT-2 and his doctoral advisor was PATIENT-0 .
+BRIDGE-0 , born in PATIENT-1 , is the nickname of AGENT-0 . his alma mater is PATIENT-2 and his alma mater is PATIENT-2 and his alma mater is PATIENT-2 .
+the american BRIDGE-0 is the nickname of AGENT-0 . he was edited by PATIENT-0 and the american , BRIDGE-0 .
+the american BRIDGE-0 is the nickname of AGENT-0 . he was edited by PATIENT-0 and the american , BRIDGE-0 .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 . it is located at PATIENT-2 and its nickname is PATIENT-0 .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 . it is located at PATIENT-2 and its nickname is PATIENT-0 .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 . it is located at the PATIENT-1 and the nickname is PATIENT-0 .
+BRIDGE-0 , born in PATIENT-2 , is the nickname of AGENT-0 . the university is located in PATIENT-2 and died in PATIENT-0 .
+the AGENT-0 , known as the PATIENT-2 , was developed by the PATIENT-4 . its nickname is PATIENT-1 and it is located at PATIENT-0 .
+PATIENT-2 is the nickname of the AGENT-0 which is owned by the PATIENT-1 . it is owned by the PATIENT-1 and is nicknamed PATIENT-4 .
+PATIENT-2 is the nickname of the AGENT-0 which has the nickname PATIENT-4 . it is located at PATIENT-2 and its nickname is PATIENT-0 .
+AGENT-0 was born on nov 18 , 1923 in PATIENT-3 . it is operated by the PATIENT-0 and the doctoral advisor for PATIENT-2 .
+AGENT-0 , who was born in PATIENT-1 , was edited by the american , BRIDGE-0 . his alma mater is PATIENT-3 and his alma mater is PATIENT-3 .
+AGENT-0 was born in BRIDGE-0 , which is owned by PATIENT-3 . he was the chief of the astronaut office in PATIENT-0 and was born in PATIENT-1 .
+PATIENT-1 was the architect of the AGENT-0 , which was started in PATIENT-1 and owned by the PATIENT-0 .
+american AGENT-0 was born in PATIENT-2 and is a PATIENT-3 national . he was born in PATIENT-2 and died in PATIENT-0 .
+AGENT-0 was an american born in PATIENT-3 . he is a us national who was born in PATIENT-3 . he has died in PATIENT-2 .
+AGENT-0 , a us national , was born in PATIENT-2 and died in PATIENT-3 .
+AGENT-0 was an american who was born in PATIENT-0 . he graduated from mit with a sc.d in 1963 . he was a PATIENT-1 and was a crew member of the PATIENT-3 operated by PATIENT-3 .
+AGENT-0 ( born in PATIENT-1 ) graduated from ut austin in 1955 with a inhabitants , and was completed in PATIENT-1 .
+AGENT-0 was born in PATIENT-2 and served as chief of the astronaut office in PATIENT-0 . he was awarded the distinguished service medal in the united states navy .
+PATIENT-1 is the leader of BRIDGE-0 where AGENT-0 is an american . he was born in BRIDGE-0 , where the leader is PATIENT-0 .
+AGENT-0 , a us national , was born in BRIDGE-0 , where PATIENT-1 is the leader . he was the american , who was born in BRIDGE-0 where PATIENT-1 is the leader .
+AGENT-0 is from BRIDGE-0 , where the leader is PATIENT-0 and the PATIENT-1 is the leader .
+AGENT-0 was born in PATIENT-0 on october 17 , 1933 . he died in PATIENT-3 on the 28th of february , 1966 .
+AGENT-0 was born in PATIENT-1 and died in PATIENT-2 . he was a PATIENT-0 and died in PATIENT-2 .
+AGENT-0 was an american who was born in PATIENT-3 . it is owned by the PATIENT-1 and its rector is PATIENT-1 .
+the PATIENT-1 is the operating organisation of AGENT-0 , which was broadcast by the architect PATIENT-2 . it was designed by the architect BRIDGE-0 who was born in PATIENT-2 .
+AGENT-0 was given the 'technical campus ' status by BRIDGE-0 which is located in PATIENT-0 . the leader of BRIDGE-1 is PATIENT-1 .
+AGENT-0 was born on march 15 , 1932 in PATIENT-3 . he was a us national who was born in PATIENT-3 on november 18 , 1923 .
+AGENT-0 was born in PATIENT-4 and died in PATIENT-0 . the airport has died in PATIENT-2 .
+AGENT-0 was born in PATIENT-4 and died in PATIENT-0 . the airport has died in PATIENT-2 .
+AGENT-0 is located in BRIDGE-0 , PATIENT-2 . the largest city in BRIDGE-0 is PATIENT-2 and the largest city is PATIENT-2 .
+AGENT-0 was born in PATIENT-1 and died in PATIENT-3 . BRIDGE-0 's largest city is PATIENT-2 and he died in PATIENT-3 .
+AGENT-0 , located in BRIDGE-1 , BRIDGE-1 was a crew member of PATIENT-0 's BRIDGE-1 . one of the ethnic groups in BRIDGE-0 is the PATIENT-1 .
+AGENT-0 , located in BRIDGE-1 , BRIDGE-1 was a crew member of the BRIDGE-2 mission which was commanded by PATIENT-0 .
+AGENT-0 was born in BRIDGE-1 where they speak the PATIENT-0 . PATIENT-1 is the leader of BRIDGE-0 .
+PATIENT-2 is the founder of BRIDGE-0 which is the nickname of AGENT-0 which is owned by the BRIDGE-0 based in PATIENT-2 .
+the AGENT-0 , which has the nickname PATIENT-4 , is affiliated with the PATIENT-4 . it is owned by the PATIENT-1 and is located in the PATIENT-0 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-4 . it is owned by the PATIENT-1 and is owned by the PATIENT-1 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-4 . it is owned by the PATIENT-1 and is owned by the PATIENT-1 .
+AGENT-0 was born on march 15 , 1932 in PATIENT-3 . it is owned by the PATIENT-1 and was broadcast by the PATIENT-0 .
+AGENT-0 was born in PATIENT-3 on november 18 , 1923 . he served as a PATIENT-2 and is nicknamed PATIENT-2 .
+AGENT-0 was born in PATIENT-3 on november 18 , 1923 . he served as a PATIENT-2 and is nicknamed PATIENT-2 .
+PATIENT-3 is the tenant of the BRIDGE-0 , which is located in PATIENT-2 . the university is the location of the AGENT-0 which is headquartered at PATIENT-0 and PATIENT-2 .
+AGENT-0 was born in PATIENT-1 and is affiliated with the BRIDGE-0 which is headquartered in PATIENT-0 . PATIENT-3 is the alma mater of the PATIENT-3 .
+AGENT-0 was founded by PATIENT-0 and was born in PATIENT-2 . it is owned by the PATIENT-1 and was built in PATIENT-2 .
+PATIENT-3 is the tenant of the AGENT-0 which is owned by the PATIENT-2 . it is owned by the PATIENT-2 and hosts concerts and events .
+AGENT-0 was born in PATIENT-2 and served as a PATIENT-0 . he was born in PATIENT-2 and served as a PATIENT-0 .
+AGENT-0 was born in PATIENT-2 and is categorised as a PATIENT-3 . he was born in PATIENT-2 and is categorised as a PATIENT-0 .
+AGENT-0 , which is owned by the PATIENT-2 , is broadcast by the PATIENT-2 . it is owned by the PATIENT-2 and was built in PATIENT-4 .
+AGENT-0 was born in PATIENT-3 and died in st louis . he was born in PATIENT-3 and died in PATIENT-0 .
+PATIENT-3 and PATIENT-3 are leaders in BRIDGE-0 where the title of the leader is PATIENT-2 . AGENT-0 died in st louis .
+AGENT-0 was born in BRIDGE-0 where the leaders are the PATIENT-2 and PATIENT-2 .
+the AGENT-0 , which is owned by the PATIENT-1 , is broadcast by the PATIENT-1 . it was built in PATIENT-4 and is owned by the PATIENT-1 .
+the PATIENT-1 is the tenant of the AGENT-0 which is owned by the BRIDGE-1 based in PATIENT-1 .
+PATIENT-3 is the tenant of the AGENT-0 which is owned by the PATIENT-2 . it is owned by BRIDGE-0 which is based in PATIENT-0 and has the nickname PATIENT-3 .
+PATIENT-3 is the tenant of the AGENT-0 which is owned by BRIDGE-0 which is in the PATIENT-0 division . PATIENT-3 is the tenant of the AGENT-0 .
+AGENT-0 is an american born in wheeler texas . he was born in PATIENT-2 and served as a PATIENT-3 . he was born in PATIENT-2 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-4 . it is owned by the college of william and mary and is owned by the PATIENT-1 .
+the AGENT-0 , which is broadcast by the PATIENT-1 , was founded in PATIENT-4 . it is owned by the college of william and mary and is owned by the PATIENT-1 .
+AGENT-0 was born in PATIENT-2 and served as a PATIENT-4 . he was born in PATIENT-2 and served as a PATIENT-4 .
+AGENT-0 was born in PATIENT-4 and is voiced by PATIENT-1 . he was born in PATIENT-4 and its nickname is PATIENT-1 .
+PATIENT-3 is the tenant of the AGENT-0 which is owned by the PATIENT-2 . it is owned by the BRIDGE-0 which is located in the city of PATIENT-1 .
+AGENT-0 was founded by PATIENT-0 in PATIENT-3 and is broadcast by the PATIENT-2 . it is owned by the PATIENT-2 .
+the address of AGENT-0 is PATIENT-1 and it was born in PATIENT-3 . it is owned by the PATIENT-1 and has the architectural style of PATIENT-0 .
+the AGENT-0 , which is affiliated with the PATIENT-2 , was founded by the BRIDGE-0 in PATIENT-0 . the university is owned by the PATIENT-1 and has the nickname PATIENT-1 .
+the AGENT-0 , which is owned by the PATIENT-2 , is broadcast by the PATIENT-2 . it is owned by the PATIENT-2 and hosts concerts and events .
+AGENT-0 was born in PATIENT-1 . it is now PATIENT-2 . BRIDGE-0 was born in PATIENT-1 and has the nickname PATIENT-0 .
+PATIENT-3 is the tenant of the AGENT-0 , which was born in PATIENT-1 . it is owned by the BRIDGE-0 which is headquartered in PATIENT-0 .
+AGENT-0 was born in BRIDGE-1 , usa . the leader of BRIDGE-1 is the PATIENT-0 and the leader of BRIDGE-1 is PATIENT-2 .
+AGENT-0 died in BRIDGE-0 . the country 's leader is PATIENT-2 and its ethnic group is the PATIENT-0 . the language spoken in BRIDGE-0 is PATIENT-2 .
+the AGENT-0 , owned by the BRIDGE-1 , is located in PATIENT-0 . it is owned by the BRIDGE-1 which is based in the PATIENT-1 .
+the BRIDGE-0 , which is located in PATIENT-0 , is the publisher of AGENT-0 which is owned by the college of william and mary . the AGENT-0 is owned by the BRIDGE-1 which is located in the PATIENT-1 .
+the PATIENT-1 is the founder of BRIDGE-0 which is the location of the AGENT-0 which is owned by the PATIENT-1 . it is owned by the PATIENT-1 .
+the BRIDGE-0 is based in the PATIENT-1 and is the location of the AGENT-0 which is owned by the college of william and mary . the university is the location of the AGENT-0 which is owned by PATIENT-0 .
+the PATIENT-1 is the founder of BRIDGE-0 which is the location of the AGENT-0 which is affiliated with the PATIENT-0 and has the nickname of PATIENT-2 .
+AGENT-0 died in BRIDGE-1 where the leader is PATIENT-1 . AGENT-0 died in st louis where the leader is PATIENT-1 .

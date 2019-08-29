@@ -1,9 +1,14 @@
+# Update (29-08-2019)
+We now provide our trained models and generated development and test set outputs for the results reported in Section 6 of the paper.
+They can be found in the experiments_reported folder.
+More documentation is available in section [Pretrained models and generated outputs](#trained_models_output) below.
+
 # Introduction
 
 This repository contains the code to reproduce the results of the
 data-to-text natural language generation (NLG) experiments reported in
 the [INLG 2018](https://inlg2018.uvt.nl/) paper
-[Sequence-to-Sequence Models for Data-to-Text Natural Language Generation: Word- vs. Character-based Processing and Output Diversity](https://aclanthology.coli.uni-saarland.de/papers/W18-6529/w18-6529).
+[Sequence-to-Sequence Models for Data-to-Text Natural Language Generation: Word- vs. Character-based Processing and Output Diversity](https://www.aclweb.org/anthology/W18-6529/).
 
 Two datastes from NLG challenges ([E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E/)
 and [WebNLG](http://webnlg.loria.fr/pages/challenge.html)) held in 2017
@@ -200,10 +205,10 @@ CIDEr: 3.6612
 # Template Experiment
 
 We generate synthetic training data based on two templates using the scripts systems/template_1.py and systems/template_2.py.
-Template~1 corresponds to [UKP-TUDA's submission to the E2E challenge](https://github.com/UKPLab/e2e-nlg-challenge-2017/blob/master/components/template-baseline.py),
+Template 1 corresponds to [UKP-TUDA's submission to the E2E challenge](https://github.com/UKPLab/e2e-nlg-challenge-2017/blob/master/components/template-baseline.py),
 where the order of describing the input information is fixed.
 Specifically, the restaurant's customer rating is always mentioned before its location.
-For Template~2, we change the the beginning of the template and switch the order of mentioning the rating and location of the restaurant.
+For Template 2, we change the the beginning of the template and switch the order of mentioning the rating and location of the restaurant.
 
 To generate the training, development and test data using the two templates, from the folder run-scripts/e2e/ raun:
 
@@ -223,4 +228,17 @@ where TEMPLATE_NUMBER is either 1, 2 or 1+2.
 The texts are generated for the 10 random test set inputs we evaluated on
 for the results discussed in Section 7 and Table 7 of the paper.
 They can be found in the file datasets/e2e/test_template_10_random_inputs.txt.
+
+
+# <a name="trained_models_output"></a>Pretrained models and generated outputs
+Pretrained models and generated outputs for the results reported in Section 6 of the paper can be found in the folder experiments_reported.
+
+We provide the models and outputs for all 10 random seeds we used for each configuration.
+Model files end in .pt and are stored with git LSF due to their size (approximately 100 MB per model), so git-lsf needs to be installed to pull these.
+
+Files for the generated outputs end with _hypotheses.txt and contain the top 5 outputs for each input for character-based models and top 15 outputs per input for word-based models in a line-by-line format.
+For example, the first 10 lines of the file experiments_reported/e2e/character_based/dev_multi_ref_5_default_bidir_adam1_hypotheses.txt correspond to the top 5 outputs for the first two development set inputs of the E2E dataset.
+For the word-based models, generated texts in _hypotheses.txt are delexicalised and _hypotheses.txt_postprocessed files additionally contain the lexicalised outputs.
+
+The E2E models and outputs are licensed as CC BY-SA 4.0, WebNLG models and outputs are licensed as CC BY-NC-SA 4.0 according to the licenses of the datasets.
 
