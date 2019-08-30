@@ -1,7 +1,7 @@
-# Update (29-08-2019)
-We now provide our trained models and generated development and test set outputs for the results reported in Section 6 of the paper.
-They can be found in the experiments_reported folder.
-More documentation is available in section [Pretrained models and generated outputs](#trained_models_output) below.
+# Models and generated texts released
+We now provide our trained models and generated development and test set outputs for the results reported in the paper.
+They can be found in the experiments_reported folder, more documentation is available in section [Pretrained models and generated outputs](#trained_models_output) below.
+
 
 # Introduction
 
@@ -233,12 +233,11 @@ They can be found in the file datasets/e2e/test_template_10_random_inputs.txt.
 # <a name="trained_models_output"></a>Pretrained models and generated outputs
 Pretrained models and generated outputs for the results reported in Section 6 of the paper can be found in the folder experiments_reported.
 
-We provide the models and outputs for all 10 random seeds we used for each configuration.
-Model files end in .pt and are stored with git LSF due to their size (approximately 100 MB per model), so git-lsf needs to be installed to pull these.
-
-Files for the generated outputs end with _hypotheses.txt and contain the top 5 outputs for each input for character-based models and top 15 outputs per input for word-based models in a line-by-line format.
+We provide the outputs and models for all 10 random seeds we used for each configuration.
+Model files end with .pt.
+Generated outputs end with _hypotheses.txt and contain the top 5/15 outputs for each input line-by-line before the outputs for the next input follow.
 For example, the first 10 lines of the file experiments_reported/e2e/character_based/dev_multi_ref_5_default_bidir_adam1_hypotheses.txt correspond to the top 5 outputs for the first two development set inputs of the E2E dataset.
-For the word-based models, generated texts in _hypotheses.txt are delexicalised and _hypotheses.txt_postprocessed files additionally contain the lexicalised outputs.
+For the word-based delexicalised models, _hypotheses.txt_postprocessed files additionally contain the lexicalised outputs.
 
 The E2E models and outputs are licensed as CC BY-SA 4.0, WebNLG models and outputs are licensed as CC BY-NC-SA 4.0 according to the licenses of the datasets.
 
